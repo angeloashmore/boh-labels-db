@@ -1,0 +1,51 @@
+{
+  "collections": [
+    {
+      "id": "d8cc7631-d0c3-46ec-af29-47aa28bc8f79",
+      "key": "Mac Mini",
+      "label_ids": [
+        "54a514b3-01f8-4d89-be1a-3aac44fbc6b8",
+        "cad6b5f0-9618-4385-acd4-222e421af918",
+        "a967aec3-0d07-41ff-8adf-8f4619d23b53"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "54a514b3-01f8-4d89-be1a-3aac44fbc6b8",
+      "key": "MGEM2LL/A",
+      "upc": 885909954766,
+      "tag_color": "009900",
+      "category": "Mac Mini",
+      "metadata": {
+        "processor": "1.4GHz",
+        "memory": "4GB",
+        "capacity": "500GB"
+      }
+    },
+    {
+      "id": "cad6b5f0-9618-4385-acd4-222e421af918",
+      "key": "MGEN2LL/A",
+      "upc": 885909955206,
+      "tag_color": "009900",
+      "category": "Mac Mini",
+      "metadata": {
+        "processor": "2.6GHz",
+        "memory": "8GB",
+        "capacity": "1TB"
+      }
+    },
+    {
+      "id": "a967aec3-0d07-41ff-8adf-8f4619d23b53",
+      "key": "MGEQ2LL/A",
+      "upc": 885909955640,
+      "tag_color": "009900",
+      "category": "Mac Mini",
+      "metadata": {
+        "processor": "2.8GHz",
+        "memory": "8GB",
+        "capacity": "1TB Fusion"
+      }
+    }
+  ]
+}

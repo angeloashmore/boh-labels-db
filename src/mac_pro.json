@@ -1,0 +1,38 @@
+{
+  "collections": [
+    {
+      "id": "7fe4b0b8-edc8-4e2a-9ba0-223e30422fb6",
+      "key": "Mac Pro",
+      "label_ids": [
+        "ed2cc7e3-7189-4765-9770-12b9287a2782",
+        "50c61fc9-e9ce-4945-824b-92c388e3c0f4"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "ed2cc7e3-7189-4765-9770-12b9287a2782",
+      "key": "ME253LL/A",
+      "upc": 885909705368,
+      "tag_color": 800000,
+      "category": "Mac Pro",
+      "metadata": {
+        "processor": "3.7GHz",
+        "memory": "12GB",
+        "capacity": "256GB"
+      }
+    },
+    {
+      "id": "50c61fc9-e9ce-4945-824b-92c388e3c0f4",
+      "key": "MD878LL/A",
+      "upc": 885909634125,
+      "tag_color": 800000,
+      "category": "Mac Pro",
+      "metadata": {
+        "processor": "3.5GHz",
+        "memory": "16GB",
+        "capacity": "256GB"
+      }
+    }
+  ]
+}

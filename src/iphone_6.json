@@ -1,0 +1,252 @@
+{
+  "collections": [
+    {
+      "id": "5c556b91-f267-4bd3-afe6-f2406251abc4",
+      "key": "iPhone 6",
+      "label_ids": [
+        "e91e6df8-2748-4af0-8044-08b1534ec712",
+        "b99368fa-e6cb-437f-b8c0-ac6466197f35",
+        "f21ac2d7-f797-456c-ac09-97c903361ef8",
+        "fd30281e-8c6e-4815-b5d5-d386f86644c9",
+        "48485466-893d-4096-a6c6-c180a06a9918",
+        "e2bd667b-6331-4f78-94a5-7d9d790677cf",
+        "03f822ce-2c23-483e-b639-68a265f2f853",
+        "e5a9be81-6de4-4e82-bccd-58831c87d0f7",
+        "2daf7b5d-4467-4166-a882-0e84e75816c8",
+        "a3f4f600-4a83-4c4d-8a84-9ca87f0727d5",
+        "41ca9e25-848b-4897-9442-5b3b5b233aa6",
+        "011f7e33-011e-44a2-8cb4-4cb4f62df380",
+        "24c3cf3c-7c37-4657-b5fc-31453a89dc9a",
+        "3883bf8e-849f-4cfc-a5bd-bafa73f32af7",
+        "48458a02-7823-403d-b059-af66e819eff8",
+        "f7445e32-028a-4a6c-b417-70b1291f77b0",
+        "9088ade9-1b88-4052-bbbe-1193af7bb31c",
+        "5384a6ca-6f5d-45f6-a972-bb7946beb1d3",
+        "5fa3705d-32b1-4f3d-92b9-b9461b45c804",
+        "6caaf153-7638-4d27-b56d-e0a90313bdfd"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "e91e6df8-2748-4af0-8044-08b1534ec712",
+      "key": "MG472LL/A",
+      "upc": 885909950249,
+      "tag_color": 333333,
+      "category": "iPhone 6 Unlocked",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "b99368fa-e6cb-437f-b8c0-ac6466197f35",
+      "key": "MG482LL/A",
+      "upc": 885909950294,
+      "tag_color": 333333,
+      "category": "iPhone 6 Unlocked",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "f21ac2d7-f797-456c-ac09-97c903361ef8",
+      "key": "MG4N2LL/A",
+      "upc": 885909950652,
+      "tag_color": "006ae5",
+      "category": "iPhone 6 AT&T",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "fd30281e-8c6e-4815-b5d5-d386f86644c9",
+      "key": "MG4P2LL/A",
+      "upc": 885909950669,
+      "tag_color": "006ae5",
+      "category": "iPhone 6 AT&T",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "48485466-893d-4096-a6c6-c180a06a9918",
+      "key": "MG5W2LL/A",
+      "upc": 885909950928,
+      "tag_color": "ff2121",
+      "category": "iPhone 6 Verizon",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "e2bd667b-6331-4f78-94a5-7d9d790677cf",
+      "key": "MG5X2LL/A",
+      "upc": 885909950935,
+      "tag_color": "ff2121",
+      "category": "iPhone 6 Verizon",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "03f822ce-2c23-483e-b639-68a265f2f853",
+      "key": "MG542LL/A",
+      "upc": 885909950744,
+      "tag_color": "ff2194",
+      "category": "iPhone 6 TMobile",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "e5a9be81-6de4-4e82-bccd-58831c87d0f7",
+      "key": "MG552LL/A",
+      "upc": 885909950751,
+      "tag_color": "ff2194",
+      "category": "iPhone 6 TMobile",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "2daf7b5d-4467-4166-a882-0e84e75816c8",
+      "key": "MG692LL/A",
+      "upc": 885909951017,
+      "tag_color": "ffbb00",
+      "category": "iPhone 6 Sprint",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "a3f4f600-4a83-4c4d-8a84-9ca87f0727d5",
+      "key": "MG6A2LL/A",
+      "upc": 885909951024,
+      "tag_color": "ffbb00",
+      "category": "iPhone 6 Sprint",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "41ca9e25-848b-4897-9442-5b3b5b233aa6",
+      "key": "MG4F2LL/A",
+      "upc": 885909950546,
+      "tag_color": 333333,
+      "category": "iPhone 6 Unlocked",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "011f7e33-011e-44a2-8cb4-4cb4f62df380",
+      "key": "MG4H2LL/A",
+      "upc": 885909950591,
+      "tag_color": 333333,
+      "category": "iPhone 6 Unlocked",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "24c3cf3c-7c37-4657-b5fc-31453a89dc9a",
+      "key": "MG4W2LL/A",
+      "upc": 885909950713,
+      "tag_color": "006ae5",
+      "category": "iPhone 6 AT&T",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "3883bf8e-849f-4cfc-a5bd-bafa73f32af7",
+      "key": "MG4X2LL/A",
+      "upc": 885909950720,
+      "tag_color": "006ae5",
+      "category": "iPhone 6 AT&T",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "48458a02-7823-403d-b059-af66e819eff8",
+      "key": "MG632LL/A",
+      "upc": 885909950980,
+      "tag_color": "ff2121",
+      "category": "iPhone 6 Verizon",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "f7445e32-028a-4a6c-b417-70b1291f77b0",
+      "key": "MG642LL/A",
+      "upc": 885909950997,
+      "tag_color": "ff2121",
+      "category": "iPhone 6 Verizon",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "9088ade9-1b88-4052-bbbe-1193af7bb31c",
+      "key": "MG5A2LL/A",
+      "upc": 885909950805,
+      "tag_color": "ff2194",
+      "category": "iPhone 6 TMobile",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "5384a6ca-6f5d-45f6-a972-bb7946beb1d3",
+      "key": "MG5C2LL/A",
+      "upc": 885909950812,
+      "tag_color": "ff2194",
+      "category": "iPhone 6 TMobile",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "5fa3705d-32b1-4f3d-92b9-b9461b45c804",
+      "key": "MG6G2LL/A",
+      "upc": 885909951079,
+      "tag_color": "ffbb00",
+      "category": "iPhone 6 Sprint",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "6caaf153-7638-4d27-b56d-e0a90313bdfd",
+      "key": "MG6H2LL/A",
+      "upc": 885909951086,
+      "tag_color": "ffbb00",
+      "category": "iPhone 6 Sprint",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    }
+  ]
+}

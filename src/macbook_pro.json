@@ -1,0 +1,25 @@
+{
+  "collections": [
+    {
+      "id": "9786c090-a2a7-4877-b229-b9af18302cd5",
+      "key": "MacBook Pro 13\"",
+      "label_ids": [
+        "9f4e4902-d423-4892-86d5-bc4534e93e80"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "9f4e4902-d423-4892-86d5-bc4534e93e80",
+      "key": "MD101LL/A",
+      "upc": 885909582969,
+      "tag_color": "ff3399",
+      "category": "MacBook Pro 13\"",
+      "metadata": {
+        "processor": "2.5GHz",
+        "memory": "4GB",
+        "capacity": "500GB"
+      }
+    }
+  ]
+}

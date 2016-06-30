@@ -1,0 +1,732 @@
+{
+  "collections": [
+    {
+      "id": "d0a14d81-2092-4679-bdbc-8c316f902bdb",
+      "key": "iPhone 6s",
+      "label_ids": [
+        "107d9672-68f2-4de3-90ed-f9d79befceb4",
+        "f002d43d-1cc5-4362-8b5e-f6ee06813b44",
+        "6ddd645b-1bc7-4c12-bfc8-64d06186b1ce",
+        "17766247-0162-42eb-b2a5-930a7ddd044c",
+        "c93dd22c-7014-48ce-8d36-2f86a524a4d3",
+        "bb0ade30-0d4d-4d35-9534-c772684c76ec",
+        "77e1aa10-26c3-47a7-9e5b-4fff679c0642",
+        "50a14d8a-f7a0-43c0-96a6-3d4f38881972",
+        "148bc4c4-3d4e-4070-b61e-5b78bcc69483",
+        "d58cfe66-6e4e-4574-8ec4-b2779604a989",
+        "b10d99bf-faeb-457c-b9b7-3093e7d8a8e5",
+        "9f67bc47-5588-45b1-89a5-d2d60c24463a",
+        "89aa5f7a-7a34-481f-bfcd-75c15ad0fe11",
+        "84d76ecb-f9dc-4436-88cb-bced46a5d873",
+        "bec9b401-8240-4d3b-9028-8f8f84bb657f",
+        "a3418c5f-2c8e-48c5-991a-4cfae1824cd5",
+        "f2b6fd06-d13a-47a9-9e3c-068a3b4cc333",
+        "e42cda7e-92d9-4746-b6c4-911d97714d0e",
+        "3c0934d6-f30b-4f5b-9c8f-fc35b251cb7b",
+        "6cb97844-ec93-468b-af20-cf5ed6ea070f",
+        "5f4b82b4-bb18-4006-9264-c1e1201aca70",
+        "aa0a14d4-3504-4089-ae46-7f725ac14ee1",
+        "d0523668-72a5-4ded-a6e6-69e85822fc3c",
+        "004fcbd5-f8df-4f7c-9e90-cab94f62ad6c",
+        "e3e53f6f-09e6-4d0a-86cb-71f9dccaa61e",
+        "09024fcc-0127-42a7-a8bc-074578c35d42",
+        "dc3c7a49-f0a0-4550-a8ed-276523f9f476",
+        "c69a3b7a-51f7-4686-b6fc-e72fd2552d72",
+        "163f88bc-d869-47d1-b392-2b70f96f8dc2",
+        "c0d186c6-6248-4bdb-a8a8-af6c319f4327",
+        "1c069826-f42f-4527-9d9d-6ac44491606e",
+        "f5091cd6-e8a9-4dc8-b883-186ffb3bd994",
+        "b051d61d-23bb-49cb-addb-7a36c8610085",
+        "fc8fa6e0-babb-466a-8cf7-38630f18003d",
+        "c2c4fbf2-673b-427d-9fac-984f7140bcf8",
+        "05698e5a-a245-420f-b867-3ebeb4b62e67",
+        "f8d1cd6c-bcd8-4393-9c6a-9a70d817ce7f",
+        "8b458d06-b333-43e4-ad07-39dfb151bfe9",
+        "1532cb7f-b8ea-4259-bc97-99ecd9787b06",
+        "7ea763c8-74dc-45da-9ac5-985b38052050",
+        "31d85957-deef-4357-be49-8f103c47af0c",
+        "971b7fe4-7901-4638-8a76-64e7d3b59e80",
+        "ac726174-678a-40f9-b348-6413142ed4f4",
+        "d968cba8-7244-4fcf-83b8-e2a6615c8544",
+        "3f3b483c-43c8-4740-af8d-e97d6ea774ff",
+        "a61eb0ad-7bc0-4efb-aa73-bc400a1ff989",
+        "7f31d3bd-7509-483e-bc05-651fa46258f4",
+        "dbe09fd6-2686-4ad6-a7c6-8618009eb16a",
+        "68b3ed2a-4ddc-4716-bf29-5f6640024b38",
+        "45bf142a-3de9-48e4-9881-601931f1c910",
+        "2e0f8e8a-de80-4264-b1cb-95b4d76ebf5d",
+        "0a53f2f1-04e4-400b-9512-3ad4958b028f",
+        "5534e250-12fa-4ce8-94bf-d72576be7c98",
+        "b17f7667-4f67-4e87-a15c-5abe369974cb",
+        "ad434a5e-f3ce-4832-b67e-8e7459c63b8c",
+        "6471ca9a-eda2-45fa-ab65-337014228ae1",
+        "5034b2f8-2b56-411e-9c9c-15c1c5a5bc51",
+        "539f7f95-a554-4ef8-a82d-4373b56c80a0",
+        "8b88e505-613a-43c3-a577-283f74ff75e9",
+        "60aebefc-bab0-47f1-b7b5-41ddff50c6a5"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "107d9672-68f2-4de3-90ed-f9d79befceb4",
+      "key": "MKRC2LL/A",
+      "upc": 888462500494,
+      "tag_color": 333333,
+      "category": "iPhone 6s Unlocked",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "f002d43d-1cc5-4362-8b5e-f6ee06813b44",
+      "key": "MKRD2LL/A",
+      "upc": 888462500500,
+      "tag_color": 333333,
+      "category": "iPhone 6s Unlocked",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "6ddd645b-1bc7-4c12-bfc8-64d06186b1ce",
+      "key": "MKRE2LL/A",
+      "upc": 888462500517,
+      "tag_color": 333333,
+      "category": "iPhone 6s Unlocked",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "17766247-0162-42eb-b2a5-930a7ddd044c",
+      "key": "MKRF2LL/A",
+      "upc": 888462500524,
+      "tag_color": 333333,
+      "category": "iPhone 6s Unlocked",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "c93dd22c-7014-48ce-8d36-2f86a524a4d3",
+      "key": "MKRG2LL/A",
+      "upc": 888462500531,
+      "tag_color": 333333,
+      "category": "iPhone 6s Unlocked",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "bb0ade30-0d4d-4d35-9534-c772684c76ec",
+      "key": "MKRH2LL/A",
+      "upc": 888462500548,
+      "tag_color": 333333,
+      "category": "iPhone 6s Unlocked",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "77e1aa10-26c3-47a7-9e5b-4fff679c0642",
+      "key": "MKRJ2LL/A",
+      "upc": 888462500555,
+      "tag_color": 333333,
+      "category": "iPhone 6s Unlocked",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "50a14d8a-f7a0-43c0-96a6-3d4f38881972",
+      "key": "MKRK2LL/A",
+      "upc": 888462500562,
+      "tag_color": 333333,
+      "category": "iPhone 6s Unlocked",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "148bc4c4-3d4e-4070-b61e-5b78bcc69483",
+      "key": "MKRL2LL/A",
+      "upc": 888462500579,
+      "tag_color": 333333,
+      "category": "iPhone 6s Unlocked",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "d58cfe66-6e4e-4574-8ec4-b2779604a989",
+      "key": "MKRM2LL/A",
+      "upc": 888462500586,
+      "tag_color": 333333,
+      "category": "iPhone 6s Unlocked",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "b10d99bf-faeb-457c-b9b7-3093e7d8a8e5",
+      "key": "MKRP2LL/A",
+      "upc": 888462500593,
+      "tag_color": 333333,
+      "category": "iPhone 6s Unlocked",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "9f67bc47-5588-45b1-89a5-d2d60c24463a",
+      "key": "MKRQ2LL/A",
+      "upc": 888462500609,
+      "tag_color": 333333,
+      "category": "iPhone 6s Unlocked",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "89aa5f7a-7a34-481f-bfcd-75c15ad0fe11",
+      "key": "MKQ52LL/A",
+      "upc": 888462500135,
+      "tag_color": "006ae5",
+      "category": "iPhone 6s AT&T",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "84d76ecb-f9dc-4436-88cb-bced46a5d873",
+      "key": "MKQ62LL/A",
+      "upc": 888462500142,
+      "tag_color": "006ae5",
+      "category": "iPhone 6s AT&T",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "bec9b401-8240-4d3b-9028-8f8f84bb657f",
+      "key": "MKQ72LL/A",
+      "upc": 888462500159,
+      "tag_color": "006ae5",
+      "category": "iPhone 6s AT&T",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "a3418c5f-2c8e-48c5-991a-4cfae1824cd5",
+      "key": "MKQ82LL/A",
+      "upc": 888462500166,
+      "tag_color": "006ae5",
+      "category": "iPhone 6s AT&T",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "f2b6fd06-d13a-47a9-9e3c-068a3b4cc333",
+      "key": "MKQ92LL/A",
+      "upc": 888462500173,
+      "tag_color": "006ae5",
+      "category": "iPhone 6s AT&T",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "e42cda7e-92d9-4746-b6c4-911d97714d0e",
+      "key": "MKQA2LL/A",
+      "upc": 888462500180,
+      "tag_color": "006ae5",
+      "category": "iPhone 6s AT&T",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "3c0934d6-f30b-4f5b-9c8f-fc35b251cb7b",
+      "key": "MKQC2LL/A",
+      "upc": 888462500197,
+      "tag_color": "006ae5",
+      "category": "iPhone 6s AT&T",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "6cb97844-ec93-468b-af20-cf5ed6ea070f",
+      "key": "MKQD2LL/A",
+      "upc": 888462500203,
+      "tag_color": "006ae5",
+      "category": "iPhone 6s AT&T",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "5f4b82b4-bb18-4006-9264-c1e1201aca70",
+      "key": "MKQE2LL/A",
+      "upc": 888462500210,
+      "tag_color": "006ae5",
+      "category": "iPhone 6s AT&T",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "aa0a14d4-3504-4089-ae46-7f725ac14ee1",
+      "key": "MKQF2LL/A",
+      "upc": 888462500227,
+      "tag_color": "006ae5",
+      "category": "iPhone 6s AT&T",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "d0523668-72a5-4ded-a6e6-69e85822fc3c",
+      "key": "MKQH2LL/A",
+      "upc": 888462500241,
+      "tag_color": "006ae5",
+      "category": "iPhone 6s AT&T",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "004fcbd5-f8df-4f7c-9e90-cab94f62ad6c",
+      "key": "MKQG2LL/A",
+      "upc": 888462500234,
+      "tag_color": "006ae5",
+      "category": "iPhone 6s AT&T",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "e3e53f6f-09e6-4d0a-86cb-71f9dccaa61e",
+      "key": "MKRR2LL/A",
+      "upc": 888462500616,
+      "tag_color": "ff2121",
+      "category": "iPhone 6s Verizon",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "09024fcc-0127-42a7-a8bc-074578c35d42",
+      "key": "MKRT2LL/A",
+      "upc": 888462500623,
+      "tag_color": "ff2121",
+      "category": "iPhone 6s Verizon",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "dc3c7a49-f0a0-4550-a8ed-276523f9f476",
+      "key": "MKRW2LL/A",
+      "upc": 888462500630,
+      "tag_color": "ff2121",
+      "category": "iPhone 6s Verizon",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "c69a3b7a-51f7-4686-b6fc-e72fd2552d72",
+      "key": "MKRX2LL/A",
+      "upc": 888462500647,
+      "tag_color": "ff2121",
+      "category": "iPhone 6s Verizon",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "163f88bc-d869-47d1-b392-2b70f96f8dc2",
+      "key": "MKRY2LL/A",
+      "upc": 888462500654,
+      "tag_color": "ff2121",
+      "category": "iPhone 6s Verizon",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "c0d186c6-6248-4bdb-a8a8-af6c319f4327",
+      "key": "MKT02LL/A",
+      "upc": 888462500661,
+      "tag_color": "ff2121",
+      "category": "iPhone 6s Verizon",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "1c069826-f42f-4527-9d9d-6ac44491606e",
+      "key": "MKT12LL/A",
+      "upc": 888462500678,
+      "tag_color": "ff2121",
+      "category": "iPhone 6s Verizon",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "f5091cd6-e8a9-4dc8-b883-186ffb3bd994",
+      "key": "MKT22LL/A",
+      "upc": 888462500685,
+      "tag_color": "ff2121",
+      "category": "iPhone 6s Verizon",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "b051d61d-23bb-49cb-addb-7a36c8610085",
+      "key": "MKT32LL/A",
+      "upc": 888462500692,
+      "tag_color": "ff2121",
+      "category": "iPhone 6s Verizon",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "fc8fa6e0-babb-466a-8cf7-38630f18003d",
+      "key": "MKT42LL/A",
+      "upc": 888462500708,
+      "tag_color": "ff2121",
+      "category": "iPhone 6s Verizon",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "c2c4fbf2-673b-427d-9fac-984f7140bcf8",
+      "key": "MKT52LL/A",
+      "upc": 888462500715,
+      "tag_color": "ff2121",
+      "category": "iPhone 6s Verizon",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "05698e5a-a245-420f-b867-3ebeb4b62e67",
+      "key": "MKT62LL/A",
+      "upc": 888462500722,
+      "tag_color": "ff2121",
+      "category": "iPhone 6s Verizon",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "f8d1cd6c-bcd8-4393-9c6a-9a70d817ce7f",
+      "key": "MKQX2LL/A",
+      "upc": 888462500371,
+      "tag_color": "ff2194",
+      "category": "iPhone 6s TMobile",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "8b458d06-b333-43e4-ad07-39dfb151bfe9",
+      "key": "MKQY2LL/A",
+      "upc": 888462500388,
+      "tag_color": "ff2194",
+      "category": "iPhone 6s TMobile",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "1532cb7f-b8ea-4259-bc97-99ecd9787b06",
+      "key": "MKR12LL/A",
+      "upc": 888462500395,
+      "tag_color": "ff2194",
+      "category": "iPhone 6s TMobile",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "7ea763c8-74dc-45da-9ac5-985b38052050",
+      "key": "MKR22LL/A",
+      "upc": 888462500401,
+      "tag_color": "ff2194",
+      "category": "iPhone 6s TMobile",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "31d85957-deef-4357-be49-8f103c47af0c",
+      "key": "MKR32LL/A",
+      "upc": 888462500418,
+      "tag_color": "ff2194",
+      "category": "iPhone 6s TMobile",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "971b7fe4-7901-4638-8a76-64e7d3b59e80",
+      "key": "MKR42LL/A",
+      "upc": 888462500425,
+      "tag_color": "ff2194",
+      "category": "iPhone 6s TMobile",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "ac726174-678a-40f9-b348-6413142ed4f4",
+      "key": "MKR52LL/A",
+      "upc": 888462500432,
+      "tag_color": "ff2194",
+      "category": "iPhone 6s TMobile",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "d968cba8-7244-4fcf-83b8-e2a6615c8544",
+      "key": "MKR62LL/A",
+      "upc": 888462500449,
+      "tag_color": "ff2194",
+      "category": "iPhone 6s TMobile",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "3f3b483c-43c8-4740-af8d-e97d6ea774ff",
+      "key": "MKR72LL/A",
+      "upc": 888462500456,
+      "tag_color": "ff2194",
+      "category": "iPhone 6s TMobile",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "a61eb0ad-7bc0-4efb-aa73-bc400a1ff989",
+      "key": "MKR82LL/A",
+      "upc": 888462500463,
+      "tag_color": "ff2194",
+      "category": "iPhone 6s TMobile",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "7f31d3bd-7509-483e-bc05-651fa46258f4",
+      "key": "MKR92LL/A",
+      "upc": 888462500470,
+      "tag_color": "ff2194",
+      "category": "iPhone 6s TMobile",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "dbe09fd6-2686-4ad6-a7c6-8618009eb16a",
+      "key": "MKRA2LL/A",
+      "upc": 888462500487,
+      "tag_color": "ff2194",
+      "category": "iPhone 6s TMobile",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "68b3ed2a-4ddc-4716-bf29-5f6640024b38",
+      "key": "MKT72LL/A",
+      "upc": 888462500739,
+      "tag_color": "f5c423",
+      "category": "iPhone 6s Sprint",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "45bf142a-3de9-48e4-9881-601931f1c910",
+      "key": "MKT82LL/A",
+      "upc": 888462500746,
+      "tag_color": "f5c423",
+      "category": "iPhone 6s Sprint",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "2e0f8e8a-de80-4264-b1cb-95b4d76ebf5d",
+      "key": "MKT92LL/A",
+      "upc": 888462500753,
+      "tag_color": "f5c423",
+      "category": "iPhone 6s Sprint",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "0a53f2f1-04e4-400b-9512-3ad4958b028f",
+      "key": "MKTA2LL/A",
+      "upc": 888462500760,
+      "tag_color": "f5c423",
+      "category": "iPhone 6s Sprint",
+      "metadata": {
+        "capacity": "16GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "5534e250-12fa-4ce8-94bf-d72576be7c98",
+      "key": "MKTC2LL/A",
+      "upc": 888462500777,
+      "tag_color": "f5c423",
+      "category": "iPhone 6s Sprint",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "b17f7667-4f67-4e87-a15c-5abe369974cb",
+      "key": "MKTD2LL/A",
+      "upc": 888462500784,
+      "tag_color": "f5c423",
+      "category": "iPhone 6s Sprint",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "ad434a5e-f3ce-4832-b67e-8e7459c63b8c",
+      "key": "MKTE2LL/A",
+      "upc": 888462500791,
+      "tag_color": "f5c423",
+      "category": "iPhone 6s Sprint",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "6471ca9a-eda2-45fa-ab65-337014228ae1",
+      "key": "MKTF2LL/A",
+      "upc": 888462500807,
+      "tag_color": "f5c423",
+      "category": "iPhone 6s Sprint",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "5034b2f8-2b56-411e-9c9c-15c1c5a5bc51",
+      "key": "MKTG2LL/A",
+      "upc": 888462500814,
+      "tag_color": "f5c423",
+      "category": "iPhone 6s Sprint",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "539f7f95-a554-4ef8-a82d-4373b56c80a0",
+      "key": "MKTH2LL/A",
+      "upc": 888462500821,
+      "tag_color": "f5c423",
+      "category": "iPhone 6s Sprint",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "8b88e505-613a-43c3-a577-283f74ff75e9",
+      "key": "MKTJ2LL/A",
+      "upc": 888462500838,
+      "tag_color": "f5c423",
+      "category": "iPhone 6s Sprint",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "60aebefc-bab0-47f1-b7b5-41ddff50c6a5",
+      "key": "MKTK2LL/A",
+      "upc": 888462500845,
+      "tag_color": "f5c423",
+      "category": "iPhone 6s Sprint",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Rose Gold"
+      }
+    }
+  ]
+}

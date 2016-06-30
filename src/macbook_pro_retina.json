@@ -1,0 +1,103 @@
+{
+  "collections": [
+    {
+      "id": "9e5e734e-3368-4cca-a25b-f813784a9ba7",
+      "key": "MacBook Pro Retina",
+      "label_ids": [
+        "11eeb24f-4168-424b-808d-aad2e525800e",
+        "21a7c611-f602-4b1b-a5a3-586c39a54fa8",
+        "785a6713-3b02-4056-83b2-2e8fbc0fb6fe",
+        "36aac4f3-e6e6-41bc-8343-3e26b5a4a768",
+        "58dea12f-8aef-49f8-84bc-e65b8df14b57",
+        "52481a95-de75-4d1d-b4b9-71ed39d7c032",
+        "7d169987-6d0b-4bbf-a805-abc4fb5b3daa"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "11eeb24f-4168-424b-808d-aad2e525800e",
+      "key": "MF839LL/A",
+      "upc": 885909918164,
+      "tag_color": "ff6600",
+      "category": "MacBook Pro Retina 13\"",
+      "metadata": {
+        "processor": "2.7GHz",
+        "memory": "8GB",
+        "capacity": "128GB"
+      }
+    },
+    {
+      "id": "21a7c611-f602-4b1b-a5a3-586c39a54fa8",
+      "key": "MF840LL/A",
+      "upc": 885909918188,
+      "tag_color": "ff6600",
+      "category": "MacBook Pro Retina 13\"",
+      "metadata": {
+        "processor": "2.7GHz",
+        "memory": "8GB",
+        "capacity": "256GB"
+      }
+    },
+    {
+      "id": "785a6713-3b02-4056-83b2-2e8fbc0fb6fe",
+      "key": "MF841LL/A",
+      "upc": 885909918195,
+      "tag_color": "ff6600",
+      "category": "MacBook Pro Retina 13\"",
+      "metadata": {
+        "processor": "2.9GHz",
+        "memory": "8GB",
+        "capacity": "512GB"
+      }
+    },
+    {
+      "id": "36aac4f3-e6e6-41bc-8343-3e26b5a4a768",
+      "key": "MF843LL/A",
+      "upc": 885909918201,
+      "tag_color": "ff6600",
+      "category": "MacBook Pro Retina 13\"",
+      "metadata": {
+        "processor": "3.1GHz",
+        "memory": "16GB",
+        "capacity": "512GB"
+      }
+    },
+    {
+      "id": "58dea12f-8aef-49f8-84bc-e65b8df14b57",
+      "key": "MJLQ2LL/A",
+      "upc": 888462101103,
+      "tag_color": "993d00",
+      "category": "MacBook Pro Retina 15\"",
+      "metadata": {
+        "processor": "2.2GHz",
+        "memory": "16GB",
+        "capacity": "256GB"
+      }
+    },
+    {
+      "id": "52481a95-de75-4d1d-b4b9-71ed39d7c032",
+      "key": "MJLT2LL/A",
+      "upc": 888462101110,
+      "tag_color": "993d00",
+      "category": "MacBook Pro Retina 15\"",
+      "metadata": {
+        "processor": "2.5GHz",
+        "memory": "16GB",
+        "capacity": "512GB"
+      }
+    },
+    {
+      "id": "7d169987-6d0b-4bbf-a805-abc4fb5b3daa",
+      "key": "MJLU2LL/A",
+      "upc": 888462101127,
+      "tag_color": "993d00",
+      "category": "MacBook Pro Retina 15\"",
+      "metadata": {
+        "processor": "2.8GHz",
+        "memory": "16GB",
+        "capacity": "1TB"
+      }
+    }
+  ]
+}

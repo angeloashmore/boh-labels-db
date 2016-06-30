@@ -1,25 +1,25 @@
 {
   "collections": [
     {
-      "id": "e7a18aea-f29d-4261-bd9c-5affe970cfb4",
+      "id": "07bcc502-611f-4f2d-b6bf-97748de4f297",
       "key": "iMac",
       "label_ids": [
-        "a5e64f20-be63-4505-9b02-b1c118c4f147",
-        "8e5295e5-2423-4b38-8932-ae42bb5abe85",
-        "06f9ea75-5232-4085-8792-bba5e96cb586",
-        "93080458-9271-44d5-87ff-d3b22967394f",
-        "038715c4-b5c3-41fb-9f24-efeef135db65",
-        "a5c8ea24-0b53-4bab-b0eb-90d6994f1ddc"
+        "7eccf2df-eacb-42d9-aa25-7a0eaf9865de",
+        "e50f5854-ef30-46b8-a133-01bec4d5c9b4",
+        "c6122b88-a4eb-4766-9978-1293e1d94145",
+        "28143ace-145b-4769-bf74-83d02506352d",
+        "fae89554-d499-416a-90ab-4f92b443eaf6",
+        "7ff423ea-74b4-4095-979e-141d02095fda"
       ]
     }
   ],
   "labels": [
     {
-      "id": "a5e64f20-be63-4505-9b02-b1c118c4f147",
+      "id": "7eccf2df-eacb-42d9-aa25-7a0eaf9865de",
       "key": "MK142LL/A",
       "upc": 888462322607,
-      "category": "iMac 21.5\"",
       "tag_color": "ff0000",
+      "category": "iMac 21.5\"",
       "metadata": {
         "processor": "1.6GHz",
         "memory": "8GB",
@@ -27,11 +27,47 @@
       }
     },
     {
-      "id": "8e5295e5-2423-4b38-8932-ae42bb5abe85",
+      "id": "e50f5854-ef30-46b8-a133-01bec4d5c9b4",
       "key": "MK442LL/A",
       "upc": 888462347747,
-      "category": "iMac 21.5\"",
       "tag_color": "ff0000",
+      "category": "iMac 21.5\"",
+      "metadata": {
+        "processor": "2.8GHz",
+        "memory": "8GB",
+        "capacity": "256GB"
+      }
+    },
+    {
+      "id": "c6122b88-a4eb-4766-9978-1293e1d94145",
+      "key": "MK452LL/A",
+      "upc": 888462347754,
+      "tag_color": "ff0000",
+      "category": "iMac 21.5\"",
+      "metadata": {
+        "processor": "3.1GHz",
+        "memory": "8GB",
+        "capacity": "256GB"
+      }
+    },
+    {
+      "id": "28143ace-145b-4769-bf74-83d02506352d",
+      "key": "MK462LL/A",
+      "upc": 888462347785,
+      "tag_color": 800000,
+      "category": "iMac 27\"",
+      "metadata": {
+        "processor": "3.2GHz",
+        "memory": "8GB",
+        "capacity": "1TB"
+      }
+    },
+    {
+      "id": "fae89554-d499-416a-90ab-4f92b443eaf6",
+      "key": "MK472LL/A",
+      "upc": 888462347792,
+      "tag_color": 800000,
+      "category": "iMac 27\"",
       "metadata": {
         "processor": "2.8GHz",
         "memory": "8GB",
@@ -39,51 +75,15 @@
       }
     },
     {
-      "id": "06f9ea75-5232-4085-8792-bba5e96cb586",
-      "key": "MK452LL/A",
-      "upc": 888462347754,
-      "category": "iMac 21.5\"",
-      "tag_color": "ff0000",
-      "metadata": {
-        "processor": "3.1GHz",
-        "memory": "8GB",
-        "capacity": "1TB"
-      }
-    },
-    {
-      "id": "93080458-9271-44d5-87ff-d3b22967394f",
-      "key": "MK462LL/A",
-      "upc": 888462347785,
-      "category": "iMac 27\"",
-      "tag_color": "800000",
-      "metadata": {
-        "processor": "3.2GHz",
-        "memory": "8GB",
-        "capacity": "1TB"
-      }
-    },
-    {
-      "id": "038715c4-b5c3-41fb-9f24-efeef135db65",
-      "key": "MK472LL/A",
-      "upc": 888462347792,
-      "category": "iMac 27\"",
-      "tag_color": "800000",
-      "metadata": {
-        "processor": "3.2GHz",
-        "memory": "8GB",
-        "capacity": "1TB Fusion"
-      }
-    },
-    {
-      "id": "a5c8ea24-0b53-4bab-b0eb-90d6994f1ddc",
+      "id": "7ff423ea-74b4-4095-979e-141d02095fda",
       "key": "MK482LL/A",
       "upc": 888462347808,
+      "tag_color": 800000,
       "category": "iMac 27\"",
-      "tag_color": "800000",
       "metadata": {
         "processor": "3.3GHz",
         "memory": "8GB",
-        "capacity": "2TB Fusion"
+        "capacity": "2TB"
       }
     }
   ]

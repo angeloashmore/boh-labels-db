@@ -1,152 +1,152 @@
 {
   "collections": [
     {
-      "id": "532c17ac-7597-4b03-8f75-3e3e109f8dc4",
+      "id": "48220c88-52fc-41a4-b703-6b907fe51b3e",
       "key": "iPad Air 2",
       "label_ids": [
-        "b0562228-9084-4434-be59-5ade40c74c88",
-        "bae68baf-b712-4890-ae42-f017b48018f6",
-        "aec39520-bc45-43c9-a658-e1eeaad2a124",
-        "34e4b1bc-2b58-4a2b-9ef2-ff88c3aaa039",
-        "7b006d6a-4b87-4851-b090-286befcf0eee",
-        "a6738af3-b4fd-4978-b4e5-eca7fad61df7",
-        "65388cc0-f3fa-4313-a211-2be50058b733",
-        "8c74afb3-44bc-47f3-b27b-c83035eb2727",
-        "d3425529-be22-4cde-96eb-440073807446",
-        "8f2c6c88-590a-4f42-8b03-21d3a2fadaf9",
-        "2f4bff76-bd22-4bb1-a5a8-7454a44f4828",
-        "d4b699c0-fa45-47f9-b381-d418904bd07e"
+        "83c3897c-d302-4995-a5c6-3c3ba3503cef",
+        "26dd93be-3cee-42a7-925f-adc0b2e574bb",
+        "16de3145-a028-475a-ba12-7ff3b4fcc7b8",
+        "2c6d65da-e4d7-4bdb-9b94-38aeabd91910",
+        "4d591325-7876-48bf-874a-1102d7f606f6",
+        "a5dae250-ea4d-4bda-b204-9a4695f376be",
+        "e1bf35f5-6b85-4c5e-ae30-748f209456e5",
+        "9ef3d44e-83f5-43ee-99df-2584993138d6",
+        "c845fa49-9b83-4a49-9b15-6d264aa15faf",
+        "ed2d4085-f665-4d76-821f-244a1e62f433",
+        "0b7c3530-1d30-4ed0-bee8-5949dff525b4",
+        "e99d0e69-7ef0-4d73-9379-83dddfdf9014"
       ]
     }
   ],
   "labels": [
     {
-      "id": "b0562228-9084-4434-be59-5ade40c74c88",
+      "id": "83c3897c-d302-4995-a5c6-3c3ba3503cef",
       "key": "MGL12LL/A",
       "upc": 888462025249,
+      "tag_color": 333333,
       "category": "iPad Air 2 Wi-Fi",
-      "tag_color": "333333",
       "metadata": {
         "capacity": "16GB",
         "color": "Space Gray"
       }
     },
     {
-      "id": "bae68baf-b712-4890-ae42-f017b48018f6",
+      "id": "26dd93be-3cee-42a7-925f-adc0b2e574bb",
       "key": "MGLW2LL/A",
       "upc": 888462025546,
+      "tag_color": 333333,
       "category": "iPad Air 2 Wi-Fi",
-      "tag_color": "333333",
       "metadata": {
         "capacity": "16GB",
         "color": "Silver"
       }
     },
     {
-      "id": "aec39520-bc45-43c9-a658-e1eeaad2a124",
+      "id": "16de3145-a028-475a-ba12-7ff3b4fcc7b8",
       "key": "MH0W2LL/A",
       "upc": 888462036474,
+      "tag_color": 333333,
       "category": "iPad Air 2 Wi-Fi",
-      "tag_color": "333333",
       "metadata": {
         "capacity": "16GB",
         "color": "Gold"
       }
     },
     {
-      "id": "34e4b1bc-2b58-4a2b-9ef2-ff88c3aaa039",
+      "id": "2c6d65da-e4d7-4bdb-9b94-38aeabd91910",
       "key": "MGKL2LL/A",
       "upc": 888462024563,
+      "tag_color": 333333,
       "category": "iPad Air 2 Wi-Fi",
-      "tag_color": "333333",
       "metadata": {
         "capacity": "64GB",
         "color": "Space Gray"
       }
     },
     {
-      "id": "7b006d6a-4b87-4851-b090-286befcf0eee",
+      "id": "4d591325-7876-48bf-874a-1102d7f606f6",
       "key": "MGKM2LL/A",
       "upc": 888462024877,
+      "tag_color": 333333,
       "category": "iPad Air 2 Wi-Fi",
-      "tag_color": "333333",
       "metadata": {
         "capacity": "64GB",
         "color": "Silver"
       }
     },
     {
-      "id": "a6738af3-b4fd-4978-b4e5-eca7fad61df7",
+      "id": "a5dae250-ea4d-4bda-b204-9a4695f376be",
       "key": "MH182LL/A",
       "upc": 888462037174,
+      "tag_color": 333333,
       "category": "iPad Air 2 Wi-Fi",
-      "tag_color": "333333",
       "metadata": {
         "capacity": "64GB",
         "color": "Gold"
       }
     },
     {
-      "id": "65388cc0-f3fa-4313-a211-2be50058b733",
+      "id": "e1bf35f5-6b85-4c5e-ae30-748f209456e5",
       "key": "MH2U2LL/A",
       "upc": 888462058568,
-      "category": "iPad Air 2 Cellular",
       "tag_color": "006ae5",
+      "category": "iPad Air 2 Cellular",
       "metadata": {
         "capacity": "16GB",
         "color": "Space Gray"
       }
     },
     {
-      "id": "8c74afb3-44bc-47f3-b27b-c83035eb2727",
+      "id": "9ef3d44e-83f5-43ee-99df-2584993138d6",
       "key": "MH2V2LL/A",
       "upc": 888462058582,
-      "category": "iPad Air 2 Cellular",
       "tag_color": "006ae5",
+      "category": "iPad Air 2 Cellular",
       "metadata": {
         "capacity": "16GB",
         "color": "Silver"
       }
     },
     {
-      "id": "d3425529-be22-4cde-96eb-440073807446",
+      "id": "c845fa49-9b83-4a49-9b15-6d264aa15faf",
       "key": "MH2W2LL/A",
       "upc": 888462058605,
-      "category": "iPad Air 2 Cellular",
       "tag_color": "006ae5",
+      "category": "iPad Air 2 Cellular",
       "metadata": {
         "capacity": "16GB",
         "color": "Gold"
       }
     },
     {
-      "id": "8f2c6c88-590a-4f42-8b03-21d3a2fadaf9",
+      "id": "ed2d4085-f665-4d76-821f-244a1e62f433",
       "key": "MH2M2LL/A",
       "upc": 888462058506,
-      "category": "iPad Air 2 Cellular",
       "tag_color": "006ae5",
+      "category": "iPad Air 2 Cellular",
       "metadata": {
         "capacity": "64GB",
         "color": "Space Gray"
       }
     },
     {
-      "id": "2f4bff76-bd22-4bb1-a5a8-7454a44f4828",
+      "id": "0b7c3530-1d30-4ed0-bee8-5949dff525b4",
       "key": "MH2N2LL/A",
       "upc": 888462058520,
-      "category": "iPad Air 2 Cellular",
       "tag_color": "006ae5",
+      "category": "iPad Air 2 Cellular",
       "metadata": {
         "capacity": "64GB",
         "color": "Silver"
       }
     },
     {
-      "id": "d4b699c0-fa45-47f9-b381-d418904bd07e",
+      "id": "e99d0e69-7ef0-4d73-9379-83dddfdf9014",
       "key": "MH2P2LL/A",
       "upc": 888462058544,
-      "category": "iPad Air 2 Cellular",
       "tag_color": "006ae5",
+      "category": "iPad Air 2 Cellular",
       "metadata": {
         "capacity": "64GB",
         "color": "Gold"

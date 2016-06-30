@@ -1,0 +1,116 @@
+{
+  "collections": [
+    {
+      "id": "73f2464e-9934-40b5-acde-8cf65a928284",
+      "key": "MacBook",
+      "label_ids": [
+        "759fee06-a863-4f86-8b22-afaff73730ae",
+        "5d56157a-1f0b-4378-b627-07e2ff0806d2",
+        "a813b9ba-1ab2-420c-9c7e-6ae809f4d60d",
+        "50355483-1a17-456d-a1d4-029a1e6361df",
+        "2deeb7b9-0630-47e5-9cee-438920f0d85b",
+        "8a0375a1-2bb4-4c6c-87ac-97cffea0b9c4",
+        "8db86d85-c673-4bf5-a1fe-9840f6386b81",
+        "80471012-7a2b-43aa-a57f-3f271821a0f7"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "759fee06-a863-4f86-8b22-afaff73730ae",
+      "key": "MLHE2LL/A",
+      "upc": 888462687706,
+      "tag_color": "9900cc",
+      "category": "MacBook",
+      "metadata": {
+        "processor": "1.1GHz",
+        "capacity": "256GB / 8GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "5d56157a-1f0b-4378-b627-07e2ff0806d2",
+      "key": "MMGL2LL/A",
+      "upc": 888462868198,
+      "tag_color": "9900cc",
+      "category": "MacBook",
+      "metadata": {
+        "processor": "1.1GHz",
+        "capacity": "256GB / 8GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "a813b9ba-1ab2-420c-9c7e-6ae809f4d60d",
+      "key": "MLHA2LL/A",
+      "upc": 888462687676,
+      "tag_color": "9900cc",
+      "category": "MacBook",
+      "metadata": {
+        "processor": "1.1GHz",
+        "capacity": "256GB / 8GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "50355483-1a17-456d-a1d4-029a1e6361df",
+      "key": "MLH72LL/A",
+      "upc": 888462687645,
+      "tag_color": "9900cc",
+      "category": "MacBook",
+      "metadata": {
+        "processor": "1.1GHz",
+        "capacity": "256GB / 8GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "2deeb7b9-0630-47e5-9cee-438920f0d85b",
+      "key": "MLHF2LL/A",
+      "upc": 888462687713,
+      "tag_color": "9900cc",
+      "category": "MacBook",
+      "metadata": {
+        "processor": "1.2GHz",
+        "capacity": "512GB / 8GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "8a0375a1-2bb4-4c6c-87ac-97cffea0b9c4",
+      "key": "MMGM2LL/A",
+      "upc": 888462868648,
+      "tag_color": "9900cc",
+      "category": "MacBook",
+      "metadata": {
+        "processor": "1.2GHz",
+        "capacity": "512GB / 8GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "8db86d85-c673-4bf5-a1fe-9840f6386b81",
+      "key": "MLHC2LL/A",
+      "upc": 888462687683,
+      "tag_color": "9900cc",
+      "category": "MacBook",
+      "metadata": {
+        "processor": "1.2GHz",
+        "capacity": "512GB / 8GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "80471012-7a2b-43aa-a57f-3f271821a0f7",
+      "key": "MLH82LL/A",
+      "upc": 888462687652,
+      "tag_color": "9900cc",
+      "category": "MacBook",
+      "metadata": {
+        "processor": "1.2GHz",
+        "capacity": "512GB / 8GB",
+        "color": "Space Gray"
+      }
+    }
+  ]
+}
