@@ -2,10 +2,15 @@
   "name": "boh-labels-db",
   "version": "0.1.0",
   "scripts": {
+    "convert": "babel-node convert.js",
     "build": "babel-node index.js"
   },
   "dependencies": {
-    "deepmerge": "^0.2.10"
+    "deepmerge": "^0.2.10",
+    "format-json": "^1.0.3",
+    "js-yaml": "^3.6.1",
+    "lodash": "^4.13.1",
+    "node-uuid": "^1.4.7"
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",
