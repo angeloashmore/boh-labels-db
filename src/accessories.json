@@ -1,0 +1,92 @@
+{
+  "collections": [
+    {
+      "id": "000445e7-6225-40ac-9e67-89659c57bad3",
+      "key": "Accessories",
+      "label_ids": [
+        "7604a063-90e7-474e-83bf-ccf1b398ee8f",
+        "1907fa52-e6e3-4f42-af10-7c734fba9cd9",
+        "56725261-c542-47fe-b2fc-a3e69cb682a0",
+        "d1025181-1d81-4570-9e40-811d9875f10c",
+        "bec64d12-c511-44c4-ab0c-fe6417563d27",
+        "0265d7b1-3fc0-4ce5-a240-c81bdcd49293",
+        "5d94cb91-bfb0-4d10-9393-f0ebb3b92d1b",
+        "d53add72-53f6-4b27-8e84-e52812a4919c",
+        "25b30b5e-f26d-4bf8-9266-5c881791f38f",
+        "d5f44d5a-6ffb-4157-8257-508b811c8116"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "7604a063-90e7-474e-83bf-ccf1b398ee8f",
+      "key": "Speakers",
+      "tag_color": "1f91cd",
+      "category": "Accessories",
+      "metadata": {}
+    },
+    {
+      "id": "1907fa52-e6e3-4f42-af10-7c734fba9cd9",
+      "key": "Headphones",
+      "tag_color": "f46e3c",
+      "category": "Accessories",
+      "metadata": {}
+    },
+    {
+      "id": "56725261-c542-47fe-b2fc-a3e69cb682a0",
+      "key": "App-Enabled",
+      "tag_color": "69af37",
+      "category": "Accessories",
+      "metadata": {}
+    },
+    {
+      "id": "d1025181-1d81-4570-9e40-811d9875f10c",
+      "key": "Apple iOS",
+      "tag_color": "6e0308",
+      "category": "Accessories",
+      "metadata": {}
+    },
+    {
+      "id": "bec64d12-c511-44c4-ab0c-fe6417563d27",
+      "key": "Apple Mac",
+      "tag_color": "2e6ffa",
+      "category": "Accessories",
+      "metadata": {}
+    },
+    {
+      "id": "0265d7b1-3fc0-4ce5-a240-c81bdcd49293",
+      "key": "3PP Essentials",
+      "tag_color": "8211ac",
+      "category": "Accessories",
+      "metadata": {}
+    },
+    {
+      "id": "5d94cb91-bfb0-4d10-9393-f0ebb3b92d1b",
+      "key": "iPad Cases",
+      "tag_color": "d90a11",
+      "category": "Accessories",
+      "metadata": {}
+    },
+    {
+      "id": "d53add72-53f6-4b27-8e84-e52812a4919c",
+      "key": "Mac Cases",
+      "tag_color": "f87037",
+      "category": "Accessories",
+      "metadata": {}
+    },
+    {
+      "id": "25b30b5e-f26d-4bf8-9266-5c881791f38f",
+      "key": "iPhone Cases",
+      "tag_color": "f8ba2b",
+      "category": "Accessories",
+      "metadata": {}
+    },
+    {
+      "id": "d5f44d5a-6ffb-4157-8257-508b811c8116",
+      "key": "Watch",
+      "tag_color": 113097,
+      "category": "Accessories",
+      "metadata": {}
+    }
+  ]
+}
