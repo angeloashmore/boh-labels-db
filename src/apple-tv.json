@@ -1,0 +1,34 @@
+{
+  "collections": [
+    {
+      "id": "c24fc806-b5fd-4239-84ab-b894cc49f352",
+      "key": "Apple TV",
+      "label_ids": [
+        "9d937f06-55a5-41df-ac34-0f01261e9ee9",
+        "11b32afc-9601-40e8-ad02-be18aef411e9"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "9d937f06-55a5-41df-ac34-0f01261e9ee9",
+      "key": "MGY52LL/A",
+      "upc": 888462153508,
+      "tag_color": "000000",
+      "category": "Apple TV",
+      "metadata": {
+        "capacity": "32GB"
+      }
+    },
+    {
+      "id": "11b32afc-9601-40e8-ad02-be18aef411e9",
+      "key": "MGNC2LL/A",
+      "upc": 888462749152,
+      "tag_color": "000000",
+      "category": "Apple TV",
+      "metadata": {
+        "capacity": "64GB"
+      }
+    }
+  ]
+}
