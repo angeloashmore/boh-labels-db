@@ -1,0 +1,220 @@
+{
+  "collections": [
+    {
+      "id": "f391eeb7-166b-4f4f-909c-548998f77449",
+      "key": "Watch Series 2",
+      "label_ids": [
+        "b76fc18f-d64f-4397-a861-4ad5f24e3011",
+        "648cacb8-e24f-4c52-9ddb-6831969d8e96",
+        "604bd141-5ffa-4e05-b31c-9dbf8ea81f19",
+        "ff952e37-7da0-4ddb-ba2c-cc1ad2c81b50",
+        "760740a9-6079-4bc0-8bc1-aa4a83d02977",
+        "0f71c285-ca47-436a-b38d-40561221f4e0",
+        "b2b13baf-d91e-43c1-9b24-9c492537eb5b",
+        "bb88e2a2-8f5c-4f3a-bce1-d417a1a6b60f",
+        "454ff708-ca24-4357-91de-b4024897c81f",
+        "c3e5ee90-3130-43be-9f60-4492310ad6f8",
+        "c3778646-1107-4030-ad1b-039dfb7498ce",
+        "35b06466-d4a1-4641-a6b1-6bc9ff206ed8",
+        "e53dc03e-667d-4ccf-999c-b7ad228c3887",
+        "b9fb0687-181c-4512-9cd1-b4bdf1d1667b",
+        "17161ecd-04db-4eed-9483-ef7a96ee8c77",
+        "2217ff9e-0e06-45c2-acf0-872fb76c80ed"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "b76fc18f-d64f-4397-a861-4ad5f24e3011",
+      "key": "MNNY2LL/A",
+      "upc": 190198129307,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 38mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Pink Sand"
+      }
+    },
+    {
+      "id": "648cacb8-e24f-4c52-9ddb-6831969d8e96",
+      "key": "MNNW2LL/A",
+      "upc": 190198129284,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 38mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "White"
+      }
+    },
+    {
+      "id": "604bd141-5ffa-4e05-b31c-9dbf8ea81f19",
+      "key": "MP0D2LL/A",
+      "upc": 190198209825,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 38mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "ff952e37-7da0-4ddb-ba2c-cc1ad2c81b50",
+      "key": "MNP22LL/A",
+      "upc": 190198129321,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 38mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Concrete"
+      }
+    },
+    {
+      "id": "454ff708-ca24-4357-91de-b4024897c81f",
+      "key": "MP492LL/A",
+      "upc": 190198236388,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 38mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Sport",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "c3e5ee90-3130-43be-9f60-4492310ad6f8",
+      "key": "MNP42LL/A",
+      "upc": 190198129345,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 38mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Sport",
+        "band_color": "White"
+      }
+    },
+    {
+      "id": "e53dc03e-667d-4ccf-999c-b7ad228c3887",
+      "key": "MNP62LL/A",
+      "upc": 190198129369,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 38mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Milanese Loop",
+        "band_color": "Sainless Steel"
+      }
+    },
+    {
+      "id": "b9fb0687-181c-4512-9cd1-b4bdf1d1667b",
+      "key": "MNPE2LL/A",
+      "upc": 190198129437,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 38mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Milanese Loop",
+        "band_color": "Space Black"
+      }
+    },
+    {
+      "id": "760740a9-6079-4bc0-8bc1-aa4a83d02977",
+      "key": "MNPL2LL/A",
+      "upc": 190198129499,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 42mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Midnight Blue"
+      }
+    },
+    {
+      "id": "0f71c285-ca47-436a-b38d-40561221f4e0",
+      "key": "MNPJ2LL/A",
+      "upc": 190198129475,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 42mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "White"
+      }
+    },
+    {
+      "id": "b2b13baf-d91e-43c1-9b24-9c492537eb5b",
+      "key": "MP062LL/A",
+      "upc": 190198211545,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 42mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "bb88e2a2-8f5c-4f3a-bce1-d417a1a6b60f",
+      "key": "MNPN2LL/A",
+      "upc": 190198129512,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 42mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Cocoa"
+      }
+    },
+    {
+      "id": "c3778646-1107-4030-ad1b-039dfb7498ce",
+      "key": "MP4A2LL/A",
+      "upc": 190198236654,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 42mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Sport",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "35b06466-d4a1-4641-a6b1-6bc9ff206ed8",
+      "key": "MNPR2LL/A",
+      "upc": 190198129543,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 42mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Sport",
+        "band_color": "White"
+      }
+    },
+    {
+      "id": "17161ecd-04db-4eed-9483-ef7a96ee8c77",
+      "key": "MNPU2LL/A",
+      "upc": 190198129567,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 42mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Milanese Loop",
+        "band_color": "Stainless Steel"
+      }
+    },
+    {
+      "id": "2217ff9e-0e06-45c2-acf0-872fb76c80ed",
+      "key": "MNQ12LL/A",
+      "upc": 190198129628,
+      "tag_color": "006ae5",
+      "category": "Watch Series 2 42mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Milanese Loop",
+        "band_color": "Space Black"
+      }
+    }
+  ]
+}

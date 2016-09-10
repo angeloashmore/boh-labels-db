@@ -69,90 +69,46 @@
   ],
   "labels": [
     {
-      "id": "cb4cb752-9fb7-4c24-9150-d13398c5b013",
-      "key": "MKW52LL/A",
-      "upc": 888462501873,
-      "tag_color": 333333,
-      "category": "iPhone 6s Plus Unlocked",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Space Gray"
-      }
-    },
-    {
-      "id": "6090ce5d-7e05-4713-b706-a58b2c5248fc",
-      "key": "MKW62LL/A",
-      "upc": 888462501880,
-      "tag_color": 333333,
-      "category": "iPhone 6s Plus Unlocked",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Silver"
-      }
-    },
-    {
-      "id": "baaf54f0-4a98-4330-bf92-4992a4cbcb6c",
-      "key": "MKW72LL/A",
-      "upc": 888462501897,
-      "tag_color": 333333,
-      "category": "iPhone 6s Plus Unlocked",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Gold"
-      }
-    },
-    {
-      "id": "94808651-f726-47b6-aa56-32d8e48ea776",
-      "key": "MKW82LL/A",
-      "upc": 888462501903,
-      "tag_color": 333333,
-      "category": "iPhone 6s Plus Unlocked",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Rose Gold"
-      }
-    },
-    {
       "id": "4823e9df-5247-42c6-af77-5f16872b126b",
-      "key": "MKW92LL/A",
-      "upc": 888462501910,
+      "key": "MN342LL/A",
+      "upc": 190198062314,
       "tag_color": 333333,
       "category": "iPhone 6s Plus Unlocked",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "0296887e-1ece-44ba-9d6b-8fe3f3cf5832",
-      "key": "MKWC2LL/A",
-      "upc": 888462501927,
+      "key": "MN352LL/A",
+      "upc": 190198062321,
       "tag_color": 333333,
       "category": "iPhone 6s Plus Unlocked",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "ddab5ada-cb59-4099-9bd5-c838c73e104c",
-      "key": "MKWD2LL/A",
-      "upc": 888462501934,
+      "key": "MN362LL/A",
+      "upc": 190198062338,
       "tag_color": 333333,
       "category": "iPhone 6s Plus Unlocked",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },
     {
       "id": "6ab889c7-9280-4ed2-9000-91d3a5a73619",
-      "key": "MKWE2LL/A",
-      "upc": 888462501941,
+      "key": "MN372LL/A",
+      "upc": 190198062345,
       "tag_color": 333333,
       "category": "iPhone 6s Plus Unlocked",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Rose Gold"
       }
     },
@@ -201,90 +157,46 @@
       }
     },
     {
-      "id": "5b78a493-c807-4869-90fb-b8acab469d18",
-      "key": "MKTL2LL/A",
-      "upc": 888462501279,
-      "tag_color": "006ae5",
-      "category": "iPhone 6s Plus AT&T",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Space Gray"
-      }
-    },
-    {
-      "id": "1e6a05d2-b716-4170-a8fd-4817cea2c8ac",
-      "key": "MKTM2LL/A",
-      "upc": 888462501286,
-      "tag_color": "006ae5",
-      "category": "iPhone 6s Plus AT&T",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Silver"
-      }
-    },
-    {
-      "id": "d892647a-8c7d-470a-b5a3-0be17900a6c8",
-      "key": "MKTN2LL/A",
-      "upc": 888462501293,
-      "tag_color": "006ae5",
-      "category": "iPhone 6s Plus AT&T",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Gold"
-      }
-    },
-    {
-      "id": "624c7cd8-334e-4f2e-b2ac-9fca64a344fe",
-      "key": "MKTP2LL/A",
-      "upc": 888462501309,
-      "tag_color": "006ae5",
-      "category": "iPhone 6s Plus AT&T",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Rose Gold"
-      }
-    },
-    {
       "id": "f2c0adfc-a3da-433c-9e21-0b440f9e7ce4",
-      "key": "MKTQ2LL/A",
-      "upc": 888462501316,
+      "key": "MN2Q2LL/A",
+      "upc": 190198060631,
       "tag_color": "006ae5",
       "category": "iPhone 6s Plus AT&T",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "aa4a0c36-7ef7-410d-8cf8-9adda9e24ae7",
-      "key": "MKTR2LL/A",
-      "upc": 888462501323,
+      "key": "MN2R2LL/A",
+      "upc": 190198060648,
       "tag_color": "006ae5",
       "category": "iPhone 6s Plus AT&T",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "b60d80fd-701d-49b6-82e4-7731abf90231",
-      "key": "MKTT2LL/A",
-      "upc": 888462501330,
+      "key": "MN2T2LL/A",
+      "upc": 190198060655,
       "tag_color": "006ae5",
       "category": "iPhone 6s Plus AT&T",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },
     {
       "id": "54ea0b24-8b51-438a-a647-6872b0cc2bce",
-      "key": "MKTU2LL/A",
-      "upc": 888462501347,
+      "key": "MN2U2LL/A",
+      "upc": 190198060662,
       "tag_color": "006ae5",
       "category": "iPhone 6s Plus AT&T",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Rose Gold"
       }
     },
@@ -333,90 +245,46 @@
       }
     },
     {
-      "id": "62212f59-8bd1-4182-aed5-1c4f1e94fef3",
-      "key": "MKV32LL/A",
-      "upc": 888462501637,
-      "tag_color": "ff2121",
-      "category": "iPhone 6s Plus Verizon",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Space Gray"
-      }
-    },
-    {
-      "id": "79625e68-b4a1-4d52-b037-33b5eab9740d",
-      "key": "MKV52LL/A",
-      "upc": 888462501644,
-      "tag_color": "ff2121",
-      "category": "iPhone 6s Plus Verizon",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Silver"
-      }
-    },
-    {
-      "id": "a77369d2-7e5a-40bc-a3c5-af08d6f536a3",
-      "key": "MKV62LL/A",
-      "upc": 888462501651,
-      "tag_color": "ff2121",
-      "category": "iPhone 6s Plus Verizon",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Gold"
-      }
-    },
-    {
-      "id": "79fbc331-e1da-40ad-addd-391b8d52124e",
-      "key": "MKV72LL/A",
-      "upc": 888462501668,
-      "tag_color": "ff2121",
-      "category": "iPhone 6s Plus Verizon",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Rose Gold"
-      }
-    },
-    {
       "id": "883f8289-d65f-4bf9-93f0-3614d9a20254",
-      "key": "MKV82LL/A",
-      "upc": 888462501675,
+      "key": "MN382LL/A",
+      "upc": 190198062352,
       "tag_color": "ff2121",
       "category": "iPhone 6s Plus Verizon",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "9ba304b0-e355-49a4-ae38-73c4c5a3483e",
-      "key": "MKV92LL/A",
-      "upc": 888462501682,
+      "key": "MN392LL/A",
+      "upc": 190198062369,
       "tag_color": "ff2121",
       "category": "iPhone 6s Plus Verizon",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "d818f90f-1801-454d-9733-7191b39f28f3",
-      "key": "MKVD2LL/A",
-      "upc": 888462501699,
+      "key": "MN3A2LL/A",
+      "upc": 190198062376,
       "tag_color": "ff2121",
       "category": "iPhone 6s Plus Verizon",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },
     {
       "id": "d3d79562-7575-4780-8ce4-0bc69beceacc",
-      "key": "MKVE2LL/A",
-      "upc": 888462501705,
+      "key": "MN3D2LL/A",
+      "upc": 190198062383,
       "tag_color": "ff2121",
       "category": "iPhone 6s Plus Verizon",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Rose Gold"
       }
     },
@@ -465,90 +333,46 @@
       }
     },
     {
-      "id": "339aff76-993c-4ad0-ac22-313792a091f3",
-      "key": "MKUH2LL/A",
-      "upc": 888462501514,
-      "tag_color": "ff2194",
-      "category": "iPhone 6s Plus TMobile",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Space Gray"
-      }
-    },
-    {
-      "id": "012ca750-8a80-4bb0-afeb-9af0f512b509",
-      "key": "MKUJ2LL/A",
-      "upc": 888462501521,
-      "tag_color": "ff2194",
-      "category": "iPhone 6s Plus TMobile",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Silver"
-      }
-    },
-    {
-      "id": "a292c56f-3a62-44ce-b67d-e1c8c60ab3c1",
-      "key": "MKUN2LL/A",
-      "upc": 888462501538,
-      "tag_color": "ff2194",
-      "category": "iPhone 6s Plus TMobile",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Gold"
-      }
-    },
-    {
-      "id": "60230df5-a078-4f0b-814a-2c65bbd009a9",
-      "key": "MKUP2LL/A",
-      "upc": 888462501545,
-      "tag_color": "ff2194",
-      "category": "iPhone 6s Plus TMobile",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Rose Gold"
-      }
-    },
-    {
       "id": "1275761b-c800-4a5b-8757-02e7bc342829",
-      "key": "MKUQ2LL/A",
-      "upc": 888462501552,
+      "key": "MN302LL/A",
+      "upc": 190198062277,
       "tag_color": "ff2194",
-      "category": "iPhone 6s Plus TMobile",
+      "category": "iPhone 6s Plus T-Mobile",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "7a751424-6354-46aa-8eb5-ce7be061fc03",
-      "key": "MKUU2LL/A",
-      "upc": 888462501569,
+      "key": "MN312LL/A",
+      "upc": 190198062284,
       "tag_color": "ff2194",
-      "category": "iPhone 6s Plus TMobile",
+      "category": "iPhone 6s Plus T-Mobile",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "13d7fb29-92b1-4f1a-ae8e-666b6fc3cc2b",
-      "key": "MKUV2LL/A",
-      "upc": 888462501576,
+      "key": "MN322LL/A",
+      "upc": 190198062291,
       "tag_color": "ff2194",
-      "category": "iPhone 6s Plus TMobile",
+      "category": "iPhone 6s Plus T-Mobile",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },
     {
       "id": "41c657a7-3029-4805-8957-88015188ebd0",
-      "key": "MKUW2LL/A",
-      "upc": 888462501583,
+      "key": "MN332LL/A",
+      "upc": 190198062307,
       "tag_color": "ff2194",
-      "category": "iPhone 6s Plus TMobile",
+      "category": "iPhone 6s Plus T-Mobile",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Rose Gold"
       }
     },
@@ -557,7 +381,7 @@
       "key": "MKUX2LL/A",
       "upc": 888462501590,
       "tag_color": "ff2194",
-      "category": "iPhone 6s Plus TMobile",
+      "category": "iPhone 6s Plus T-Mobile",
       "metadata": {
         "capacity": "128GB",
         "color": "Space Gray"
@@ -568,7 +392,7 @@
       "key": "MKUY2LL/A",
       "upc": 888462501606,
       "tag_color": "ff2194",
-      "category": "iPhone 6s Plus TMobile",
+      "category": "iPhone 6s Plus T-Mobile",
       "metadata": {
         "capacity": "128GB",
         "color": "Silver"
@@ -579,7 +403,7 @@
       "key": "MKV12LL/A",
       "upc": 888462501613,
       "tag_color": "ff2194",
-      "category": "iPhone 6s Plus TMobile",
+      "category": "iPhone 6s Plus T-Mobile",
       "metadata": {
         "capacity": "128GB",
         "color": "Gold"
@@ -590,97 +414,53 @@
       "key": "MKV22LL/A",
       "upc": 888462501620,
       "tag_color": "ff2194",
-      "category": "iPhone 6s Plus TMobile",
+      "category": "iPhone 6s Plus T-Mobile",
       "metadata": {
         "capacity": "128GB",
         "color": "Rose Gold"
       }
     },
     {
-      "id": "5f5a9652-4762-448c-a3b0-aade7272f4de",
-      "key": "MKVN2LL/A",
-      "upc": 888462501750,
-      "tag_color": "ffbb00",
-      "category": "iPhone 6s Plus Sprint",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Space Gray"
-      }
-    },
-    {
-      "id": "1ac85a46-57e1-49a3-aa6c-ebd8e7dd542d",
-      "key": "MKVP2LL/A",
-      "upc": 888462501767,
-      "tag_color": "ffbb00",
-      "category": "iPhone 6s Plus Sprint",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Silver"
-      }
-    },
-    {
-      "id": "9b7641f7-3e77-4f99-8b75-fb7668bd8798",
-      "key": "MKVQ2LL/A",
-      "upc": 888462501774,
-      "tag_color": "ffbb00",
-      "category": "iPhone 6s Plus Sprint",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Gold"
-      }
-    },
-    {
-      "id": "42183d06-90e8-4e84-a9c6-61079543b0a4",
-      "key": "MKVU2LL/A",
-      "upc": 888462501781,
-      "tag_color": "ffbb00",
-      "category": "iPhone 6s Plus Sprint",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Rose Gold"
-      }
-    },
-    {
       "id": "067c55d4-1f77-4bf7-ba72-d9c5bb58c36e",
-      "key": "MKVV2LL/A",
-      "upc": 888462501798,
+      "key": "MN3E2LL/A",
+      "upc": 190198062390,
       "tag_color": "ffbb00",
       "category": "iPhone 6s Plus Sprint",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "f6bf50b4-78ef-4853-851e-e547ec5c2ac8",
-      "key": "MKVW2LL/A",
-      "upc": 888462501804,
+      "key": "MN3F2LL/A",
+      "upc": 190198062406,
       "tag_color": "ffbb00",
       "category": "iPhone 6s Plus Sprint",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "1dbf3add-214b-4019-b1a8-731485ecc659",
-      "key": "MKVX2LL/A",
-      "upc": 888462501811,
+      "key": "MN3G2LL/A",
+      "upc": 190198062413,
       "tag_color": "ffbb00",
       "category": "iPhone 6s Plus Sprint",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },
     {
       "id": "765e7ea5-9c99-4dd5-a14e-d1bb36693fad",
-      "key": "MKVY2LL/A",
-      "upc": 888462501828,
+      "key": "MN3H2LL/A",
+      "upc": 190198062420,
       "tag_color": "ffbb00",
       "category": "iPhone 6s Plus Sprint",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Rose Gold"
       }
     },

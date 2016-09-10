@@ -1,0 +1,116 @@
+{
+  "collections": [
+    {
+      "id": "0c7c957e-af10-42b1-a465-b72616ef8ed1",
+      "key": "Watch Series 1",
+      "label_ids": [
+        "891f1ee7-5708-4396-be32-146206a61484",
+        "ddbe6d64-04e4-49ae-b6b5-73cd53e9e3cc",
+        "8400ab8c-8f00-4450-95a1-70a140eda736",
+        "eca20431-a6eb-4e3f-87bc-713f26477f2f",
+        "85f46644-13e5-4865-9d20-416b7c8514b6",
+        "f80f8dab-324d-46e0-b2c2-852bf09dcbf1",
+        "1be839c8-0f00-48fe-b08c-16afff9835fc",
+        "8814ddd8-1a92-4080-81b6-88ba615a7842"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "891f1ee7-5708-4396-be32-146206a61484",
+      "key": "MNNH2LL/A",
+      "upc": 190198131522,
+      "tag_color": 333333,
+      "category": "Watch Series 1 38mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Pink Sand"
+      }
+    },
+    {
+      "id": "ddbe6d64-04e4-49ae-b6b5-73cd53e9e3cc",
+      "key": "MNNG2LL/A",
+      "upc": 190198131515,
+      "tag_color": 333333,
+      "category": "Watch Series 1 38mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "White"
+      }
+    },
+    {
+      "id": "8400ab8c-8f00-4450-95a1-70a140eda736",
+      "key": "MP022LL/A",
+      "upc": 190198206947,
+      "tag_color": 333333,
+      "category": "Watch Series 1 38mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "eca20431-a6eb-4e3f-87bc-713f26477f2f",
+      "key": "MNNJ2LL/A",
+      "upc": 190198131539,
+      "tag_color": 333333,
+      "category": "Watch Series 1 38mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Concrete"
+      }
+    },
+    {
+      "id": "85f46644-13e5-4865-9d20-416b7c8514b6",
+      "key": "MNNM2LL/A",
+      "upc": 190198131560,
+      "tag_color": 333333,
+      "category": "Watch Series 1 42mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Midnight Blue"
+      }
+    },
+    {
+      "id": "f80f8dab-324d-46e0-b2c2-852bf09dcbf1",
+      "key": "MNNL2LL/A",
+      "upc": 190198131553,
+      "tag_color": 333333,
+      "category": "Watch Series 1 42mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "White"
+      }
+    },
+    {
+      "id": "1be839c8-0f00-48fe-b08c-16afff9835fc",
+      "key": "MP032LL/A",
+      "upc": 190198207609,
+      "tag_color": 333333,
+      "category": "Watch Series 1 42mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "8814ddd8-1a92-4080-81b6-88ba615a7842",
+      "key": "MNNN2LL/A",
+      "upc": 190198131577,
+      "tag_color": 333333,
+      "category": "Watch Series 1 42mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Cocoa"
+      }
+    }
+  ]
+}

@@ -27,68 +27,35 @@
   ],
   "labels": [
     {
-      "id": "c7553da0-02bd-4cb8-af6f-d4bb93f87534",
-      "key": "MK6J2LL/A",
-      "upc": 888462367035,
-      "tag_color": 333333,
-      "category": "iPad mini 4 Wi-Fi",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Space Gray"
-      }
-    },
-    {
-      "id": "b7e2014d-5fab-4c1c-aba1-d007071f31fe",
-      "key": "MK6K2LL/A",
-      "upc": 888462367288,
-      "tag_color": 333333,
-      "category": "iPad mini 4 Wi-Fi",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Silver"
-      }
-    },
-    {
-      "id": "1c81aac6-0614-425e-8fa9-e8cf67ee6024",
-      "key": "MK6L2LL/A",
-      "upc": 888462367530,
-      "tag_color": 333333,
-      "category": "iPad mini 4 Wi-Fi",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Gold"
-      }
-    },
-    {
       "id": "2b05eec2-68bc-4a03-9640-5e2839ecb1ee",
-      "key": "MK9G2LL/A",
-      "upc": 888462367967,
+      "key": "MNY12LL/A",
+      "upc": 190198175052,
       "tag_color": 333333,
       "category": "iPad mini 4 Wi-Fi",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "20f729a2-988c-4e9a-8758-f9e6abd33927",
-      "key": "MK9H2LL/A",
-      "upc": 888462368216,
+      "key": "MNY22LL/A",
+      "upc": 190198175342,
       "tag_color": 333333,
       "category": "iPad mini 4 Wi-Fi",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "0d359ee9-58ee-49aa-bfe3-c791de45367b",
-      "key": "MK9J2LL/A",
-      "upc": 888462368469,
+      "key": "MNY32LL/A",
+      "upc": 190198175632,
       "tag_color": 333333,
       "category": "iPad mini 4 Wi-Fi",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },
@@ -126,68 +93,35 @@
       }
     },
     {
-      "id": "64b7ab79-e73e-4e45-bfe9-7ecdd0606788",
-      "key": "MK862LL/A",
-      "upc": 888462376792,
-      "tag_color": "006ae5",
-      "category": "iPad mini 4 Cellular",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Space Gray"
-      }
-    },
-    {
-      "id": "1a11f6cf-276b-43b5-bde6-f9837fb59f7b",
-      "key": "MK872LL/A",
-      "upc": 888462376815,
-      "tag_color": "006ae5",
-      "category": "iPad mini 4 Cellular",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Silver"
-      }
-    },
-    {
-      "id": "58bd7c34-3b97-49d3-8912-4deaa35164fc",
-      "key": "MK882LL/A",
-      "upc": 888462376839,
-      "tag_color": "006ae5",
-      "category": "iPad mini 4 Cellular",
-      "metadata": {
-        "capacity": "16GB",
-        "color": "Gold"
-      }
-    },
-    {
       "id": "afce6776-6392-49f5-b1e2-78c131596cd3",
-      "key": "MK892LL/A",
-      "upc": 888462376853,
+      "key": "MNWP2LL/A",
+      "upc": 190198167408,
       "tag_color": "006ae5",
       "category": "iPad mini 4 Cellular",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "adf1a03d-3e0f-478d-88e1-ed2033c4744e",
-      "key": "MK8A2LL/A",
-      "upc": 888462376877,
+      "key": "MNWQ2LL/A",
+      "upc": 190198167439,
       "tag_color": "006ae5",
       "category": "iPad mini 4 Cellular",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "91488349-f497-47d6-8166-c3f7d9a51c77",
-      "key": "MK8C2LL/A",
-      "upc": 888462376891,
+      "key": "MNWR2LL/A",
+      "upc": 190198167460,
       "tag_color": "006ae5",
       "category": "iPad mini 4 Cellular",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },

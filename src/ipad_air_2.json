@@ -22,133 +22,133 @@
   "labels": [
     {
       "id": "83c3897c-d302-4995-a5c6-3c3ba3503cef",
-      "key": "MGL12LL/A",
-      "upc": 888462025249,
+      "key": "MNV22LL/A",
+      "upc": 190198160775,
       "tag_color": 333333,
       "category": "iPad Air 2 Wi-Fi",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "26dd93be-3cee-42a7-925f-adc0b2e574bb",
-      "key": "MGLW2LL/A",
-      "upc": 888462025546,
+      "key": "MNV62LL/A",
+      "upc": 190198161048,
       "tag_color": 333333,
       "category": "iPad Air 2 Wi-Fi",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "16de3145-a028-475a-ba12-7ff3b4fcc7b8",
-      "key": "MH0W2LL/A",
-      "upc": 888462036474,
+      "key": "MNV72LL/A",
+      "upc": 190198161314,
       "tag_color": 333333,
       "category": "iPad Air 2 Wi-Fi",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },
     {
       "id": "2c6d65da-e4d7-4bdb-9b94-38aeabd91910",
-      "key": "MGKL2LL/A",
-      "upc": 888462024563,
+      "key": "MGTX2LL/A",
+      "upc": 888462025843,
       "tag_color": 333333,
       "category": "iPad Air 2 Wi-Fi",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "4d591325-7876-48bf-874a-1102d7f606f6",
-      "key": "MGKM2LL/A",
-      "upc": 888462024877,
+      "key": "MGTY2LL/A",
+      "upc": 888462026154,
       "tag_color": 333333,
       "category": "iPad Air 2 Wi-Fi",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Silver"
       }
     },
     {
       "id": "a5dae250-ea4d-4bda-b204-9a4695f376be",
-      "key": "MH182LL/A",
-      "upc": 888462037174,
+      "key": "MH1J2LL/A",
+      "upc": 888462037846,
       "tag_color": 333333,
       "category": "iPad Air 2 Wi-Fi",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Gold"
       }
     },
     {
       "id": "e1bf35f5-6b85-4c5e-ae30-748f209456e5",
-      "key": "MH2U2LL/A",
-      "upc": 888462058568,
+      "key": "MNW12LL/A",
+      "upc": 190198163813,
       "tag_color": "006ae5",
       "category": "iPad Air 2 Cellular",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "9ef3d44e-83f5-43ee-99df-2584993138d6",
-      "key": "MH2V2LL/A",
-      "upc": 888462058582,
+      "key": "MNW22LL/A",
+      "upc": 190198163844,
       "tag_color": "006ae5",
       "category": "iPad Air 2 Cellular",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "c845fa49-9b83-4a49-9b15-6d264aa15faf",
-      "key": "MH2W2LL/A",
-      "upc": 888462058605,
+      "key": "MNW32LL/A",
+      "upc": 190198163875,
       "tag_color": "006ae5",
       "category": "iPad Air 2 Cellular",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },
     {
       "id": "ed2d4085-f665-4d76-821f-244a1e62f433",
-      "key": "MH2M2LL/A",
-      "upc": 888462058506,
+      "key": "MH312LL/A",
+      "upc": 888462058629,
       "tag_color": "006ae5",
       "category": "iPad Air 2 Cellular",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "0b7c3530-1d30-4ed0-bee8-5949dff525b4",
-      "key": "MH2N2LL/A",
-      "upc": 888462058520,
+      "key": "MH322LL/A",
+      "upc": 888462058643,
       "tag_color": "006ae5",
       "category": "iPad Air 2 Cellular",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Silver"
       }
     },
     {
       "id": "e99d0e69-7ef0-4d73-9379-83dddfdf9014",
-      "key": "MH2P2LL/A",
-      "upc": 888462058544,
+      "key": "MH332LL/A",
+      "upc": 888462058667,
       "tag_color": "006ae5",
       "category": "iPad Air 2 Cellular",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Gold"
       }
     }
