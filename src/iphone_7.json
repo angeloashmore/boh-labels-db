@@ -1,14 +1,85 @@
 {
   "collections": [
     {
-      "id": "",
+      "id": "83366a97-5da5-4d89-8439-a4066ed2ba6a",
       "key": "iPhone 7 Unlocked",
-      "label_ids": []
+      "label_ids": [
+        "211b819e-d6fe-400c-a93c-408628cf1e5f",
+        "980dd6ad-5fc5-4e98-923e-df20bf3f34a4",
+        "57e380f8-e90a-4550-ac6f-ac1620790075",
+        "8ea9d171-f20a-456a-acf3-947b7b0d1b88",
+        "8a903f25-d3a5-4c5e-be66-b0ce6b946dd9",
+        "bd83744d-ff3c-42f8-894b-a326c1992d47",
+        "49160695-e276-4815-a55d-9ea627ab413d",
+        "860dee4f-3cf7-44d9-8455-63967b8e41da",
+        "dac7416c-b54b-4429-8a24-8c6939e8bc05",
+        "bf05fbba-7454-4745-ade0-d4691b75cbe2",
+        "ad731d9f-50b9-4d36-bb8d-4cfbe43557cd",
+        "7ebe60c5-cf71-439b-a8c7-3b4ce1217747",
+        "68cb4c4f-1a46-4b3f-b1b7-f452b85f92dd",
+        "f3c7b220-79b5-4076-a5d6-c42e3bba6fdc",
+        "1a5aaf05-2fcb-4433-83cc-6825bd9357b8",
+        "8a4daf28-51c4-4147-b7ca-8b2c7cbfb098",
+        "f85bb7eb-ff0a-4f9a-90d5-be126e21a856",
+        "ab41baf2-d6aa-4109-8534-807b3a171b83",
+        "252c183e-e1b8-4e8f-91e2-2adb11ab14fb",
+        "295d85ec-0cc6-49eb-a92f-f260440f9096",
+        "93199402-4f15-4575-b8f2-99b1ebfad43f",
+        "0d0c6e08-39da-4b15-b46e-429ea56dbe87",
+        "c0ae5885-49eb-4c1a-88da-7ce106bda1c1",
+        "a5d6581f-7ac3-465d-8f04-f63d15ea6e0d",
+        "84edbf14-4c7f-4c57-9282-3f4af1da6dfd",
+        "8ccdbf0a-9db5-4151-9d62-fe7f597d0fbb",
+        "86e76633-3c43-4c65-8b0c-3c27b2725877",
+        "7f45b984-582b-42ff-afb4-66f39ff9c40f",
+        "3fff7f4f-757a-4074-9dd7-169fedf90503",
+        "1c3fc37d-dd26-48ec-a282-4797a17f0739",
+        "7a651fb5-6f28-455e-9117-11d76888ad74",
+        "f335db1f-b2b3-48fe-8f9c-f12f25236b21",
+        "597339da-6839-4ca0-b2de-3845a4a3656b",
+        "f4e30bf8-4996-4f91-8cd7-4b199c9ab797",
+        "78810f78-a478-4c81-b834-f0b95f26a16e",
+        "405e6388-aebb-46c4-a1be-98736df74b96",
+        "e38d32e8-293c-402b-83a5-d87f77a03b9e",
+        "3b8929f8-8987-4af2-b8b9-9dfd3469e633",
+        "e85b67ba-f042-442c-907c-ef2437412d39",
+        "52e63182-e91a-44f6-8ba9-63aa7d3f338e",
+        "335a5e59-d22a-49b6-a83b-9a3181b5ad48",
+        "6044ed84-be8e-4cd4-9007-daad7412aa2c",
+        "1f1d0a9f-1f3d-4d9b-aa80-ed20ab9670d1",
+        "3bd8dad9-fd00-47ac-a1a1-554556962951",
+        "b127ca40-a560-4da3-892e-0b2cfd390345",
+        "2d16a42f-cc89-402b-a305-340b994ab7cc",
+        "1e08f7bb-c7ad-4d79-a8f0-d3b131ce0583",
+        "06182176-b5c8-47db-ab2d-e35d4a4e2850",
+        "6a830df7-84e1-4800-ba87-b4012a146af3",
+        "1ad09bbe-195b-4fa1-a456-5f2a2036c986",
+        "d6473de2-12b4-4822-9181-cef9861e9e6b",
+        "ba3073e4-37ce-4294-ad92-fe72e56f4e8e",
+        "859c1a82-f2b2-42b0-834a-4e8bb7729c2d",
+        "1cb9beea-6f5b-4fe1-8aaa-e967357d2549",
+        "a592e061-8194-42c4-b2c3-2b471bb1bd22",
+        "a44959f4-0662-496e-9c84-e0f22c11b852",
+        "71473242-6ccd-432e-a3f5-4f51a908a7f3",
+        "91d273ba-f282-4c46-b8eb-311c2cbe4607",
+        "ad63e186-ccb5-4736-88f5-1b5f9d0c920a",
+        "187f13a7-e454-40d3-801a-42122a7a617e",
+        "7d4d0d0c-6a8b-42d7-8f6e-464f94afb714",
+        "768c1e34-9085-4c8e-9106-9cfb4c60c3ce",
+        "cfb36ff0-ddb8-4959-aa2b-91d44d53269f",
+        "b5a9b18a-4bf1-4fd3-a4d9-fa20e8df6b81",
+        "cea10ccf-bd83-4e3c-b183-437ec6bc9097",
+        "00583063-f49a-4bc1-9f15-53250baaf676",
+        "de917340-a22a-43d2-b098-fb0158778964",
+        "7d580f66-7a53-45f5-9ce5-e5c741fc0562",
+        "46507e7b-2183-443b-aef5-f27c5406f27d",
+        "b2b5df3c-5509-4001-90e6-70f26e5fd220"
+      ]
     }
   ],
   "labels": [
     {
-      "id": "",
+      "id": "211b819e-d6fe-400c-a93c-408628cf1e5f",
       "key": "MN8G2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -19,7 +90,7 @@
       }
     },
     {
-      "id": "",
+      "id": "980dd6ad-5fc5-4e98-923e-df20bf3f34a4",
       "key": "MN8H2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -30,7 +101,7 @@
       }
     },
     {
-      "id": "",
+      "id": "57e380f8-e90a-4550-ac6f-ac1620790075",
       "key": "MN8J2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -41,7 +112,7 @@
       }
     },
     {
-      "id": "",
+      "id": "8ea9d171-f20a-456a-acf3-947b7b0d1b88",
       "key": "MN8K2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -52,7 +123,7 @@
       }
     },
     {
-      "id": "",
+      "id": "8a903f25-d3a5-4c5e-be66-b0ce6b946dd9",
       "key": "MN8L2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -63,7 +134,7 @@
       }
     },
     {
-      "id": "",
+      "id": "bd83744d-ff3c-42f8-894b-a326c1992d47",
       "key": "MN8M2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -74,7 +145,7 @@
       }
     },
     {
-      "id": "",
+      "id": "49160695-e276-4815-a55d-9ea627ab413d",
       "key": "MN8N2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -85,7 +156,7 @@
       }
     },
     {
-      "id": "",
+      "id": "860dee4f-3cf7-44d9-8455-63967b8e41da",
       "key": "MN8P2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -96,7 +167,7 @@
       }
     },
     {
-      "id": "",
+      "id": "dac7416c-b54b-4429-8a24-8c6939e8bc05",
       "key": "MN8Q2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -107,7 +178,7 @@
       }
     },
     {
-      "id": "",
+      "id": "bf05fbba-7454-4745-ade0-d4691b75cbe2",
       "key": "MN8R2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -118,7 +189,7 @@
       }
     },
     {
-      "id": "",
+      "id": "ad731d9f-50b9-4d36-bb8d-4cfbe43557cd",
       "key": "MN8T2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -129,7 +200,7 @@
       }
     },
     {
-      "id": "",
+      "id": "7ebe60c5-cf71-439b-a8c7-3b4ce1217747",
       "key": "MN8U2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -140,7 +211,7 @@
       }
     },
     {
-      "id": "",
+      "id": "68cb4c4f-1a46-4b3f-b1b7-f452b85f92dd",
       "key": "MN8V2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -151,7 +222,7 @@
       }
     },
     {
-      "id": "",
+      "id": "f3c7b220-79b5-4076-a5d6-c42e3bba6fdc",
       "key": "MN8W2LL/A",
       "upc": 100000000000,
       "tag_color": 333333,
@@ -162,9 +233,9 @@
       }
     },
     {
-      "id": "",
+      "id": "1a5aaf05-2fcb-4433-83cc-6825bd9357b8",
       "key": "MN9D2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071798,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -173,9 +244,9 @@
       }
     },
     {
-      "id": "",
+      "id": "8a4daf28-51c4-4147-b7ca-8b2c7cbfb098",
       "key": "MN9E2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071804,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -184,9 +255,9 @@
       }
     },
     {
-      "id": "",
+      "id": "f85bb7eb-ff0a-4f9a-90d5-be126e21a856",
       "key": "MN9F2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071811,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -195,9 +266,9 @@
       }
     },
     {
-      "id": "",
+      "id": "ab41baf2-d6aa-4109-8534-807b3a171b83",
       "key": "MN9G2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071828,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -206,9 +277,9 @@
       }
     },
     {
-      "id": "",
+      "id": "252c183e-e1b8-4e8f-91e2-2adb11ab14fb",
       "key": "MN9H2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071835,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -217,9 +288,9 @@
       }
     },
     {
-      "id": "",
+      "id": "295d85ec-0cc6-49eb-a92f-f260440f9096",
       "key": "MN9J2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071842,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -228,9 +299,9 @@
       }
     },
     {
-      "id": "",
+      "id": "93199402-4f15-4575-b8f2-99b1ebfad43f",
       "key": "MN9K2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071859,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -239,9 +310,9 @@
       }
     },
     {
-      "id": "",
+      "id": "0d0c6e08-39da-4b15-b46e-429ea56dbe87",
       "key": "MN9L2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071866,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -250,9 +321,9 @@
       }
     },
     {
-      "id": "",
+      "id": "c0ae5885-49eb-4c1a-88da-7ce106bda1c1",
       "key": "MN9M2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071873,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -261,9 +332,9 @@
       }
     },
     {
-      "id": "",
+      "id": "a5d6581f-7ac3-465d-8f04-f63d15ea6e0d",
       "key": "MN9N2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071880,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -272,9 +343,9 @@
       }
     },
     {
-      "id": "",
+      "id": "84edbf14-4c7f-4c57-9282-3f4af1da6dfd",
       "key": "MN9P2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071897,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -283,9 +354,9 @@
       }
     },
     {
-      "id": "",
+      "id": "8ccdbf0a-9db5-4151-9d62-fe7f597d0fbb",
       "key": "MN9Q2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071903,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -294,9 +365,9 @@
       }
     },
     {
-      "id": "",
+      "id": "86e76633-3c43-4c65-8b0c-3c27b2725877",
       "key": "MN9R2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071910,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -305,9 +376,9 @@
       }
     },
     {
-      "id": "",
+      "id": "7f45b984-582b-42ff-afb4-66f39ff9c40f",
       "key": "MN9T2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071927,
       "tag_color": "006ae5",
       "category": "iPhone 7 AT&T",
       "metadata": {
@@ -316,9 +387,9 @@
       }
     },
     {
-      "id": "",
+      "id": "3fff7f4f-757a-4074-9dd7-169fedf90503",
       "key": "MN9U2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071934,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -327,9 +398,9 @@
       }
     },
     {
-      "id": "",
+      "id": "1c3fc37d-dd26-48ec-a282-4797a17f0739",
       "key": "MN9V2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071941,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -338,9 +409,9 @@
       }
     },
     {
-      "id": "",
+      "id": "7a651fb5-6f28-455e-9117-11d76888ad74",
       "key": "MN9W2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071958,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -349,9 +420,9 @@
       }
     },
     {
-      "id": "",
+      "id": "f335db1f-b2b3-48fe-8f9c-f12f25236b21",
       "key": "MN9X2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071965,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -360,9 +431,9 @@
       }
     },
     {
-      "id": "",
+      "id": "597339da-6839-4ca0-b2de-3845a4a3656b",
       "key": "MN9Y2LL/A",
-      "upc": 100000000000,
+      "upc": 190198071972,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -371,9 +442,9 @@
       }
     },
     {
-      "id": "",
+      "id": "f4e30bf8-4996-4f91-8cd7-4b199c9ab797",
       "key": "MNA02LL/A",
-      "upc": 100000000000,
+      "upc": 190198071989,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -382,9 +453,9 @@
       }
     },
     {
-      "id": "",
+      "id": "78810f78-a478-4c81-b834-f0b95f26a16e",
       "key": "MNA32LL/A",
-      "upc": 100000000000,
+      "upc": 190198071996,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -393,9 +464,9 @@
       }
     },
     {
-      "id": "",
+      "id": "405e6388-aebb-46c4-a1be-98736df74b96",
       "key": "MNA42LL/A",
-      "upc": 100000000000,
+      "upc": 190198072009,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -404,9 +475,9 @@
       }
     },
     {
-      "id": "",
+      "id": "e38d32e8-293c-402b-83a5-d87f77a03b9e",
       "key": "MNA52LL/A",
-      "upc": 100000000000,
+      "upc": 190198072016,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -415,9 +486,9 @@
       }
     },
     {
-      "id": "",
+      "id": "3b8929f8-8987-4af2-b8b9-9dfd3469e633",
       "key": "MNA62LL/A",
-      "upc": 100000000000,
+      "upc": 190198072023,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -426,9 +497,9 @@
       }
     },
     {
-      "id": "",
+      "id": "e85b67ba-f042-442c-907c-ef2437412d39",
       "key": "MNA72LL/A",
-      "upc": 100000000000,
+      "upc": 190198072030,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -437,9 +508,9 @@
       }
     },
     {
-      "id": "",
+      "id": "52e63182-e91a-44f6-8ba9-63aa7d3f338e",
       "key": "MNA82LL/A",
-      "upc": 100000000000,
+      "upc": 190198072047,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -448,9 +519,9 @@
       }
     },
     {
-      "id": "",
+      "id": "335a5e59-d22a-49b6-a83b-9a3181b5ad48",
       "key": "MNA92LL/A",
-      "upc": 100000000000,
+      "upc": 190198072054,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -459,9 +530,9 @@
       }
     },
     {
-      "id": "",
+      "id": "6044ed84-be8e-4cd4-9007-daad7412aa2c",
       "key": "MNAA2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072061,
       "tag_color": "ff2194",
       "category": "iPhone 7 T-Mobile",
       "metadata": {
@@ -470,9 +541,9 @@
       }
     },
     {
-      "id": "",
+      "id": "1f1d0a9f-1f3d-4d9b-aa80-ed20ab9670d1",
       "key": "MNAC2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072078,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -481,9 +552,9 @@
       }
     },
     {
-      "id": "",
+      "id": "3bd8dad9-fd00-47ac-a1a1-554556962951",
       "key": "MNAD2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072085,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -492,9 +563,9 @@
       }
     },
     {
-      "id": "",
+      "id": "b127ca40-a560-4da3-892e-0b2cfd390345",
       "key": "MNAE2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072092,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -503,9 +574,9 @@
       }
     },
     {
-      "id": "",
+      "id": "2d16a42f-cc89-402b-a305-340b994ab7cc",
       "key": "MNAF2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072108,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -514,9 +585,9 @@
       }
     },
     {
-      "id": "",
+      "id": "1e08f7bb-c7ad-4d79-a8f0-d3b131ce0583",
       "key": "MNAJ2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072115,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -525,9 +596,9 @@
       }
     },
     {
-      "id": "",
+      "id": "06182176-b5c8-47db-ab2d-e35d4a4e2850",
       "key": "MNAK2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072122,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -536,9 +607,9 @@
       }
     },
     {
-      "id": "",
+      "id": "6a830df7-84e1-4800-ba87-b4012a146af3",
       "key": "MNAL2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072139,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -547,9 +618,9 @@
       }
     },
     {
-      "id": "",
+      "id": "1ad09bbe-195b-4fa1-a456-5f2a2036c986",
       "key": "MNAM2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072146,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -558,9 +629,9 @@
       }
     },
     {
-      "id": "",
+      "id": "d6473de2-12b4-4822-9181-cef9861e9e6b",
       "key": "MNAP2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072153,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -569,9 +640,9 @@
       }
     },
     {
-      "id": "",
+      "id": "ba3073e4-37ce-4294-ad92-fe72e56f4e8e",
       "key": "MNAQ2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072160,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -580,9 +651,9 @@
       }
     },
     {
-      "id": "",
+      "id": "859c1a82-f2b2-42b0-834a-4e8bb7729c2d",
       "key": "MNAU2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072177,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -591,9 +662,9 @@
       }
     },
     {
-      "id": "",
+      "id": "1cb9beea-6f5b-4fe1-8aaa-e967357d2549",
       "key": "MNAV2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072184,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -602,9 +673,9 @@
       }
     },
     {
-      "id": "",
+      "id": "a592e061-8194-42c4-b2c3-2b471bb1bd22",
       "key": "MNAW2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072191,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -613,9 +684,9 @@
       }
     },
     {
-      "id": "",
+      "id": "a44959f4-0662-496e-9c84-e0f22c11b852",
       "key": "MNAX2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072207,
       "tag_color": "ff2121",
       "category": "iPhone 7 Verizon",
       "metadata": {
@@ -624,9 +695,9 @@
       }
     },
     {
-      "id": "",
+      "id": "71473242-6ccd-432e-a3f5-4f51a908a7f3",
       "key": "MNAY2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072214,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
@@ -635,9 +706,9 @@
       }
     },
     {
-      "id": "",
+      "id": "91d273ba-f282-4c46-b8eb-311c2cbe4607",
       "key": "MNC02LL/A",
-      "upc": 100000000000,
+      "upc": 190198072221,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
@@ -646,9 +717,9 @@
       }
     },
     {
-      "id": "",
+      "id": "ad63e186-ccb5-4736-88f5-1b5f9d0c920a",
       "key": "MNC12LL/A",
-      "upc": 100000000000,
+      "upc": 190198072238,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
@@ -657,9 +728,9 @@
       }
     },
     {
-      "id": "",
+      "id": "187f13a7-e454-40d3-801a-42122a7a617e",
       "key": "MNC22LL/A",
-      "upc": 100000000000,
+      "upc": 190198072245,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
@@ -668,9 +739,9 @@
       }
     },
     {
-      "id": "",
+      "id": "7d4d0d0c-6a8b-42d7-8f6e-464f94afb714",
       "key": "MNC32LL/A",
-      "upc": 100000000000,
+      "upc": 190198072252,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
@@ -679,9 +750,9 @@
       }
     },
     {
-      "id": "",
+      "id": "768c1e34-9085-4c8e-9106-9cfb4c60c3ce",
       "key": "MNC42LL/A",
-      "upc": 100000000000,
+      "upc": 190198072269,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
@@ -690,9 +761,9 @@
       }
     },
     {
-      "id": "",
+      "id": "cfb36ff0-ddb8-4959-aa2b-91d44d53269f",
       "key": "MNC52LL/A",
-      "upc": 100000000000,
+      "upc": 190198072276,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
@@ -701,9 +772,9 @@
       }
     },
     {
-      "id": "",
+      "id": "b5a9b18a-4bf1-4fd3-a4d9-fa20e8df6b81",
       "key": "MNC62LL/A",
-      "upc": 100000000000,
+      "upc": 190198072283,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
@@ -712,9 +783,9 @@
       }
     },
     {
-      "id": "",
+      "id": "cea10ccf-bd83-4e3c-b183-437ec6bc9097",
       "key": "MNC72LL/A",
-      "upc": 100000000000,
+      "upc": 190198072290,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
@@ -723,9 +794,9 @@
       }
     },
     {
-      "id": "",
+      "id": "00583063-f49a-4bc1-9f15-53250baaf676",
       "key": "MNC82LL/A",
-      "upc": 100000000000,
+      "upc": 190198072306,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
@@ -734,9 +805,9 @@
       }
     },
     {
-      "id": "",
+      "id": "de917340-a22a-43d2-b098-fb0158778964",
       "key": "MNC92LL/A",
-      "upc": 100000000000,
+      "upc": 190198072313,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
@@ -745,9 +816,9 @@
       }
     },
     {
-      "id": "",
+      "id": "7d580f66-7a53-45f5-9ce5-e5c741fc0562",
       "key": "MNCA2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072320,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
@@ -756,9 +827,9 @@
       }
     },
     {
-      "id": "",
+      "id": "46507e7b-2183-443b-aef5-f27c5406f27d",
       "key": "MNCC2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072337,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
@@ -767,9 +838,9 @@
       }
     },
     {
-      "id": "",
+      "id": "b2b5df3c-5509-4001-90e6-70f26e5fd220",
       "key": "MNCD2LL/A",
-      "upc": 100000000000,
+      "upc": 190198072344,
       "tag_color": "ffbb00",
       "category": "iPhone 7 Sprint",
       "metadata": {
