@@ -1,0 +1,116 @@
+{
+  "collections": [
+    {
+      "id": "5e374b4f-2a67-44b1-9a9b-fd0a4056875b",
+      "key": "Watch Nike+",
+      "label_ids": [
+        "27ed794d-a2e6-4fae-960d-2cd0a0f31e67",
+        "39ec4a0e-597c-4ae5-915c-2ec8a7229fda",
+        "ecc5c1fd-43ba-4e72-b7fe-af8a83d7dff1",
+        "4a0e8dda-215a-4c1d-a42e-ebb278e1d48b",
+        "a7925bd8-1d31-46c7-bc8f-e50bcd126d55",
+        "917715d3-6054-44f0-b853-30a4f75026c2",
+        "59586103-3261-4080-b282-caa45be787b9",
+        "7e88c5dc-0075-4fa6-b8e5-0a7c833d129e"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "27ed794d-a2e6-4fae-960d-2cd0a0f31e67",
+      "key": "MNYP2LL/A",
+      "upc": 190198194282,
+      "tag_color": "d1ff07",
+      "category": "Watch Nike+ 38mm",
+      "metadata": {
+        "case_material": "Silver Aluminum",
+        "band_type": "Nike Sport",
+        "band_color": "Silver/Volt"
+      }
+    },
+    {
+      "id": "39ec4a0e-597c-4ae5-915c-2ec8a7229fda",
+      "key": "MNNQ2LL/A",
+      "upc": 190198131591,
+      "tag_color": "d1ff07",
+      "category": "Watch Nike+ 38mm",
+      "metadata": {
+        "case_material": "Silver Aluminum",
+        "band_type": "Nike Sport",
+        "band_color": "Silver/White"
+      }
+    },
+    {
+      "id": "ecc5c1fd-43ba-4e72-b7fe-af8a83d7dff1",
+      "key": "MNYX2LL/A",
+      "upc": 190198199904,
+      "tag_color": "d1ff07",
+      "category": "Watch Nike+ 38mm",
+      "metadata": {
+        "case_material": "SG Aluminum",
+        "band_type": "Nike Sport",
+        "band_color": "Black/Cool Gray"
+      }
+    },
+    {
+      "id": "4a0e8dda-215a-4c1d-a42e-ebb278e1d48b",
+      "key": "MP082LL/A",
+      "upc": 190198209535,
+      "tag_color": "d1ff07",
+      "category": "Watch Nike+ 38mm",
+      "metadata": {
+        "case_material": "SG Aluminum",
+        "band_type": "Nike Sport",
+        "band_color": "Black/Volt"
+      }
+    },
+    {
+      "id": "a7925bd8-1d31-46c7-bc8f-e50bcd126d55",
+      "key": "MNYQ2LL/A",
+      "upc": 190198194565,
+      "tag_color": "ffae00",
+      "category": "Watch Nike+ 42mm",
+      "metadata": {
+        "case_material": "Silver Aluminum",
+        "band_type": "Nike Sport",
+        "band_color": "Silver/Volt"
+      }
+    },
+    {
+      "id": "917715d3-6054-44f0-b853-30a4f75026c2",
+      "key": "MNNT2LL/A",
+      "upc": 190198131614,
+      "tag_color": "ffae00",
+      "category": "Watch Nike+ 42mm",
+      "metadata": {
+        "case_material": "Silver Aluminum",
+        "band_type": "Nike Sport",
+        "band_color": "Silver/White"
+      }
+    },
+    {
+      "id": "59586103-3261-4080-b282-caa45be787b9",
+      "key": "MNYY2LL/A",
+      "upc": 190198200198,
+      "tag_color": "ffae00",
+      "category": "Watch Nike+ 42mm",
+      "metadata": {
+        "case_material": "SG Aluminum",
+        "band_type": "Nike Sport",
+        "band_color": "Black/Cool Gray"
+      }
+    },
+    {
+      "id": "7e88c5dc-0075-4fa6-b8e5-0a7c833d129e",
+      "key": "MP0A2LL/A",
+      "upc": 190198212122,
+      "tag_color": "ffae00",
+      "category": "Watch Nike+ 42mm",
+      "metadata": {
+        "case_material": "SG Aluminum",
+        "band_type": "Nike Sport",
+        "band_color": "Black/Volt"
+      }
+    }
+  ]
+}
