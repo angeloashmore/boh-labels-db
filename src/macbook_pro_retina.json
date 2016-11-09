@@ -2,9 +2,10 @@
   "collections": [
     {
       "id": "9786c090-a2a7-4877-b229-b9af18302cd5",
-      "key": "MacBook Pro 13\"",
+      "key": "MacBook Pro Retina",
       "label_ids": [
-        ""
+        "11eeb24f-4168-424b-808d-aad2e525800e",
+        "58dea12f-8aef-49f8-84bc-e65b8df14b57"
       ]
     }
   ],
