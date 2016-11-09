@@ -4,14 +4,14 @@
       "id": "9786c090-a2a7-4877-b229-b9af18302cd5",
       "key": "MacBook Pro Retina",
       "label_ids": [
-        "11eeb24f-4168-424b-808d-aad2e525800e",
-        "58dea12f-8aef-49f8-84bc-e65b8df14b57"
+        "f94b343d-42b2-4d6b-9d5d-87f19a4bef54",
+        "1cc65a59-bf75-4a31-aae9-15d2c6989b6c"
       ]
     }
   ],
   "labels": [
     {
-      "id": "11eeb24f-4168-424b-808d-aad2e525800e",
+      "id": "f94b343d-42b2-4d6b-9d5d-87f19a4bef54",
       "key": "MF839LL/A",
       "upc": 885909918164,
       "tag_color": "ff3399",
@@ -23,7 +23,7 @@
       }
     },
     {
-      "id": "58dea12f-8aef-49f8-84bc-e65b8df14b57",
+      "id": "1cc65a59-bf75-4a31-aae9-15d2c6989b6c",
       "key": "MJLQ2LL/A",
       "upc": 888462101103,
       "tag_color": "99004d",
