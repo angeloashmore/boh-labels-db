@@ -1,6 +1,6 @@
 {
   "name": "boh-labels-db",
-  "version": "0.1.0",
+  "version": "1.2.13",
   "scripts": {
     "convert": "babel-node convert.js",
     "build": "babel-node index.js"

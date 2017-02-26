@@ -23,7 +23,7 @@
       "id": "a292803d-2b15-4891-9579-1e7d64dabb17",
       "key": "MJVV2LL/A",
       "upc": 888462111010,
-      "tag_color": 800000,
+      "tag_color": 333333,
       "category": "SIM Card",
       "metadata": {
         "carrier": "Apple",
@@ -34,7 +34,7 @@
       "id": "e670eeff-5257-4bea-8319-66e5e0252e42",
       "key": "HD566LL/A",
       "upc": 607376073630,
-      "tag_color": 800000,
+      "tag_color": "006ae5",
       "category": "SIM Card",
       "metadata": {
         "carrier": "AT&T",
@@ -45,7 +45,7 @@
       "id": "1d930f29-2bd1-4456-ad5a-807b862fda38",
       "key": "HE507LL/A",
       "upc": 607376019881,
-      "tag_color": 800000,
+      "tag_color": "006ae5",
       "category": "SIM Card",
       "metadata": {
         "carrier": "AT&T",
@@ -57,7 +57,7 @@
       "id": "b37745f6-83c5-448d-8e8a-d5f8c6b06e89",
       "key": "HD565LL/A",
       "upc": 607376019560,
-      "tag_color": 800000,
+      "tag_color": "006ae5",
       "category": "SIM Card",
       "metadata": {
         "carrier": "AT&T",
@@ -69,7 +69,7 @@
       "id": "dd77822a-7e2e-4968-9a66-80be1cf02f56",
       "key": "H7599LL/A",
       "upc": 885909539970,
-      "tag_color": 800000,
+      "tag_color": "f5c423",
       "category": "SIM Card",
       "metadata": {
         "carrier": "Sprint",
@@ -81,7 +81,7 @@
       "id": "a9cd608e-f4ca-4d72-bb50-fbcdf7f38281",
       "key": "HB155LL/A",
       "upc": 760492013536,
-      "tag_color": 800000,
+      "tag_color": "f5c423",
       "category": "SIM Card",
       "metadata": {
         "carrier": "Sprint",
@@ -93,7 +93,7 @@
       "id": "8666680d-74cc-48ae-82be-1d4eb86c1232",
       "key": "HHK42LL/A",
       "upc": 760492031912,
-      "tag_color": 800000,
+      "tag_color": "f5c423",
       "category": "SIM Card",
       "metadata": {
         "carrier": "Sprint",
@@ -104,7 +104,7 @@
       "id": "be8e642a-197d-4ebd-ab81-e7c328665e73",
       "key": "H7598LL/A",
       "upc": 885909539963,
-      "tag_color": 800000,
+      "tag_color": "ff2121",
       "category": "SIM Card",
       "metadata": {
         "carrier": "Verizon",
@@ -115,7 +115,7 @@
       "id": "aa894e80-58fa-4901-85e7-a3e0a854f426",
       "key": "HA406LL/A",
       "upc": 840168090211,
-      "tag_color": 800000,
+      "tag_color": "ff2121",
       "category": "SIM Card",
       "metadata": {
         "carrier": "Verizon",
@@ -126,7 +126,7 @@
       "id": "9832c7dc-bfc0-44c6-b82c-afeb33b03dee",
       "key": "HB928LL/A",
       "upc": 610214631039,
-      "tag_color": 800000,
+      "tag_color": "ff2194",
       "category": "SIM Card",
       "metadata": {
         "carrier": "T-Mobile",
@@ -137,7 +137,7 @@
       "id": "55becda5-3fb7-4fc7-abd0-931768da06ab",
       "key": "HG5W2LL/A",
       "upc": 610214628398,
-      "tag_color": 800000,
+      "tag_color": "ff2194",
       "category": "SIM Card Pre-paid",
       "metadata": {
         "carrier": "T-Mobile",
