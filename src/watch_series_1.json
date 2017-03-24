@@ -8,10 +8,13 @@
         "ddbe6d64-04e4-49ae-b6b5-73cd53e9e3cc",
         "8400ab8c-8f00-4450-95a1-70a140eda736",
         "eca20431-a6eb-4e3f-87bc-713f26477f2f",
+        "c351b817-34d5-4410-a643-29b84206f00d",
         "85f46644-13e5-4865-9d20-416b7c8514b6",
+        "737dba49-8be0-4dc8-970e-b271215dd5a7",
         "f80f8dab-324d-46e0-b2c2-852bf09dcbf1",
         "1be839c8-0f00-48fe-b08c-16afff9835fc",
-        "8814ddd8-1a92-4080-81b6-88ba615a7842"
+        "8814ddd8-1a92-4080-81b6-88ba615a7842",
+        "9f2ee3b7-ff82-427a-8cf6-c078027a4ddc"
       ]
     }
   ],
@@ -65,6 +68,18 @@
       }
     },
     {
+      "id": "c351b817-34d5-4410-a643-29b84206f00d",
+      "key": "MQ102LL/A",
+      "upc": 190198396617,
+      "tag_color": 333333,
+      "category": "Watch Series 1 38mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Midnight Blue"
+      }
+    },
+    {
       "id": "85f46644-13e5-4865-9d20-416b7c8514b6",
       "key": "MNNM2LL/A",
       "upc": 190198131560,
@@ -74,6 +89,18 @@
         "case_material": "Aluminum",
         "band_type": "Sport",
         "band_color": "Midnight Blue"
+      }
+    },
+    {
+      "id": "737dba49-8be0-4dc8-970e-b271215dd5a7",
+      "key": "MQ112LL/A",
+      "upc": 190198396877,
+      "tag_color": 333333,
+      "category": "Watch Series 1 42mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Pink Sand"
       }
     },
     {
@@ -110,6 +137,18 @@
         "case_material": "Aluminum",
         "band_type": "Sport",
         "band_color": "Cocoa"
+      }
+    },
+    {
+      "id": "9f2ee3b7-ff82-427a-8cf6-c078027a4ddc",
+      "key": "MQ122LL/A",
+      "upc": 190198397133,
+      "tag_color": 333333,
+      "category": "Watch Series 1 42mm",
+      "metadata": {
+        "case_material": "Aluminum",
+        "band_type": "Sport",
+        "band_color": "Midnight Blue"
       }
     }
   ]
