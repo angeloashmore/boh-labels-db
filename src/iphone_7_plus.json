@@ -13,11 +13,13 @@
         "3b12f292-cef8-4c4b-9818-945da578257c",
         "b56e74a2-96c1-4ae7-820f-33e3a2f8147f",
         "9ff1e270-2520-4a84-a1e9-4c6d9e5adb25",
+        "ebbda56a-b6ad-4418-83ca-3d57f926cbdf",
         "285440f8-9a2c-4a0e-a76b-4c7517f635ab",
         "98741112-e6c9-49e8-9511-ed87643eca9e",
         "bb5c1bc4-04fa-4929-b64f-1a583c99c612",
         "4fbbc251-2f51-4c0f-a1bd-4901ec4a466f",
         "a1433c61-78e0-48cf-b776-1b851ef5d266",
+        "d778fa50-ba46-4312-95ce-2acf8c1f37a6",
         "7812e443-eecb-4d8a-9a7e-9cc082c05e56",
         "40fa961c-a1b9-49e9-b5a4-4c3183a4c603",
         "8b0aa641-82d1-49f3-981b-1f64479b36db",
@@ -27,11 +29,13 @@
         "42f97d12-8e7c-4b10-be99-323ebbacf8f5",
         "7fcfeca8-cc5c-433b-85c3-58720281ce23",
         "c9ead7db-e7e3-4f3a-8759-b2d465c60b72",
+        "16f9586e-c5e0-42ff-8f89-a37c6040712d",
         "64b8dc10-d324-42db-addf-8a2869717256",
         "6d2e14b9-ee20-4b32-97e6-1c3f42e18742",
         "5f34a17a-f5df-42a4-9976-cbd26b08ebd1",
         "e393fe52-8904-4b6f-a75c-cbbc04299806",
         "39076984-dc87-45f9-b9f0-5605da7f758e",
+        "9d949111-6eaa-469c-a6ad-c0b8254f2a6e",
         "e1678e7f-e927-40b9-b9a9-5cbc288070f1",
         "a07a34f7-8c65-451e-bd77-7a226b2bad4c",
         "e90b4a6c-8fd1-4b35-b712-48892de8fe79",
@@ -41,11 +45,13 @@
         "df2e1661-487e-4923-8e86-434e1a66ccd9",
         "66ece7b8-c937-4ab6-a6e6-53d45ca26ca5",
         "0fc7609c-3616-4efb-abb0-2603a8508344",
+        "378e1fd5-ed16-4486-a3de-cd39a21d5d75",
         "f6f47ba8-4acf-40ed-aa74-58a712925791",
         "f3545588-a069-4870-a59b-eecd4b7e631b",
         "39576468-d976-4ff6-99a2-0376607c0433",
         "6cf42470-c222-4765-a3eb-ad587ec542cd",
         "eb655378-fbb0-43ac-9e48-1b569e381910",
+        "201bd4ae-a77e-4c62-9cb5-31704ba70d9e",
         "2d8070f5-5d1b-4994-980f-c60e748a6676",
         "5effbcb7-8431-4227-9470-6a8397b3087f",
         "5a02708f-f4d6-4cec-86b7-415db2698f32",
@@ -55,11 +61,13 @@
         "38421580-befc-48b6-9f94-780aafffc0e9",
         "94626278-02e6-411f-8214-0121b04babcb",
         "e92e690a-9798-4469-9f74-e5f8a9ee9c44",
+        "b269d465-df26-48da-addd-319c70728388",
         "32c7934f-bb50-47b5-a87c-47992f5d5101",
         "2a78e07d-446b-4190-a73b-966af0152848",
         "db30a5d0-7f9e-4930-a646-6a8dad8a1bb8",
         "eac3acb1-b9d5-40e2-8730-9f8e3a89ce5f",
         "97bfaa39-f694-4689-bacf-6d48820c7ee4",
+        "96daa40b-20a0-414c-ab57-be2714a6535c",
         "e98395c9-c6ce-40db-a630-21b2cbb44db0",
         "2573f8cd-53c4-4030-a226-2e4989bce9a9",
         "60fc17f5-6a87-4a39-91e9-07db1637c03e",
@@ -69,11 +77,13 @@
         "73a39876-6215-44be-9415-37b943273577",
         "dc3ba4a7-1701-4d49-9334-634c10312075",
         "80bae1ed-ab1e-4154-afff-63d59a9c0f59",
+        "cfb5adfd-d4c6-474c-a9b7-fbf622c8c485",
         "d156b893-642f-46cc-8b6d-49df473a3240",
         "836f49f9-2bfc-4813-81e1-28bf30505302",
         "c88cf5f1-872c-4537-ad53-ff468e2e90c9",
         "d64d758a-bc26-4f1a-baa9-d49dd2fbfed7",
-        "6c70d3b4-8691-4687-9226-26705c38b157"
+        "6c70d3b4-8691-4687-9226-26705c38b157",
+        "dc749a1e-1f43-46f3-9d65-f18c6ba2ce01"
       ]
     }
   ],
@@ -178,6 +188,17 @@
       }
     },
     {
+      "id": "ebbda56a-b6ad-4418-83ca-3d57f926cbdf",
+      "key": "MPQV2LL/A",
+      "upc": 190198354426,
+      "tag_color": 333333,
+      "category": "iPhone 7 Plus Unlocked",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "(PRODUCT)RED"
+      }
+    },
+    {
       "id": "285440f8-9a2c-4a0e-a76b-4c7517f635ab",
       "key": "MN4E2LL/A",
       "upc": 190198043412,
@@ -230,6 +251,17 @@
       "metadata": {
         "capacity": "256GB",
         "color": "Jet Black"
+      }
+    },
+    {
+      "id": "d778fa50-ba46-4312-95ce-2acf8c1f37a6",
+      "key": "MPR52LL/A",
+      "upc": 190198354891,
+      "tag_color": 333333,
+      "category": "iPhone 7 Plus Unlocked",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "(PRODUCT)RED"
       }
     },
     {
@@ -332,6 +364,17 @@
       }
     },
     {
+      "id": "16f9586e-c5e0-42ff-8f89-a37c6040712d",
+      "key": "MPQX2LL/A",
+      "upc": 190198354808,
+      "tag_color": "006ae5",
+      "category": "iPhone 7 Plus AT&T",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "(PRODUCT)RED"
+      }
+    },
+    {
       "id": "64b8dc10-d324-42db-addf-8a2869717256",
       "key": "MN592LL/A",
       "upc": 190198047656,
@@ -384,6 +427,17 @@
       "metadata": {
         "capacity": "256GB",
         "color": "Jet Black"
+      }
+    },
+    {
+      "id": "9d949111-6eaa-469c-a6ad-c0b8254f2a6e",
+      "key": "MPR72LL/A",
+      "upc": 190198355287,
+      "tag_color": "006ae5",
+      "category": "iPhone 7 Plus AT&T",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "(PRODUCT)RED"
       }
     },
     {
@@ -486,6 +540,17 @@
       }
     },
     {
+      "id": "378e1fd5-ed16-4486-a3de-cd39a21d5d75",
+      "key": "MPQY2LL/A",
+      "upc": 190198354815,
+      "tag_color": "ff2194",
+      "category": "iPhone 7 Plus T-Mobile",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "(PRODUCT)RED"
+      }
+    },
+    {
       "id": "f6f47ba8-4acf-40ed-aa74-58a712925791",
       "key": "MN5M2LL/A",
       "upc": 190198047755,
@@ -538,6 +603,17 @@
       "metadata": {
         "capacity": "256GB",
         "color": "Jet Black"
+      }
+    },
+    {
+      "id": "201bd4ae-a77e-4c62-9cb5-31704ba70d9e",
+      "key": "MPR82LL/A",
+      "upc": 190198355294,
+      "tag_color": "ff2194",
+      "category": "iPhone 7 Plus T-Mobile",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "(PRODUCT)RED"
       }
     },
     {
@@ -640,6 +716,17 @@
       }
     },
     {
+      "id": "b269d465-df26-48da-addd-319c70728388",
+      "key": "MPR02LL/A",
+      "upc": 190198354822,
+      "tag_color": "ff2121",
+      "category": "iPhone 7 Plus Verizon",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "(PRODUCT)RED"
+      }
+    },
+    {
       "id": "32c7934f-bb50-47b5-a87c-47992f5d5101",
       "key": "MN5Y2LL/A",
       "upc": 190198047854,
@@ -692,6 +779,17 @@
       "metadata": {
         "capacity": "256GB",
         "color": "Jet Black"
+      }
+    },
+    {
+      "id": "96daa40b-20a0-414c-ab57-be2714a6535c",
+      "key": "MPR92LL/A",
+      "upc": 190198355300,
+      "tag_color": "ff2121",
+      "category": "iPhone 7 Plus Verizon",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "(PRODUCT)RED"
       }
     },
     {
@@ -794,6 +892,17 @@
       }
     },
     {
+      "id": "cfb5adfd-d4c6-474c-a9b7-fbf622c8c485",
+      "key": "MPR12LL/A",
+      "upc": 190198354839,
+      "tag_color": "ffbb00",
+      "category": "iPhone 7 Plus Sprint",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "(PRODUCT)RED"
+      }
+    },
+    {
       "id": "d156b893-642f-46cc-8b6d-49df473a3240",
       "key": "MN692LL/A",
       "upc": 190198047953,
@@ -846,6 +955,17 @@
       "metadata": {
         "capacity": "256GB",
         "color": "Jet Black"
+      }
+    },
+    {
+      "id": "dc749a1e-1f43-46f3-9d65-f18c6ba2ce01",
+      "key": "MPRA2LL/A",
+      "upc": 190198355317,
+      "tag_color": "ffbb00",
+      "category": "iPhone 7 Plus Sprint",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "(PRODUCT)RED"
       }
     }
   ]

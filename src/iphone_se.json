@@ -50,441 +50,441 @@
   "labels": [
     {
       "id": "944a57b9-f6a4-4de4-aa9e-f7280a5d3d97",
-      "key": "MLLW2LL/A",
-      "upc": 888462734868,
+      "key": "MP7T2LL/A",
+      "upc": 190198291936,
       "tag_color": 333333,
       "category": "iPhone SE Unlocked",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "bc65da5b-7bb9-439c-80fe-f4276033f126",
-      "key": "MLLX2LL/A",
-      "upc": 888462734875,
+      "key": "MP7U2LL/A",
+      "upc": 190198291950,
       "tag_color": 333333,
       "category": "iPhone SE Unlocked",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "5e7d6859-025d-4625-b865-ad01df20fc46",
-      "key": "MLY12LL/A",
-      "upc": 888462803939,
+      "key": "MP7V2LL/A",
+      "upc": 190198291974,
       "tag_color": 333333,
       "category": "iPhone SE Unlocked",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },
     {
       "id": "40e0bcb4-3821-4ad4-a23c-1204d89c10ff",
-      "key": "MLY22LL/A",
-      "upc": 888462803946,
+      "key": "MP7W2LL/A",
+      "upc": 190198291998,
       "tag_color": 333333,
       "category": "iPhone SE Unlocked",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Rose Gold"
       }
     },
     {
       "id": "32259a81-0cd8-4cc8-98bd-f909a4636afc",
-      "key": "MLMD2LL/A",
-      "upc": 888462773126,
+      "key": "MP7X2LL/A",
+      "upc": 190198292018,
       "tag_color": 333333,
       "category": "iPhone SE Unlocked",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "85662626-e90f-4fb6-a38d-a3fde586cb05",
-      "key": "MLME2LL/A",
-      "upc": 888462773133,
+      "key": "MP7Y2LL/A",
+      "upc": 190198292032,
       "tag_color": 333333,
       "category": "iPhone SE Unlocked",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Silver"
       }
     },
     {
       "id": "6c753f07-5159-47d7-a1fa-d98662fcfcc2",
-      "key": "MLY32LL/A",
-      "upc": 888462803953,
+      "key": "MP802LL/A",
+      "upc": 190198292056,
       "tag_color": 333333,
       "category": "iPhone SE Unlocked",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Gold"
       }
     },
     {
       "id": "216fe99a-4c16-4dea-b963-1840eb53e8ed",
-      "key": "MLY42LL/A",
-      "upc": 888462803960,
+      "key": "MP812LL/A",
+      "upc": 190198292070,
       "tag_color": 333333,
       "category": "iPhone SE Unlocked",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Rose Gold"
       }
     },
     {
       "id": "b4da7c43-32f2-4821-8c57-5f428e910252",
-      "key": "MLLL2LL/A",
-      "upc": 888462733762,
+      "key": "MP8A2LL/A",
+      "upc": 190198296498,
       "tag_color": "006ae5",
       "category": "iPhone SE AT&T",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "50509bdc-9ed4-49d1-b0b7-e11184f2fad9",
-      "key": "MLLM2LL/A",
-      "upc": 888462733779,
+      "key": "MP8C2LL/A",
+      "upc": 190198296504,
       "tag_color": "006ae5",
       "category": "iPhone SE AT&T",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "dcf882e2-98c8-474e-b1be-95764c837945",
-      "key": "MLXH2LL/A",
-      "upc": 888462801652,
+      "key": "MP8D2LL/A",
+      "upc": 190198296511,
       "tag_color": "006ae5",
       "category": "iPhone SE AT&T",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },
     {
       "id": "22b95cff-b796-4ca4-81c5-df38daf15a95",
-      "key": "MLXJ2LL/A",
-      "upc": 888462801669,
+      "key": "MP8E2LL/A",
+      "upc": 190198296528,
       "tag_color": "006ae5",
       "category": "iPhone SE AT&T",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Rose Gold"
       }
     },
     {
       "id": "ce968da5-c8bb-4ae1-bcb6-1d4a187f7d9b",
-      "key": "MLM42LL/A",
-      "upc": 888462734929,
+      "key": "MP932LL/A",
+      "upc": 190198296696,
       "tag_color": "006ae5",
       "category": "iPhone SE AT&T",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "36d2ade6-3146-4266-b493-9a13e8dbcf0a",
-      "key": "MLM52LL/A",
-      "upc": 888462734936,
+      "key": "MP942LL/A",
+      "upc": 190198296702,
       "tag_color": "006ae5",
       "category": "iPhone SE AT&T",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Silver"
       }
     },
     {
       "id": "af371872-4b35-46f3-9ac7-8a9c2a1bad9a",
-      "key": "MLXK2LL/A",
-      "upc": 888462801676,
+      "key": "MP952LL/A",
+      "upc": 190198296719,
       "tag_color": "006ae5",
       "category": "iPhone SE AT&T",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Gold"
       }
     },
     {
       "id": "264c79f8-02fa-4d2c-90d3-d68f3f6b5da1",
-      "key": "MLXL2LL/A",
-      "upc": 888462801683,
+      "key": "MP962LL/A",
+      "upc": 190198296726,
       "tag_color": "006ae5",
       "category": "iPhone SE AT&T",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Rose Gold"
       }
     },
     {
       "id": "4200a759-e7ef-4357-a887-99e7531ea6cd",
-      "key": "MLLY2LL/A",
-      "upc": 888462734882,
+      "key": "MP8K2LL/A",
+      "upc": 190198296573,
       "tag_color": "ff2121",
       "category": "iPhone SE Verizon",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "aa255aa9-fd54-40e4-8c2e-18cba160c9e0",
-      "key": "MLM02LL/A",
-      "upc": 888462734899,
+      "key": "MP8L2LL/A",
+      "upc": 190198296580,
       "tag_color": "ff2121",
       "category": "iPhone SE Verizon",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "9842c8d7-c90c-4f6a-b039-2143a30be912",
-      "key": "MLY52LL/A",
-      "upc": 888462803977,
+      "key": "MP8M2LL/A",
+      "upc": 190198296597,
       "tag_color": "ff2121",
       "category": "iPhone SE Verizon",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },
     {
       "id": "2a33f003-3b77-4273-83d3-93f574329750",
-      "key": "MLY62LL/A",
-      "upc": 888462803984,
+      "key": "MP8N2LL/A",
+      "upc": 190198296603,
       "tag_color": "ff2121",
       "category": "iPhone SE Verizon",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Rose Gold"
       }
     },
     {
       "id": "57487c91-5bc9-4c7e-ac04-b78391993687",
-      "key": "MLMF2LL/A",
-      "upc": 888462773140,
+      "key": "MP9C2LL/A",
+      "upc": 190198296771,
       "tag_color": "ff2121",
       "category": "iPhone SE Verizon",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "fa3825a0-37c4-4bee-957e-3e8fe30a5113",
-      "key": "MLMG2LL/A",
-      "upc": 888462773157,
+      "key": "MP9D2LL/A",
+      "upc": 190198296788,
       "tag_color": "ff2121",
       "category": "iPhone SE Verizon",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Silver"
       }
     },
     {
       "id": "0f0e06c7-fb41-4868-a1ae-645d673fe29c",
-      "key": "MLY72LL/A",
-      "upc": 888462803991,
+      "key": "MP9E2LL/A",
+      "upc": 190198296795,
       "tag_color": "ff2121",
       "category": "iPhone SE Verizon",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Gold"
       }
     },
     {
       "id": "7e9fee4d-dab9-4bda-a846-d83da0798a47",
-      "key": "MLY82LL/A",
-      "upc": 888462804004,
+      "key": "MP9F2LL/A",
+      "upc": 190198296801,
       "tag_color": "ff2121",
       "category": "iPhone SE Verizon",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Rose Gold"
       }
     },
     {
       "id": "055fd6e3-3a4e-4ffe-96ad-47152056abfd",
-      "key": "MLLU2LL/A",
-      "upc": 888462734844,
+      "key": "MP8F2LL/A",
+      "upc": 190198296535,
       "tag_color": "ff2194",
-      "category": "iPhone SE TMobile",
+      "category": "iPhone SE T-Mobile",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "c7230be8-7613-4688-a9a8-0f17e94ac1b9",
-      "key": "MLLV2LL/A",
-      "upc": 888462734851,
+      "key": "MP8G2LL/A",
+      "upc": 190198296542,
       "tag_color": "ff2194",
-      "category": "iPhone SE TMobile",
+      "category": "iPhone SE T-Mobile",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "820e7f68-a241-4b68-a798-f0500933492c",
-      "key": "MLXW2LL/A",
-      "upc": 888462803892,
+      "key": "MP8H2LL/A",
+      "upc": 190198296559,
       "tag_color": "ff2194",
-      "category": "iPhone SE TMobile",
+      "category": "iPhone SE T-Mobile",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },
     {
       "id": "73039cc0-e05c-41d4-b6ea-a816e2149d7c",
-      "key": "MLXX2LL/A",
-      "upc": 888462803908,
+      "key": "MP8J2LL/A",
+      "upc": 190198296566,
       "tag_color": "ff2194",
-      "category": "iPhone SE TMobile",
+      "category": "iPhone SE T-Mobile",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Rose Gold"
       }
     },
     {
       "id": "a1ce2574-3954-46d5-b8a6-1a22420560e5",
-      "key": "MLMA2LL/A",
-      "upc": 888462773102,
+      "key": "MP972LL/A",
+      "upc": 190198296733,
       "tag_color": "ff2194",
-      "category": "iPhone SE TMobile",
+      "category": "iPhone SE T-Mobile",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "37f6f515-3d47-4442-b64a-47c56ef2efbf",
-      "key": "MLMC2LL/A",
-      "upc": 888462773119,
+      "key": "MP982LL/A",
+      "upc": 190198296740,
       "tag_color": "ff2194",
-      "category": "iPhone SE TMobile",
+      "category": "iPhone SE T-Mobile",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Silver"
       }
     },
     {
       "id": "302c654c-8624-4a6f-9ed4-26ffc97aac2d",
-      "key": "MLXY2LL/A",
-      "upc": 888462803915,
+      "key": "MP992LL/A",
+      "upc": 190198296757,
       "tag_color": "ff2194",
-      "category": "iPhone SE TMobile",
+      "category": "iPhone SE T-Mobile",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Gold"
       }
     },
     {
       "id": "dcc43dd7-96dc-4aa6-bd97-7145b4c56049",
-      "key": "MLY02LL/A",
-      "upc": 888462803922,
+      "key": "MP9A2LL/A",
+      "upc": 190198296764,
       "tag_color": "ff2194",
-      "category": "iPhone SE TMobile",
+      "category": "iPhone SE T-Mobile",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Rose Gold"
       }
     },
     {
       "id": "7a5dd332-7d28-4029-a39d-0e133e98a815",
-      "key": "MLM22LL/A",
-      "upc": 888462734905,
+      "key": "MP8P2LL/A",
+      "upc": 190198296610,
       "tag_color": "ffbb00",
       "category": "iPhone SE Sprint",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "097b4fad-26b5-4371-afb2-b5d8051df42e",
-      "key": "MLM32LL/A",
-      "upc": 888462734912,
+      "key": "MP8Q2LL/A",
+      "upc": 190198296627,
       "tag_color": "ffbb00",
       "category": "iPhone SE Sprint",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Silver"
       }
     },
     {
       "id": "5bbe75d7-cc10-486e-939f-1b1c100b9cc0",
-      "key": "MLY92LL/A",
-      "upc": 888462804011,
+      "key": "MP8R2LL/A",
+      "upc": 190198296634,
       "tag_color": "ffbb00",
       "category": "iPhone SE Sprint",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Gold"
       }
     },
     {
       "id": "7fbda057-08a9-47b2-9d68-752d3bd3e109",
-      "key": "MLYA2LL/A",
-      "upc": 888462804028,
+      "key": "MP8T2LL/A",
+      "upc": 190198296641,
       "tag_color": "ffbb00",
       "category": "iPhone SE Sprint",
       "metadata": {
-        "capacity": "16GB",
+        "capacity": "32GB",
         "color": "Rose Gold"
       }
     },
     {
       "id": "6fd09943-8a66-455c-acb8-6f04a2482117",
-      "key": "MLMH2LL/A",
-      "upc": 888462773164,
+      "key": "MP9G2LL/A",
+      "upc": 190198296818,
       "tag_color": "ffbb00",
       "category": "iPhone SE Sprint",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "92936a78-9348-49f1-850c-6a30d371420d",
-      "key": "MLMJ2LL/A",
-      "upc": 888462773171,
+      "key": "MP9H2LL/A",
+      "upc": 190198296825,
       "tag_color": "ffbb00",
       "category": "iPhone SE Sprint",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Silver"
       }
     },
     {
       "id": "a245822a-c01c-42ad-a50d-6e9de9defa60",
-      "key": "MLYC2LL/A",
-      "upc": 888462804035,
+      "key": "MP9J2LL/A",
+      "upc": 190198296832,
       "tag_color": "ffbb00",
       "category": "iPhone SE Sprint",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Gold"
       }
     },
     {
       "id": "b6b895fa-f58f-416f-b383-93435a84b502",
-      "key": "MLYD2LL/A",
-      "upc": 888462804042,
+      "key": "MP9K2LL/A",
+      "upc": 190198296849,
       "tag_color": "ffbb00",
       "category": "iPhone SE Sprint",
       "metadata": {
-        "capacity": "64GB",
+        "capacity": "128GB",
         "color": "Rose Gold"
       }
     }
