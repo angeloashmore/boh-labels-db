@@ -12,7 +12,8 @@
         "f0f1ff0e-3ea3-4411-bb51-b41cd428b1b6",
         "6d4595cf-a2c2-4dad-a556-6f0841862e37",
         "ddddec89-dd43-4810-8e58-d83dd010e4b9",
-        "5ac95811-92ae-464b-81e7-627de42cad3d"
+        "5ac95811-92ae-464b-81e7-627de42cad3d",
+        "db0aed45-a30c-4990-ab71-6d6291e31a05"
       ]
     }
   ],
@@ -81,6 +82,17 @@
       "metadata": {
         "type": "Anti-Glare",
         "size": "iPhone SE"
+      }
+    },
+    {
+      "id": "db0aed45-a30c-4990-ab71-6d6291e31a05",
+      "key": "HHW12ZM/B",
+      "upc": 745883710386,
+      "tag_color": "15600b",
+      "category": "Belkin ScreenCare+",
+      "metadata": {
+        "type": "Anti-Glare",
+        "size": "iPhone 6/6s"
       }
     },
     {
