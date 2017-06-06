@@ -4,24 +4,11 @@
       "id": "9786c090-a2a7-4877-b229-b9af18302cd5",
       "key": "MacBook Pro Retina",
       "label_ids": [
-        "f94b343d-42b2-4d6b-9d5d-87f19a4bef54",
         "1cc65a59-bf75-4a31-aae9-15d2c6989b6c"
       ]
     }
   ],
   "labels": [
-    {
-      "id": "f94b343d-42b2-4d6b-9d5d-87f19a4bef54",
-      "key": "MF839LL/A",
-      "upc": 885909918164,
-      "tag_color": "ff3399",
-      "category": "MacBook Pro Retina 13\"",
-      "metadata": {
-        "processor": "2.7GHz",
-        "memory": "8GB",
-        "capacity": "128GB"
-      }
-    },
     {
       "id": "1cc65a59-bf75-4a31-aae9-15d2c6989b6c",
       "key": "MJLQ2LL/A",

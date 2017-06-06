@@ -2,11 +2,8 @@
   "collections": [
     {
       "id": "99089ff4-58bd-4a44-a441-de055d43947a",
-      "key": "MacBook Air",
+      "key": "",
       "label_ids": [
-        "2f119bf7-6113-4983-be03-9d3395764ed9",
-        "4c60f45d-cc1c-4dd2-909e-bfee1ccb901f",
-        "264c4816-6c93-42af-bca9-0dd27e306c41",
         "d32e7bba-b8a6-4239-8af8-1e24bea8d897",
         "c3c8e862-6551-4ccc-8d7f-8b77009f6dbf",
         "83d827da-4312-4225-8510-1756b964fca4"
@@ -15,69 +12,33 @@
   ],
   "labels": [
     {
-      "id": "2f119bf7-6113-4983-be03-9d3395764ed9",
-      "key": "MJVM2LL/A",
-      "upc": 888462341677,
-      "tag_color": "006ae5",
-      "category": "MacBook Air 11\"",
-      "metadata": {
-        "processor": "1.6GHz",
-        "memory": "4GB",
-        "capacity": "128GB"
-      }
-    },
-    {
-      "id": "4c60f45d-cc1c-4dd2-909e-bfee1ccb901f",
-      "key": "MJVP2LL/A",
-      "upc": 888462342131,
-      "tag_color": "006ae5",
-      "category": "MacBook Air 11\"",
-      "metadata": {
-        "processor": "1.6GHz",
-        "memory": "4GB",
-        "capacity": "256GB"
-      }
-    },
-    {
-      "id": "264c4816-6c93-42af-bca9-0dd27e306c41",
-      "key": "MJVR2LL/A",
-      "upc": 888462342438,
-      "tag_color": "006ae5",
-      "category": "MacBook Air 11\"",
-      "metadata": {
-        "processor": "2.2GHz",
-        "memory": "8GB",
-        "capacity": "512GB"
-      }
-    },
-    {
       "id": "d32e7bba-b8a6-4239-8af8-1e24bea8d897",
-      "key": "MMGF2LL/A",
-      "upc": 888462866019,
+      "key": "MQD32LL/A",
+      "upc": ,
       "tag_color": "006ae5",
       "category": "MacBook Air 13.3\"",
       "metadata": {
-        "processor": "1.6GHz",
+        "processor": "1.8GHz",
         "memory": "8GB",
         "capacity": "128GB"
       }
     },
     {
       "id": "c3c8e862-6551-4ccc-8d7f-8b77009f6dbf",
-      "key": "MMGG2LL/A",
-      "upc": 888462866446,
+      "key": "MQD42LL/A",
+      "upc": ,
       "tag_color": "006ae5",
       "category": "MacBook Air 13.3\"",
       "metadata": {
-        "processor": "1.6GHz",
+        "processor": "1.8GHz",
         "memory": "8GB",
         "capacity": "256GB"
       }
     },
     {
       "id": "83d827da-4312-4225-8510-1756b964fca4",
-      "key": "MMM62LL/A",
-      "upc": 888462901703,
+      "key": "MQD52LL/A",
+      "upc": ,
       "tag_color": "006ae5",
       "category": "MacBook Air 13.3\"",
       "metadata": {

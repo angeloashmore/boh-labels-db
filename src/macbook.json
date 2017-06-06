@@ -18,98 +18,98 @@
   "labels": [
     {
       "id": "759fee06-a863-4f86-8b22-afaff73730ae",
-      "key": "MLHE2LL/A",
-      "upc": 888462687706,
+      "key": "MNYF2LL/A",
+      "upc": ,
       "tag_color": "9900cc",
       "category": "MacBook",
       "metadata": {
-        "processor": "1.1GHz",
+        "processor": "1.2GHz",
         "capacity": "256GB / 8GB",
-        "color": "Gold"
+        "color": "Space Gray"
       }
     },
     {
       "id": "5d56157a-1f0b-4378-b627-07e2ff0806d2",
-      "key": "MMGL2LL/A",
-      "upc": 888462868198,
+      "key": "MNYG2LL/A",
+      "upc": ,
       "tag_color": "9900cc",
       "category": "MacBook",
       "metadata": {
-        "processor": "1.1GHz",
-        "capacity": "256GB / 8GB",
-        "color": "Rose Gold"
+        "processor": "1.3GHz",
+        "capacity": "512GB / 8GB",
+        "color": "Space Gray"
       }
     },
     {
       "id": "a813b9ba-1ab2-420c-9c7e-6ae809f4d60d",
-      "key": "MLHA2LL/A",
-      "upc": 888462687676,
+      "key": "MNYH2LL/A",
+      "upc": ,
       "tag_color": "9900cc",
       "category": "MacBook",
       "metadata": {
-        "processor": "1.1GHz",
+        "processor": "1.2GHz",
         "capacity": "256GB / 8GB",
         "color": "Silver"
       }
     },
     {
       "id": "50355483-1a17-456d-a1d4-029a1e6361df",
-      "key": "MLH72LL/A",
-      "upc": 888462687645,
+      "key": "MNYJ2LL/A",
+      "upc": ,
       "tag_color": "9900cc",
       "category": "MacBook",
       "metadata": {
-        "processor": "1.1GHz",
-        "capacity": "256GB / 8GB",
-        "color": "Space Gray"
+        "processor": "1.3GHz",
+        "capacity": "512GB / 8GB",
+        "color": "Silver"
       }
     },
     {
       "id": "2deeb7b9-0630-47e5-9cee-438920f0d85b",
-      "key": "MLHF2LL/A",
-      "upc": 888462687713,
+      "key": "MNYK2LL/A",
+      "upc": ,
       "tag_color": "9900cc",
       "category": "MacBook",
       "metadata": {
         "processor": "1.2GHz",
-        "capacity": "512GB / 8GB",
+        "capacity": "256GB / 8GB",
         "color": "Gold"
       }
     },
     {
       "id": "8a0375a1-2bb4-4c6c-87ac-97cffea0b9c4",
-      "key": "MMGM2LL/A",
-      "upc": 888462868648,
+      "key": "MNYL2LL/A",
+      "upc": ,
+      "tag_color": "9900cc",
+      "category": "MacBook",
+      "metadata": {
+        "processor": "1.3GHz",
+        "capacity": "512GB / 8GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "8db86d85-c673-4bf5-a1fe-9840f6386b81",
+      "key": "MNYM2LL/A",
+      "upc": ,
+      "tag_color": "9900cc",
+      "category": "MacBook",
+      "metadata": {
+        "processor": "1.2GHz",
+        "capacity": "256GB / 8GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "80471012-7a2b-43aa-a57f-3f271821a0f7",
+      "key": "MNYN2LL/A",
+      "upc": ,
       "tag_color": "9900cc",
       "category": "MacBook",
       "metadata": {
         "processor": "1.2GHz",
         "capacity": "512GB / 8GB",
         "color": "Rose Gold"
-      }
-    },
-    {
-      "id": "8db86d85-c673-4bf5-a1fe-9840f6386b81",
-      "key": "MLHC2LL/A",
-      "upc": 888462687683,
-      "tag_color": "9900cc",
-      "category": "MacBook",
-      "metadata": {
-        "processor": "1.2GHz",
-        "capacity": "512GB / 8GB",
-        "color": "Silver"
-      }
-    },
-    {
-      "id": "80471012-7a2b-43aa-a57f-3f271821a0f7",
-      "key": "MLH82LL/A",
-      "upc": 888462687652,
-      "tag_color": "9900cc",
-      "category": "MacBook",
-      "metadata": {
-        "processor": "1.2GHz",
-        "capacity": "512GB / 8GB",
-        "color": "Space Gray"
       }
     }
   ]

@@ -13,6 +13,9 @@
         "01bf2092-d3d5-420d-9b66-0c0723b9a7c8",
         "c5f0f569-2c47-4f47-9113-91765a1f8fbf",
         "1ea9f660-903b-44ab-9104-8540568a8e24",
+        "66b5b057-d256-4983-ad14-4254b918691d",
+        "f68096a2-59ac-4932-90d1-46087a2633c5",
+        "d8d2452d-a66a-42c8-989b-4d31449be4c9",
         "cf68b431-9cae-43ba-8bba-d6e1d0a9c9f2",
         "08294f97-ad24-4da0-91cb-abdcc0fb4f3d",
         "9aa28018-8c4a-4fd7-a780-1f034f3697aa",
@@ -25,166 +28,199 @@
   "labels": [
     {
       "id": "2cfd37c2-3936-4bea-8972-adc84164d51e",
-      "key": "ML0F2LL/A",
-      "upc": 888462515726,
+      "key": "MQDA2LL/A",
+      "upc": ,
       "tag_color": 333333,
       "category": "iPad Pro 12.9\" Wi-Fi",
       "metadata": {
-        "capacity": "32GB",
+        "capacity": "64GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "143f8886-1540-4277-9eee-54aa6af5270d",
-      "key": "ML0G2LL/A",
-      "upc": 888462516815,
+      "key": "MQDC2LL/A",
+      "upc": ,
       "tag_color": 333333,
       "category": "iPad Pro 12.9\" Wi-Fi",
       "metadata": {
-        "capacity": "32GB",
+        "capacity": "64GB",
         "color": "Silver"
       }
     },
     {
       "id": "fc18f5bc-182e-4cb8-9a8b-ce1550b0ed86",
-      "key": "ML0H2LL/A",
-      "upc": 888462517904,
+      "key": "MQDD2LL/A",
+      "upc": ,
       "tag_color": 333333,
       "category": "iPad Pro 12.9\" Wi-Fi",
       "metadata": {
-        "capacity": "32GB",
+        "capacity": "64GB",
         "color": "Gold"
       }
     },
     {
       "id": "eda4188d-693b-4252-9057-2a4e995c41b1",
-      "key": "ML0N2LL/A",
-      "upc": 888462520881,
+      "key": "MP6G2LL/A",
+      "upc": ,
       "tag_color": 333333,
       "category": "iPad Pro 12.9\" Wi-Fi",
       "metadata": {
-        "capacity": "128GB",
+        "capacity": "256GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "affb7e67-3799-40c5-ac67-35711de20003",
-      "key": "ML0Q2LL/A",
-      "upc": 888462521628,
+      "key": "MP6H2LL/A",
+      "upc": ,
       "tag_color": 333333,
       "category": "iPad Pro 12.9\" Wi-Fi",
       "metadata": {
-        "capacity": "128GB",
+        "capacity": "256GB",
         "color": "Silver"
       }
     },
     {
       "id": "9f77afe7-704f-4614-a574-ec891110ecf7",
-      "key": "ML0R2LL/A",
-      "upc": 888462522366,
+      "key": "MP6J2LL/A",
+      "upc": ,
       "tag_color": 333333,
       "category": "iPad Pro 12.9\" Wi-Fi",
       "metadata": {
-        "capacity": "128GB",
+        "capacity": "256GB",
         "color": "Gold"
       }
     },
     {
       "id": "01bf2092-d3d5-420d-9b66-0c0723b9a7c8",
-      "key": "ML0T2LL/A",
-      "upc": 888462523103,
+      "key": "MPKY2LL/A",
+      "upc": ,
       "tag_color": 333333,
       "category": "iPad Pro 12.9\" Wi-Fi",
       "metadata": {
-        "capacity": "256GB",
+        "capacity": "512GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "c5f0f569-2c47-4f47-9113-91765a1f8fbf",
-      "key": "ML0U2LL/A",
-      "upc": 888462523844,
+      "key": "MPL02LL/A",
+      "upc": ,
       "tag_color": 333333,
       "category": "iPad Pro 12.9\" Wi-Fi",
       "metadata": {
-        "capacity": "256GB",
+        "capacity": "512GB",
         "color": "Silver"
       }
     },
     {
       "id": "1ea9f660-903b-44ab-9104-8540568a8e24",
-      "key": "ML0V2LL/A",
-      "upc": 888462524575,
+      "key": "MPL12LL/A",
+      "upc": ,
       "tag_color": 333333,
       "category": "iPad Pro 12.9\" Wi-Fi",
       "metadata": {
-        "capacity": "256GB",
+        "capacity": "512GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "66b5b057-d256-4983-ad14-4254b918691d",
+      "key": "MQED2LL/A",
+      "upc": ,
+      "tag_color": "006ae5",
+      "category": "iPad Pro 12.9\" Cellular",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "f68096a2-59ac-4932-90d1-46087a2633c5",
+      "key": "MQEE2LL/A",
+      "upc": ,
+      "tag_color": "006ae5",
+      "category": "iPad Pro 12.9\" Cellular",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "d8d2452d-a66a-42c8-989b-4d31449be4c9",
+      "key": "MQEF2LL/A",
+      "upc": ,
+      "tag_color": "006ae5",
+      "category": "iPad Pro 12.9\" Cellular",
+      "metadata": {
+        "capacity": "64GB",
         "color": "Gold"
       }
     },
     {
       "id": "cf68b431-9cae-43ba-8bba-d6e1d0a9c9f2",
-      "key": "ML3K2LL/A",
-      "upc": 888462531917,
+      "key": "MPA42LL/A",
+      "upc": ,
       "tag_color": "006ae5",
       "category": "iPad Pro 12.9\" Cellular",
       "metadata": {
-        "capacity": "128GB",
+        "capacity": "256GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "08294f97-ad24-4da0-91cb-abdcc0fb4f3d",
-      "key": "ML3N2LL/A",
-      "upc": 888462532655,
+      "key": "MPA52LL/A",
+      "upc": ,
       "tag_color": "006ae5",
       "category": "iPad Pro 12.9\" Cellular",
       "metadata": {
-        "capacity": "128GB",
+        "capacity": "256GB",
         "color": "Silver"
       }
     },
     {
       "id": "9aa28018-8c4a-4fd7-a780-1f034f3697aa",
-      "key": "ML3Q2LL/A",
-      "upc": 888462533393,
+      "key": "MPA62LL/A",
+      "upc": ,
       "tag_color": "006ae5",
       "category": "iPad Pro 12.9\" Cellular",
       "metadata": {
-        "capacity": "128GB",
+        "capacity": "256GB",
         "color": "Gold"
       }
     },
     {
       "id": "9ffaf854-9b11-42ac-8f7b-9b3679fde4ff",
-      "key": "ML3T2LL/A",
-      "upc": 888462534130,
+      "key": "MPLJ2LL/A",
+      "upc": ,
       "tag_color": "006ae5",
       "category": "iPad Pro 12.9\" Cellular",
       "metadata": {
-        "capacity": "256GB",
+        "capacity": "512GB",
         "color": "Space Gray"
       }
     },
     {
       "id": "5e5592ac-edd6-4c9d-8825-5689b936a1a2",
-      "key": "ML3W2LL/A",
-      "upc": 888462534871,
+      "key": "MPLK2LL/A",
+      "upc": ,
       "tag_color": "006ae5",
       "category": "iPad Pro 12.9\" Cellular",
       "metadata": {
-        "capacity": "256GB",
+        "capacity": "512GB",
         "color": "Silver"
       }
     },
     {
       "id": "6acb032c-fdb8-48a0-8c9b-96f834559c1c",
-      "key": "ML3Z2LL/A",
-      "upc": 888462535618,
+      "key": "MPLL2LL/A",
+      "upc": ,
       "tag_color": "006ae5",
       "category": "iPad Pro 12.9\" Cellular",
       "metadata": {
-        "capacity": "256GB",
+        "capacity": "512GB",
         "color": "Gold"
       }
     }

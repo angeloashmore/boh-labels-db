@@ -16,74 +16,74 @@
   "labels": [
     {
       "id": "7eccf2df-eacb-42d9-aa25-7a0eaf9865de",
-      "key": "MK142LL/A",
-      "upc": 888462322607,
+      "key": "MMQA2LL/A",
+      "upc": ,
       "tag_color": "ff0000",
       "category": "iMac 21.5\"",
       "metadata": {
-        "processor": "1.6GHz",
+        "processor": "2.3GHz",
         "memory": "8GB",
         "capacity": "1TB"
       }
     },
     {
       "id": "e50f5854-ef30-46b8-a133-01bec4d5c9b4",
-      "key": "MK442LL/A",
-      "upc": 888462347747,
+      "key": "MNDY2LL/A",
+      "upc": ,
       "tag_color": "ff0000",
       "category": "iMac 21.5\"",
       "metadata": {
-        "processor": "2.8GHz",
+        "processor": "3.0GHz",
         "memory": "8GB",
-        "capacity": "256GB"
+        "capacity": "1TB"
       }
     },
     {
       "id": "c6122b88-a4eb-4766-9978-1293e1d94145",
-      "key": "MK452LL/A",
-      "upc": 888462347754,
+      "key": "MNE02LL/A",
+      "upc": ,
       "tag_color": "ff0000",
       "category": "iMac 21.5\"",
       "metadata": {
-        "processor": "3.1GHz",
+        "processor": "3.4GHz",
         "memory": "8GB",
-        "capacity": "256GB"
+        "capacity": "1TB Fusion"
       }
     },
     {
       "id": "28143ace-145b-4769-bf74-83d02506352d",
-      "key": "MK462LL/A",
-      "upc": 888462347785,
+      "key": "MNE92LL/A",
+      "upc": ,
       "tag_color": 800000,
       "category": "iMac 27\"",
       "metadata": {
-        "processor": "3.2GHz",
+        "processor": "3.4GHz",
         "memory": "8GB",
-        "capacity": "1TB"
+        "capacity": "1TB Fusion"
       }
     },
     {
       "id": "fae89554-d499-416a-90ab-4f92b443eaf6",
-      "key": "MK472LL/A",
-      "upc": 888462347792,
+      "key": "MNEA2LL/A",
+      "upc": ,
       "tag_color": 800000,
       "category": "iMac 27\"",
       "metadata": {
-        "processor": "2.8GHz",
+        "processor": "3.5GHz",
         "memory": "8GB",
-        "capacity": "1TB"
+        "capacity": "1TB Fusion"
       }
     },
     {
       "id": "7ff423ea-74b4-4095-979e-141d02095fda",
-      "key": "MK482LL/A",
-      "upc": 888462347808,
+      "key": "MNED2LL/A",
+      "upc": ,
       "tag_color": 800000,
       "category": "iMac 27\"",
       "metadata": {
-        "processor": "3.3GHz",
+        "processor": "3.8GHz",
         "memory": "8GB",
-        "capacity": "2TB"
+        "capacity": "2TB Fusion"
       }
     }
   ]
