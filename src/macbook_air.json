@@ -2,7 +2,7 @@
   "collections": [
     {
       "id": "99089ff4-58bd-4a44-a441-de055d43947a",
-      "key": "",
+      "key": "MacBook Air",
       "label_ids": [
         "d32e7bba-b8a6-4239-8af8-1e24bea8d897",
         "c3c8e862-6551-4ccc-8d7f-8b77009f6dbf",
@@ -14,7 +14,7 @@
     {
       "id": "d32e7bba-b8a6-4239-8af8-1e24bea8d897",
       "key": "MQD32LL/A",
-      "upc": ,
+      "upc": 190198462930,
       "tag_color": "006ae5",
       "category": "MacBook Air 13.3\"",
       "metadata": {
@@ -26,7 +26,7 @@
     {
       "id": "c3c8e862-6551-4ccc-8d7f-8b77009f6dbf",
       "key": "MQD42LL/A",
-      "upc": ,
+      "upc": 190198463029,
       "tag_color": "006ae5",
       "category": "MacBook Air 13.3\"",
       "metadata": {
@@ -38,7 +38,7 @@
     {
       "id": "83d827da-4312-4225-8510-1756b964fca4",
       "key": "MQD52LL/A",
-      "upc": ,
+      "upc": 190198463036,
       "tag_color": "006ae5",
       "category": "MacBook Air 13.3\"",
       "metadata": {
