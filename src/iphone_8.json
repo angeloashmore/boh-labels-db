@@ -61,7 +61,7 @@
     {
       "id": "211b819e-d6fe-400c-a93c-408628cf1e5f",
       "key": "MQ6K2LL/A",
-      "upc:": "190198451736",
+      "upc": "190198451736",
       "tag_color": 333333,
       "category": "iPhone 8 Unlocked",
       "metadata": {
@@ -72,7 +72,7 @@
     {
       "id": "980dd6ad-5fc5-4e98-923e-df20bf3f34a4",
       "key": "MQ6L2LL/A",
-      "upc:": "190198451781",
+      "upc": "190198451781",
       "tag_color": 333333,
       "category": "iPhone 8 Unlocked",
       "metadata": {
@@ -83,7 +83,7 @@
     {
       "id": "57e380f8-e90a-4550-ac6f-ac1620790075",
       "key": "MQ6M2LL/A",
-      "upc:": "190198451835",
+      "upc": "190198451835",
       "tag_color": 333333,
       "category": "iPhone 8 Unlocked",
       "metadata": {
@@ -94,7 +94,7 @@
     {
       "id": "8a903f25-d3a5-4c5e-be66-b0ce6b946dd9",
       "key": "MQ7F2LL/A",
-      "upc:": "190198453235",
+      "upc": "190198453235",
       "tag_color": 333333,
       "category": "iPhone 8 Unlocked",
       "metadata": {
@@ -105,7 +105,7 @@
     {
       "id": "bd83744d-ff3c-42f8-894b-a326c1992d47",
       "key": "MQ7G2LL/A",
-      "upc:": "190198453280",
+      "upc": "190198453280",
       "tag_color": 333333,
       "category": "iPhone 8 Unlocked",
       "metadata": {
@@ -116,7 +116,7 @@
     {
       "id": "49160695-e276-4815-a55d-9ea627ab413d",
       "key": "MQ7H2LL/A",
-      "upc:": "190198453334",
+      "upc": "190198453334",
       "tag_color": 333333,
       "category": "iPhone 8 Unlocked",
       "metadata": {
@@ -127,7 +127,7 @@
     {
       "id": "1a5aaf05-2fcb-4433-83cc-6825bd9357b8",
       "key": "MQ6V2LL/A",
-      "upc:": "190198451927",
+      "upc": "190198451927",
       "tag_color": "006ae5",
       "category": "iPhone 8 AT&T",
       "metadata": {
@@ -138,7 +138,7 @@
     {
       "id": "8a4daf28-51c4-4147-b7ca-8b2c7cbfb098",
       "key": "MQ6W2LL/A",
-      "upc:": "190198451934",
+      "upc": "190198451934",
       "tag_color": "006ae5",
       "category": "iPhone 8 AT&T",
       "metadata": {
@@ -149,7 +149,7 @@
     {
       "id": "f85bb7eb-ff0a-4f9a-90d5-be126e21a856",
       "key": "MQ6X2LL/A",
-      "upc:": "190198451941",
+      "upc": "190198451941",
       "tag_color": "006ae5",
       "category": "iPhone 8 AT&T",
       "metadata": {
@@ -160,7 +160,7 @@
     {
       "id": "252c183e-e1b8-4e8f-91e2-2adb11ab14fb",
       "key": "MQ7Q2LL/A",
-      "upc:": "190198453426",
+      "upc": "190198453426",
       "tag_color": "006ae5",
       "category": "iPhone 8 AT&T",
       "metadata": {
@@ -171,7 +171,7 @@
     {
       "id": "295d85ec-0cc6-49eb-a92f-f260440f9096",
       "key": "MQ7R2LL/A",
-      "upc:": "190198453433",
+      "upc": "190198453433",
       "tag_color": "006ae5",
       "category": "iPhone 8 AT&T",
       "metadata": {
@@ -182,7 +182,7 @@
     {
       "id": "93199402-4f15-4575-b8f2-99b1ebfad43f",
       "key": "MQ7T2LL/A",
-      "upc:": "190198453440",
+      "upc": "190198453440",
       "tag_color": "006ae5",
       "category": "iPhone 8 AT&T",
       "metadata": {
@@ -193,7 +193,7 @@
     {
       "id": "3fff7f4f-757a-4074-9dd7-169fedf90503",
       "key": "MQ6Y2LL/A",
-      "upc:": "190198451958",
+      "upc": "190198451958",
       "tag_color": "ff2194",
       "category": "iPhone 8 T-Mobile",
       "metadata": {
@@ -204,7 +204,7 @@
     {
       "id": "1c3fc37d-dd26-48ec-a282-4797a17f0739",
       "key": "MQ702LL/A",
-      "upc:": "190198451965",
+      "upc": "190198451965",
       "tag_color": "ff2194",
       "category": "iPhone 8 T-Mobile",
       "metadata": {
@@ -215,7 +215,7 @@
     {
       "id": "7a651fb5-6f28-455e-9117-11d76888ad74",
       "key": "MQ712LL/A",
-      "upc:": "190198451972",
+      "upc": "190198451972",
       "tag_color": "ff2194",
       "category": "iPhone 8 T-Mobile",
       "metadata": {
@@ -226,7 +226,7 @@
     {
       "id": "597339da-6839-4ca0-b2de-3845a4a3656b",
       "key": "MQ7U2LL/A",
-      "upc:": "190198453457",
+      "upc": "190198453457",
       "tag_color": "ff2194",
       "category": "iPhone 8 T-Mobile",
       "metadata": {
@@ -237,7 +237,7 @@
     {
       "id": "f4e30bf8-4996-4f91-8cd7-4b199c9ab797",
       "key": "MQ7V2LL/A",
-      "upc:": "190198453464",
+      "upc": "190198453464",
       "tag_color": "ff2194",
       "category": "iPhone 8 T-Mobile",
       "metadata": {
@@ -248,7 +248,7 @@
     {
       "id": "78810f78-a478-4c81-b834-f0b95f26a16e",
       "key": "MQ7W2LL/A",
-      "upc:": "190198453471",
+      "upc": "190198453471",
       "tag_color": "ff2194",
       "category": "iPhone 8 T-Mobile",
       "metadata": {
@@ -259,7 +259,7 @@
     {
       "id": "1f1d0a9f-1f3d-4d9b-aa80-ed20ab9670d1",
       "key": "MQ722LL/A",
-      "upc:": "190198451989",
+      "upc": "190198451989",
       "tag_color": "ff2121",
       "category": "iPhone 8 Verizon",
       "metadata": {
@@ -270,7 +270,7 @@
     {
       "id": "3bd8dad9-fd00-47ac-a1a1-554556962951",
       "key": "MQ732LL/A",
-      "upc:": "190198451996",
+      "upc": "190198451996",
       "tag_color": "ff2121",
       "category": "iPhone 8 Verizon",
       "metadata": {
@@ -281,7 +281,7 @@
     {
       "id": "b127ca40-a560-4da3-892e-0b2cfd390345",
       "key": "MQ742LL/A",
-      "upc:": "190198452009",
+      "upc": "190198452009",
       "tag_color": "ff2121",
       "category": "iPhone 8 Verizon",
       "metadata": {
@@ -292,7 +292,7 @@
     {
       "id": "1e08f7bb-c7ad-4d79-a8f0-d3b131ce0583",
       "key": "MQ7X2LL/A",
-      "upc:": "190198453488",
+      "upc": "190198453488",
       "tag_color": "ff2121",
       "category": "iPhone 8 Verizon",
       "metadata": {
@@ -303,7 +303,7 @@
     {
       "id": "06182176-b5c8-47db-ab2d-e35d4a4e2850",
       "key": "MQ7Y2LL/A",
-      "upc:": "190198453495",
+      "upc": "190198453495",
       "tag_color": "ff2121",
       "category": "iPhone 8 Verizon",
       "metadata": {
@@ -314,7 +314,7 @@
     {
       "id": "6a830df7-84e1-4800-ba87-b4012a146af3",
       "key": "MQ802LL/A",
-      "upc:": "190198453501",
+      "upc": "190198453501",
       "tag_color": "ff2121",
       "category": "iPhone 8 Verizon",
       "metadata": {
@@ -325,7 +325,7 @@
     {
       "id": "71473242-6ccd-432e-a3f5-4f51a908a7f3",
       "key": "MQ752LL/A",
-      "upc:": "190198452016",
+      "upc": "190198452016",
       "tag_color": "ffbb00",
       "category": "iPhone 8 Sprint",
       "metadata": {
@@ -336,7 +336,7 @@
     {
       "id": "91d273ba-f282-4c46-b8eb-311c2cbe4607",
       "key": "MQ762LL/A",
-      "upc:": "190198452023",
+      "upc": "190198452023",
       "tag_color": "ffbb00",
       "category": "iPhone 8 Sprint",
       "metadata": {
@@ -347,7 +347,7 @@
     {
       "id": "ad63e186-ccb5-4736-88f5-1b5f9d0c920a",
       "key": "MQ772LL/A",
-      "upc:": "190198452030",
+      "upc": "190198452030",
       "tag_color": "ffbb00",
       "category": "iPhone 8 Sprint",
       "metadata": {
@@ -358,7 +358,7 @@
     {
       "id": "7d4d0d0c-6a8b-42d7-8f6e-464f94afb714",
       "key": "MQ812LL/A",
-      "upc:": "190198453518",
+      "upc": "190198453518",
       "tag_color": "ffbb00",
       "category": "iPhone 8 Sprint",
       "metadata": {
@@ -369,7 +369,7 @@
     {
       "id": "768c1e34-9085-4c8e-9106-9cfb4c60c3ce",
       "key": "MQ822LL/A",
-      "upc:": "190198453525",
+      "upc": "190198453525",
       "tag_color": "ffbb00",
       "category": "iPhone 8 Sprint",
       "metadata": {
@@ -380,7 +380,7 @@
     {
       "id": "cfb36ff0-ddb8-4959-aa2b-91d44d53269f",
       "key": "MQ832LL/A",
-      "upc:": "190198453532",
+      "upc": "190198453532",
       "tag_color": "ffbb00",
       "category": "iPhone 8 Sprint",
       "metadata": {

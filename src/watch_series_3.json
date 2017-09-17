@@ -34,7 +34,7 @@
     {
       "id": "b76fc18f-d64f-4397-a861-4ad5f24e3011",
       "key": "MQKX2LL/A",
-      "upc:": "190198508775",
+      "upc": "190198508775",
       "tag_color": "006ae5",
       "category": "Watch Series 3 GPS 38mm",
       "metadata": {
@@ -46,7 +46,7 @@
     {
       "id": "6559a42c-30da-4dfb-b649-68230809260d",
       "key": "MQKY2LL/A",
-      "upc:": "190198509048",
+      "upc": "190198509048",
       "tag_color": "006ae5",
       "category": "Watch Series 3 GPS 38mm",
       "metadata": {
@@ -58,7 +58,7 @@
     {
       "id": "648cacb8-e24f-4c52-9ddb-6831969d8e96",
       "key": "MQKW2LL/A",
-      "upc:": "190198508492",
+      "upc": "190198508492",
       "tag_color": "006ae5",
       "category": "Watch Series 3 GPS 38mm",
       "metadata": {
@@ -70,7 +70,7 @@
     {
       "id": "604bd141-5ffa-4e05-b31c-9dbf8ea81f19",
       "key": "MQKV2LL/A",
-      "upc:": "190198508218",
+      "upc": "190198508218",
       "tag_color": "006ae5",
       "category": "Watch Series 3 GPS 38mm",
       "metadata": {
@@ -82,7 +82,7 @@
     {
       "id": "ff952e37-7da0-4ddb-ba2c-cc1ad2c81b50",
       "key": "MR352LL/A",
-      "upc:": "190198624505",
+      "upc": "190198624505",
       "tag_color": "006ae5",
       "category": "Watch Series 3 GPS 38mm",
       "metadata": {
@@ -94,7 +94,7 @@
     {
       "id": "454ff708-ca24-4357-91de-b4024897c81f",
       "key": "MQKU2LL/A",
-      "upc:": "190198507938",
+      "upc": "190198507938",
       "tag_color": "006ae5",
       "category": "Watch Series 3 GPS8mm",
       "metadata": {
@@ -106,7 +106,7 @@
     {
       "id": "c3e5ee90-3130-43be-9f60-4492310ad6f8",
       "key": "MQL32LL/A",
-      "upc:": "190198510150",
+      "upc": "190198510150",
       "tag_color": "006ae5",
       "category": "Watch Series 3 GPS 42mm",
       "metadata": {
@@ -118,7 +118,7 @@
     {
       "id": "e53dc03e-667d-4ccf-999c-b7ad228c3887",
       "key": "MQL42LL/A",
-      "upc:": "190198510426",
+      "upc": "190198510426",
       "tag_color": "006ae5",
       "category": "Watch Series 3 GPS 42mm",
       "metadata": {
@@ -130,7 +130,7 @@
     {
       "id": "b9fb0687-181c-4512-9cd1-b4bdf1d1667b",
       "key": "MQL22LL/A",
-      "upc:": "190198509871",
+      "upc": "190198509871",
       "tag_color": "006ae5",
       "category": "Watch Series 3 GPS 42mm",
       "metadata": {
@@ -142,7 +142,7 @@
     {
       "id": "e4aa2451-6936-4b85-9a9d-d3219b86171b",
       "key": "MQL12LL/A",
-      "upc:": "190198509598",
+      "upc": "190198509598",
       "tag_color": "006ae5",
       "category": "Watch Series 3 GPS 42mm",
       "metadata": {
@@ -154,7 +154,7 @@
     {
       "id": "c59ccfee-4d19-4a98-8de8-ddeb6271fa99",
       "key": "MR362LL/A",
-      "upc:": "190198624796",
+      "upc": "190198624796",
       "tag_color": "006ae5",
       "category": "Watch Series 3 GPS 42mm",
       "metadata": {
@@ -166,7 +166,7 @@
     {
       "id": "760740a9-6079-4bc0-8bc1-aa4a83d02977",
       "key": "MQL02LL/A",
-      "upc:": "190198509314",
+      "upc": "190198509314",
       "tag_color": "006ae5",
       "category": "Watch Series 3 GPS 42mm",
       "metadata": {
