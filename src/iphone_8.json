@@ -1,0 +1,392 @@
+{
+  "collections": [
+    {
+      "id": "83366a97-5da5-4d89-8439-a4066ed2ba6a",
+      "key": "iPhone 8",
+      "label_ids": [
+        "211b819e-d6fe-400c-a93c-408628cf1e5f",
+        "980dd6ad-5fc5-4e98-923e-df20bf3f34a4",
+        "57e380f8-e90a-4550-ac6f-ac1620790075",
+        "8ea9d171-f20a-456a-acf3-947b7b0d1b88",
+        "8a903f25-d3a5-4c5e-be66-b0ce6b946dd9",
+        "bd83744d-ff3c-42f8-894b-a326c1992d47",
+        "49160695-e276-4815-a55d-9ea627ab413d",
+        "860dee4f-3cf7-44d9-8455-63967b8e41da",
+        "dac7416c-b54b-4429-8a24-8c6939e8bc05",
+        "eb732a21-1091-451a-80b9-ca900170bf7b",
+        "1a5aaf05-2fcb-4433-83cc-6825bd9357b8",
+        "8a4daf28-51c4-4147-b7ca-8b2c7cbfb098",
+        "f85bb7eb-ff0a-4f9a-90d5-be126e21a856",
+        "ab41baf2-d6aa-4109-8534-807b3a171b83",
+        "252c183e-e1b8-4e8f-91e2-2adb11ab14fb",
+        "295d85ec-0cc6-49eb-a92f-f260440f9096",
+        "93199402-4f15-4575-b8f2-99b1ebfad43f",
+        "0d0c6e08-39da-4b15-b46e-429ea56dbe87",
+        "c0ae5885-49eb-4c1a-88da-7ce106bda1c1",
+        "801b039a-2532-4e64-85c9-bbabff2ff4b9",
+        "3fff7f4f-757a-4074-9dd7-169fedf90503",
+        "1c3fc37d-dd26-48ec-a282-4797a17f0739",
+        "7a651fb5-6f28-455e-9117-11d76888ad74",
+        "f335db1f-b2b3-48fe-8f9c-f12f25236b21",
+        "597339da-6839-4ca0-b2de-3845a4a3656b",
+        "f4e30bf8-4996-4f91-8cd7-4b199c9ab797",
+        "78810f78-a478-4c81-b834-f0b95f26a16e",
+        "405e6388-aebb-46c4-a1be-98736df74b96",
+        "e38d32e8-293c-402b-83a5-d87f77a03b9e",
+        "7cadc401-ab66-4bf1-af90-a5151c205869",
+        "1f1d0a9f-1f3d-4d9b-aa80-ed20ab9670d1",
+        "3bd8dad9-fd00-47ac-a1a1-554556962951",
+        "b127ca40-a560-4da3-892e-0b2cfd390345",
+        "2d16a42f-cc89-402b-a305-340b994ab7cc",
+        "1e08f7bb-c7ad-4d79-a8f0-d3b131ce0583",
+        "06182176-b5c8-47db-ab2d-e35d4a4e2850",
+        "6a830df7-84e1-4800-ba87-b4012a146af3",
+        "1ad09bbe-195b-4fa1-a456-5f2a2036c986",
+        "d6473de2-12b4-4822-9181-cef9861e9e6b",
+        "0bc3b003-6277-42e4-a8e0-f53b42740f41",
+        "71473242-6ccd-432e-a3f5-4f51a908a7f3",
+        "91d273ba-f282-4c46-b8eb-311c2cbe4607",
+        "ad63e186-ccb5-4736-88f5-1b5f9d0c920a",
+        "187f13a7-e454-40d3-801a-42122a7a617e",
+        "7d4d0d0c-6a8b-42d7-8f6e-464f94afb714",
+        "768c1e34-9085-4c8e-9106-9cfb4c60c3ce",
+        "cfb36ff0-ddb8-4959-aa2b-91d44d53269f",
+        "b5a9b18a-4bf1-4fd3-a4d9-fa20e8df6b81",
+        "cea10ccf-bd83-4e3c-b183-437ec6bc9097",
+        "3b3760c1-fd51-4fb1-a392-947857ab6532"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "211b819e-d6fe-400c-a93c-408628cf1e5f",
+      "key": "MQ6K2LL/A",
+      "upc:": "",
+      "tag_color": 333333,
+      "category": "iPhone 8 Unlocked",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "980dd6ad-5fc5-4e98-923e-df20bf3f34a4",
+      "key": "MQ6L2LL/A",
+      "upc:": "",
+      "tag_color": 333333,
+      "category": "iPhone 8 Unlocked",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "57e380f8-e90a-4550-ac6f-ac1620790075",
+      "key": "MQ6M2LL/A",
+      "upc:": "",
+      "tag_color": 333333,
+      "category": "iPhone 8 Unlocked",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "8a903f25-d3a5-4c5e-be66-b0ce6b946dd9",
+      "key": "MQ7F2LL/A",
+      "upc:": "",
+      "tag_color": 333333,
+      "category": "iPhone 8 Unlocked",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "bd83744d-ff3c-42f8-894b-a326c1992d47",
+      "key": "MQ7G2LL/A",
+      "upc:": "",
+      "tag_color": 333333,
+      "category": "iPhone 8 Unlocked",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "49160695-e276-4815-a55d-9ea627ab413d",
+      "key": "MQ7H2LL/A",
+      "upc:": "",
+      "tag_color": 333333,
+      "category": "iPhone 8 Unlocked",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "1a5aaf05-2fcb-4433-83cc-6825bd9357b8",
+      "key": "MQ6V2LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "iPhone 8 AT&T",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "8a4daf28-51c4-4147-b7ca-8b2c7cbfb098",
+      "key": "MQ6W2LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "iPhone 8 AT&T",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "f85bb7eb-ff0a-4f9a-90d5-be126e21a856",
+      "key": "MQ6X2LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "iPhone 8 AT&T",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "252c183e-e1b8-4e8f-91e2-2adb11ab14fb",
+      "key": "MQ7Q2LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "iPhone 8 AT&T",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "295d85ec-0cc6-49eb-a92f-f260440f9096",
+      "key": "MQ7R2LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "iPhone 8 AT&T",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "93199402-4f15-4575-b8f2-99b1ebfad43f",
+      "key": "MQ7T2LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "iPhone 8 AT&T",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "3fff7f4f-757a-4074-9dd7-169fedf90503",
+      "key": "MQ6Y2LL/A",
+      "upc:": "",
+      "tag_color": "ff2194",
+      "category": "iPhone 8 T-Mobile",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "1c3fc37d-dd26-48ec-a282-4797a17f0739",
+      "key": "MQ702LL/A",
+      "upc:": "",
+      "tag_color": "ff2194",
+      "category": "iPhone 8 T-Mobile",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "7a651fb5-6f28-455e-9117-11d76888ad74",
+      "key": "MQ712LL/A",
+      "upc:": "",
+      "tag_color": "ff2194",
+      "category": "iPhone 8 T-Mobile",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "597339da-6839-4ca0-b2de-3845a4a3656b",
+      "key": "MQ7U2LL/A",
+      "upc:": "",
+      "tag_color": "ff2194",
+      "category": "iPhone 8 T-Mobile",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "f4e30bf8-4996-4f91-8cd7-4b199c9ab797",
+      "key": "MQ7V2LL/A",
+      "upc:": "",
+      "tag_color": "ff2194",
+      "category": "iPhone 8 T-Mobile",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "78810f78-a478-4c81-b834-f0b95f26a16e",
+      "key": "MQ7W2LL/A",
+      "upc:": "",
+      "tag_color": "ff2194",
+      "category": "iPhone 8 T-Mobile",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "1f1d0a9f-1f3d-4d9b-aa80-ed20ab9670d1",
+      "key": "MQ722LL/A",
+      "upc:": "",
+      "tag_color": "ff2121",
+      "category": "iPhone 8 Verizon",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "3bd8dad9-fd00-47ac-a1a1-554556962951",
+      "key": "MQ732LL/A",
+      "upc:": "",
+      "tag_color": "ff2121",
+      "category": "iPhone 8 Verizon",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "b127ca40-a560-4da3-892e-0b2cfd390345",
+      "key": "MQ742LL/A",
+      "upc:": "",
+      "tag_color": "ff2121",
+      "category": "iPhone 8 Verizon",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "1e08f7bb-c7ad-4d79-a8f0-d3b131ce0583",
+      "key": "MQ7X2LL/A",
+      "upc:": "",
+      "tag_color": "ff2121",
+      "category": "iPhone 8 Verizon",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "06182176-b5c8-47db-ab2d-e35d4a4e2850",
+      "key": "MQ7Y2LL/A",
+      "upc:": "",
+      "tag_color": "ff2121",
+      "category": "iPhone 8 Verizon",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "6a830df7-84e1-4800-ba87-b4012a146af3",
+      "key": "MQ802LL/A",
+      "upc:": "",
+      "tag_color": "ff2121",
+      "category": "iPhone 8 Verizon",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "71473242-6ccd-432e-a3f5-4f51a908a7f3",
+      "key": "MQ752LL/A",
+      "upc:": "",
+      "tag_color": "ffbb00",
+      "category": "iPhone 8 Sprint",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "91d273ba-f282-4c46-b8eb-311c2cbe4607",
+      "key": "MQ762LL/A",
+      "upc:": "",
+      "tag_color": "ffbb00",
+      "category": "iPhone 8 Sprint",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "ad63e186-ccb5-4736-88f5-1b5f9d0c920a",
+      "key": "MQ772LL/A",
+      "upc:": "",
+      "tag_color": "ffbb00",
+      "category": "iPhone 8 Sprint",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "7d4d0d0c-6a8b-42d7-8f6e-464f94afb714",
+      "key": "MQ812LL/A",
+      "upc:": "",
+      "tag_color": "ffbb00",
+      "category": "iPhone 8 Sprint",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "768c1e34-9085-4c8e-9106-9cfb4c60c3ce",
+      "key": "MQ822LL/A",
+      "upc:": "",
+      "tag_color": "ffbb00",
+      "category": "iPhone 8 Sprint",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "cfb36ff0-ddb8-4959-aa2b-91d44d53269f",
+      "key": "MQ832LL/A",
+      "upc:": "",
+      "tag_color": "ffbb00",
+      "category": "iPhone 8 Sprint",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Gold"
+      }
+    }
+  ]
+}

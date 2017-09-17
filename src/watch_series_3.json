@@ -1,0 +1,179 @@
+{
+  "collections": [
+    {
+      "id": "f391eeb7-166b-4f4f-909c-548998f77449",
+      "key": "Watch Series 3 GPS",
+      "label_ids": [
+        "b76fc18f-d64f-4397-a861-4ad5f24e3011",
+        "6559a42c-30da-4dfb-b649-68230809260d",
+        "648cacb8-e24f-4c52-9ddb-6831969d8e96",
+        "604bd141-5ffa-4e05-b31c-9dbf8ea81f19",
+        "ff952e37-7da0-4ddb-ba2c-cc1ad2c81b50",
+        "e4aa2451-6936-4b85-9a9d-d3219b86171b",
+        "c59ccfee-4d19-4a98-8de8-ddeb6271fa99",
+        "760740a9-6079-4bc0-8bc1-aa4a83d02977",
+        "0f71c285-ca47-436a-b38d-40561221f4e0",
+        "b2b13baf-d91e-43c1-9b24-9c492537eb5b",
+        "bb88e2a2-8f5c-4f3a-bce1-d417a1a6b60f",
+        "454ff708-ca24-4357-91de-b4024897c81f",
+        "c3e5ee90-3130-43be-9f60-4492310ad6f8",
+        "c3778646-1107-4030-ad1b-039dfb7498ce",
+        "35b06466-d4a1-4641-a6b1-6bc9ff206ed8",
+        "e53dc03e-667d-4ccf-999c-b7ad228c3887",
+        "b9fb0687-181c-4512-9cd1-b4bdf1d1667b",
+        "17161ecd-04db-4eed-9483-ef7a96ee8c77",
+        "2217ff9e-0e06-45c2-acf0-872fb76c80ed",
+        "55f794f3-db09-48d7-9a24-b61254647c88",
+        "ea6e7f04-fbc7-4c5b-9b4d-c6264d9eed07",
+        "c14e817b-3e73-444b-abb0-88c079196a00",
+        "6d2c39dd-31df-4de1-920c-98ace2438592"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "b76fc18f-d64f-4397-a861-4ad5f24e3011",
+      "key": "MQKX2LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "Watch Series 3 GPS 38mm",
+      "metadata": {
+        "case_material": "Sl Aluminum",
+        "band_type": "Nike Sport",
+        "band_color": "Plat/Black"
+      }
+    },
+    {
+      "id": "6559a42c-30da-4dfb-b649-68230809260d",
+      "key": "MQKY2LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "Watch Series 3 GPS 38mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Nike Sport",
+        "band_color": "Ant/Black"
+      }
+    },
+    {
+      "id": "648cacb8-e24f-4c52-9ddb-6831969d8e96",
+      "key": "MQKW2LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "Watch Series 3 GPS 38mm",
+      "metadata": {
+        "case_material": "Gold Aluminum",
+        "band_type": "Sport",
+        "band_color": "Pink Sand"
+      }
+    },
+    {
+      "id": "604bd141-5ffa-4e05-b31c-9dbf8ea81f19",
+      "key": "MQKV2LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "Watch Series 3 GPS 38mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Sport",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "ff952e37-7da0-4ddb-ba2c-cc1ad2c81b50",
+      "key": "MR352LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "Watch Series 3 GPS 38mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Sport",
+        "band_color": "Gray"
+      }
+    },
+    {
+      "id": "454ff708-ca24-4357-91de-b4024897c81f",
+      "key": "MQKU2LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "Watch Series 3 GPS8mm",
+      "metadata": {
+        "case_material": "Sl Aluminum",
+        "band_type": "Sport",
+        "band_color": "Fog"
+      }
+    },
+    {
+      "id": "c3e5ee90-3130-43be-9f60-4492310ad6f8",
+      "key": "MQL32LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "Watch Series 3 GPS 42mm",
+      "metadata": {
+        "case_material": "Sl Aluminum",
+        "band_type": "Nike Sport",
+        "band_color": "Plat/Black"
+      }
+    },
+    {
+      "id": "e53dc03e-667d-4ccf-999c-b7ad228c3887",
+      "key": "MQL42LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "Watch Series 3 GPS 42mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Nike Sport",
+        "band_color": "Ant/Black"
+      }
+    },
+    {
+      "id": "b9fb0687-181c-4512-9cd1-b4bdf1d1667b",
+      "key": "MQL22LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "Watch Series 3 GPS 42mm",
+      "metadata": {
+        "case_material": "Gold Aluminum",
+        "band_type": "Sport",
+        "band_color": "Pink Sand"
+      }
+    },
+    {
+      "id": "e4aa2451-6936-4b85-9a9d-d3219b86171b",
+      "key": "MQL12LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "Watch Series 3 GPS 42mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Sport",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "c59ccfee-4d19-4a98-8de8-ddeb6271fa99",
+      "key": "MR362LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "Watch Series 3 GPS 42mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Sport",
+        "band_color": "Gray"
+      }
+    },
+    {
+      "id": "760740a9-6079-4bc0-8bc1-aa4a83d02977",
+      "key": "MQL02LL/A",
+      "upc:": "",
+      "tag_color": "006ae5",
+      "category": "Watch Series 3 GPS 42mm",
+      "metadata": {
+        "case_material": "Sl Aluminum",
+        "band_type": "Sport",
+        "band_color": "Fog"
+      }
+    }
+  ]
+}

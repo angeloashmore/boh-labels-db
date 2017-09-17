@@ -5,15 +5,16 @@
       "key": "Apple TV",
       "label_ids": [
         "9d937f06-55a5-41df-ac34-0f01261e9ee9",
-        "11b32afc-9601-40e8-ad02-be18aef411e9"
+        "58715155-5563-464f-a725-c9a61bac7755",
+        "aa175b14-d668-42fa-9b18-04e7afc13639"
       ]
     }
   ],
   "labels": [
     {
       "id": "9d937f06-55a5-41df-ac34-0f01261e9ee9",
-      "key": "MGY52LL/A",
-      "upc": 888462153508,
+      "key": "MR912LL/A",
+      "upc": ,
       "tag_color": "000000",
       "category": "Apple TV",
       "metadata": {
@@ -21,11 +22,21 @@
       }
     },
     {
-      "id": "11b32afc-9601-40e8-ad02-be18aef411e9",
-      "key": "MLNC2LL/A",
-      "upc": 888462749152,
+      "id": "58715155-5563-464f-a725-c9a61bac7755",
+      "key": "MQD22LL/A",
+      "upc": ,
       "tag_color": "000000",
-      "category": "Apple TV",
+      "category": "Apple TV 4K",
+      "metadata": {
+        "capacity": "32GB"
+      }
+    },
+    {
+      "id": "aa175b14-d668-42fa-9b18-04e7afc13639",
+      "key": "MP7P2LL/A",
+      "upc": ,
+      "tag_color": "000000",
+      "category": "Apple TV 4K",
       "metadata": {
         "capacity": "64GB"
       }
