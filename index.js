@@ -16,7 +16,7 @@ files.forEach((file) => {
 
     collections.forEach((coll, index) => {
       const collIds = coll.label_ids
-      const includedIds = collIds.filter(id => !allLabelIds.includes(id))
+      const includedIds = collIds.filter(id => allLabelIds.includes(id))
 
       json.collections[index].label_ids = includedIds
     })
