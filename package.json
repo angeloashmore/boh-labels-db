@@ -3,6 +3,7 @@
   "version": "1.2.13",
   "scripts": {
     "convert": "babel-node convert.js",
+    "new-uuids": "babel-node new_uuids.js",
     "build": "babel-node index.js"
   },
   "dependencies": {

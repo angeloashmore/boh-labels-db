@@ -2,7 +2,7 @@
   "collections": [
     {
       "id": "f391eeb7-166b-4f4f-909c-548998f77449",
-      "key": "Watch Series 3 GPS",
+      "key": "Watch Series 3",
       "label_ids": [
         "b76fc18f-d64f-4397-a861-4ad5f24e3011",
         "6559a42c-30da-4dfb-b649-68230809260d",
@@ -26,7 +26,37 @@
         "55f794f3-db09-48d7-9a24-b61254647c88",
         "ea6e7f04-fbc7-4c5b-9b4d-c6264d9eed07",
         "c14e817b-3e73-444b-abb0-88c079196a00",
-        "6d2c39dd-31df-4de1-920c-98ace2438592"
+        "6d2c39dd-31df-4de1-920c-98ace2438592",
+        "40232fe0-0d8f-4e3f-bed0-4b7281d299e0",
+        "2fb3595e-ffe9-4ded-a409-42eaea456ea7",
+        "4bed62d9-c01c-43c6-971f-45243306f25d",
+        "26732b31-c029-4f59-8f52-b7d20a183a66",
+        "7cf801e1-8699-4c70-88bd-979b436f5594",
+        "4a3e3fd5-2891-4794-954d-f663d0bc5807",
+        "52be060a-d7b4-404c-8dd3-f01e357b0eb7",
+        "6c473917-cc65-40ca-a10b-bdc1a422eac2",
+        "9477c7cc-2dd1-471e-af02-6e37dd383b7c",
+        "b6e16b87-5bf8-4bb4-9c6b-77455e83ace5",
+        "e943d2c0-7f15-4440-acee-561bdf4d7cb1",
+        "a320bcee-a2ee-4f20-9650-4ac398491cf1",
+        "75634aa0-d61b-42d2-b1ab-f58492d542c9",
+        "0c0b1b91-78e4-4fff-a25f-2fe5ce951db7",
+        "11b56e57-0900-4c30-beb9-2300ccbe0c2c",
+        "1063f7e4-e5fc-4dee-aa4c-2036eb583c63",
+        "d4a84045-c1fc-4aa5-86ec-c655e01a3204",
+        "107eea0e-7615-41bd-a20e-e31af897a59e",
+        "9c23e976-f1a6-43fd-b0cf-055441c4d28d",
+        "fe51a275-8cb0-42cd-9e77-799351628764",
+        "4bdf8996-d346-4bbd-bdb1-3a6021ee85e2",
+        "87f9c7b8-80df-44e9-b648-fd211135bbe4",
+        "0e2b19a6-0b3e-480b-9ed4-6e0c8dab1683",
+        "c62d1546-5048-466e-aae9-f0607a36e463",
+        "47f44949-7ed9-4f1e-aa6d-f2d7be086f62",
+        "0aab80e8-dc0d-4c29-a64a-f68b8db717bf",
+        "67b96d94-58ca-4e4e-b644-ecf988c8fa6d",
+        "1be608b4-088c-4ff5-bfae-97db1d169263",
+        "c8ecd3d9-8c8b-4ecb-95fe-3324a6565012",
+        "6dfab27f-4b97-4f64-b9d3-9e1a7df062f1",
       ]
     }
   ],
@@ -35,7 +65,7 @@
       "id": "b76fc18f-d64f-4397-a861-4ad5f24e3011",
       "key": "MQKX2LL/A",
       "upc": "190198508775",
-      "tag_color": "006ae5",
+      "tag_color": "333333",
       "category": "Watch 3 GPS 38mm",
       "metadata": {
         "case_material": "Sl Aluminum",
@@ -47,7 +77,7 @@
       "id": "6559a42c-30da-4dfb-b649-68230809260d",
       "key": "MQKY2LL/A",
       "upc": "190198509048",
-      "tag_color": "006ae5",
+      "tag_color": "333333",
       "category": "Watch 3 GPS 38mm",
       "metadata": {
         "case_material": "Sp Gr Aluminum",
@@ -59,7 +89,7 @@
       "id": "648cacb8-e24f-4c52-9ddb-6831969d8e96",
       "key": "MQKW2LL/A",
       "upc": "190198508492",
-      "tag_color": "006ae5",
+      "tag_color": "333333",
       "category": "Watch 3 GPS 38mm",
       "metadata": {
         "case_material": "Gold Aluminum",
@@ -71,7 +101,7 @@
       "id": "604bd141-5ffa-4e05-b31c-9dbf8ea81f19",
       "key": "MQKV2LL/A",
       "upc": "190198508218",
-      "tag_color": "006ae5",
+      "tag_color": "333333",
       "category": "Watch 3 GPS 38mm",
       "metadata": {
         "case_material": "Sp Gr Aluminum",
@@ -83,7 +113,7 @@
       "id": "ff952e37-7da0-4ddb-ba2c-cc1ad2c81b50",
       "key": "MR352LL/A",
       "upc": "190198624505",
-      "tag_color": "006ae5",
+      "tag_color": "333333",
       "category": "Watch 3 GPS 38mm",
       "metadata": {
         "case_material": "Sp Gr Aluminum",
@@ -95,7 +125,7 @@
       "id": "454ff708-ca24-4357-91de-b4024897c81f",
       "key": "MQKU2LL/A",
       "upc": "190198507938",
-      "tag_color": "006ae5",
+      "tag_color": "333333",
       "category": "Watch 3 GPS8mm",
       "metadata": {
         "case_material": "Sl Aluminum",
@@ -107,7 +137,7 @@
       "id": "c3e5ee90-3130-43be-9f60-4492310ad6f8",
       "key": "MQL32LL/A",
       "upc": "190198510150",
-      "tag_color": "006ae5",
+      "tag_color": "333333",
       "category": "Watch 3 GPS 42mm",
       "metadata": {
         "case_material": "Sl Aluminum",
@@ -119,7 +149,7 @@
       "id": "e53dc03e-667d-4ccf-999c-b7ad228c3887",
       "key": "MQL42LL/A",
       "upc": "190198510426",
-      "tag_color": "006ae5",
+      "tag_color": "333333",
       "category": "Watch 3 GPS 42mm",
       "metadata": {
         "case_material": "Sp Gr Aluminum",
@@ -131,7 +161,7 @@
       "id": "b9fb0687-181c-4512-9cd1-b4bdf1d1667b",
       "key": "MQL22LL/A",
       "upc": "190198509871",
-      "tag_color": "006ae5",
+      "tag_color": "333333",
       "category": "Watch 3 GPS 42mm",
       "metadata": {
         "case_material": "Gold Aluminum",
@@ -143,7 +173,7 @@
       "id": "e4aa2451-6936-4b85-9a9d-d3219b86171b",
       "key": "MQL12LL/A",
       "upc": "190198509598",
-      "tag_color": "006ae5",
+      "tag_color": "333333",
       "category": "Watch 3 GPS 42mm",
       "metadata": {
         "case_material": "Sp Gr Aluminum",
@@ -155,7 +185,7 @@
       "id": "c59ccfee-4d19-4a98-8de8-ddeb6271fa99",
       "key": "MR362LL/A",
       "upc": "190198624796",
-      "tag_color": "006ae5",
+      "tag_color": "333333",
       "category": "Watch 3 GPS 42mm",
       "metadata": {
         "case_material": "Sp Gr Aluminum",
@@ -167,12 +197,372 @@
       "id": "760740a9-6079-4bc0-8bc1-aa4a83d02977",
       "key": "MQL02LL/A",
       "upc": "190198509314",
-      "tag_color": "006ae5",
+      "tag_color": "333333",
       "category": "Watch 3 GPS 42mm",
       "metadata": {
         "case_material": "Sl Aluminum",
         "band_type": "Sport",
         "band_color": "Fog"
+      }
+    },
+    {
+      "id": "40232fe0-0d8f-4e3f-bed0-4b7281d299e0",
+      "key": "MQJN2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Sl Aluminum",
+        "band_type": "Sport",
+        "band_color": "Fog"
+      }
+    },
+    {
+      "id": "2fb3595e-ffe9-4ded-a409-42eaea456ea7",
+      "key": "MQK12LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Sl Aluminum",
+        "band_type": "Sport",
+        "band_color": "Fog"
+      }
+    },
+    {
+      "id": "4bed62d9-c01c-43c6-971f-45243306f25d",
+      "key": "MQJQ2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Gld Aluminum",
+        "band_type": "Sport",
+        "band_color": "Pink Sand"
+      }
+    },
+    {
+      "id": "26732b31-c029-4f59-8f52-b7d20a183a66",
+      "key": "MQK32LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Gld Aluminum",
+        "band_type": "Sport",
+        "band_color": "Pink Sand"
+      }
+    },
+    {
+      "id": "7cf801e1-8699-4c70-88bd-979b436f5594",
+      "key": "MR2W2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Black Steel",
+        "band_type": "Sport",
+        "band_color": "Gray"
+      }
+    },
+    {
+      "id": "4a3e3fd5-2891-4794-954d-f663d0bc5807",
+      "key": "MR2X2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Sport",
+        "band_color": "Gray"
+      }
+    },
+    {
+      "id": "52be060a-d7b4-404c-8dd3-f01e357b0eb7",
+      "key": "MQJP2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Sport",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "6c473917-cc65-40ca-a10b-bdc1a422eac2",
+      "key": "MQK22LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Sport",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "9477c7cc-2dd1-471e-af02-6e37dd383b7c",
+      "key": "MQJR2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Sport",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "b6e16b87-5bf8-4bb4-9c6b-77455e83ace5",
+      "key": "MQK52LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Sl Aluminum",
+        "band_type": "Sport",
+        "band_color": "Seashell"
+      }
+    },
+    {
+      "id": "e943d2c0-7f15-4440-acee-561bdf4d7cb1",
+      "key": "MQJU2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Gld Aluminum",
+        "band_type": "Sport",
+        "band_color": "Pink Sand"
+      }
+    },
+    {
+      "id": "a320bcee-a2ee-4f20-9650-4ac398491cf1",
+      "key": "MQK72LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Gld Aluminum",
+        "band_type": "Sport",
+        "band_color": "Pink Sand"
+      }
+    },
+    {
+      "id": "75634aa0-d61b-42d2-b1ab-f58492d542c9",
+      "key": "MQJT2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Sport",
+        "band_color": "Dark Olive"
+      }
+    },
+    {
+      "id": "0c0b1b91-78e4-4fff-a25f-2fe5ce951db7",
+      "key": "MQK62LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Sport",
+        "band_color": "Dark Olive"
+      }
+    },
+    {
+      "id": "11b56e57-0900-4c30-beb9-2300ccbe0c2c",
+      "key": "MQJV2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Sport",
+        "band_color": "Soft White"
+      }
+    },
+    {
+      "id": "1063f7e4-e5fc-4dee-aa4c-2036eb583c63",
+      "key": "MQK82LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Sport",
+        "band_color": "Soft White"
+      }
+    },
+    {
+      "id": "d4a84045-c1fc-4aa5-86ec-c655e01a3204",
+      "key": "MQJW2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Black Steel",
+        "band_type": "Sport",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "107eea0e-7615-41bd-a20e-e31af897a59e",
+      "key": "MQK92LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Black Steel",
+        "band_type": "Sport",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "9c23e976-f1a6-43fd-b0cf-055441c4d28d",
+      "key": "MR1F2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Milanese",
+        "band_color": "Silver"
+      }
+    },
+    {
+      "id": "fe51a275-8cb0-42cd-9e77-799351628764",
+      "key": "MR1J2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Milanese",
+        "band_color": "Stainless"
+      }
+    },
+    {
+      "id": "4bdf8996-d346-4bbd-bdb1-3a6021ee85e2",
+      "key": "MR1H2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Milanese",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "87f9c7b8-80df-44e9-b648-fd211135bbe4",
+      "key": "MR1L2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Stainless Steel",
+        "band_type": "Milanese",
+        "band_color": "Black"
+      }
+    },
+    {
+      "id": "0e2b19a6-0b3e-480b-9ed4-6e0c8dab1683",
+      "key": "MQL52LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Sl Aluminum",
+        "band_type": "Nike",
+        "band_color": "Plat/Black"
+      }
+    },
+    {
+      "id": "c62d1546-5048-466e-aae9-f0607a36e463",
+      "key": "MQLC2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Sl Aluminum",
+        "band_type": "Nike",
+        "band_color": "Plat/Black"
+      }
+    },
+    {
+      "id": "47f44949-7ed9-4f1e-aa6d-f2d7be086f62",
+      "key": "MQL62LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Nike",
+        "band_color": "Ant/Black"
+      }
+    },
+    {
+      "id": "0aab80e8-dc0d-4c29-a64a-f68b8db717bf",
+      "key": "MQLD2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Nike",
+        "band_color": "Ant/Black"
+      }
+    },
+    {
+      "id": "67b96d94-58ca-4e4e-b644-ecf988c8fa6d",
+      "key": "MQL72LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Sl Aluminum",
+        "band_type": "Nike",
+        "band_color": "Crim/Black"
+      }
+    },
+    {
+      "id": "1be608b4-088c-4ff5-bfae-97db1d169263",
+      "key": "MQLE2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Sl Aluminum",
+        "band_type": "Nike",
+        "band_color": "Crim/Black"
+      }
+    },
+    {
+      "id": "c8ecd3d9-8c8b-4ecb-95fe-3324a6565012",
+      "key": "MQL82LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 38mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Nike",
+        "band_color": "Black/Plat"
+      }
+    },
+    {
+      "id": "6dfab27f-4b97-4f64-b9d3-9e1a7df062f1",
+      "key": "MQLF2LL/A",
+      "upc": "",
+      "tag_color": "006ae5",
+      "category": "Watch 3 Cellular 42mm",
+      "metadata": {
+        "case_material": "Sp Gr Aluminum",
+        "band_type": "Nike",
+        "band_color": "Black/Plat"
       }
     }
   ]
