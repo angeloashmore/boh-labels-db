@@ -1,68 +1,57 @@
 {
   "collections": [
     {
-      "id": "f391eeb7-166b-4f4f-909c-548998f77449",
+      "id": "65aa3873-80d7-4105-bbc6-235d32e777e1",
       "key": "Watch Series 3",
       "label_ids": [
-        "b76fc18f-d64f-4397-a861-4ad5f24e3011",
-        "6559a42c-30da-4dfb-b649-68230809260d",
-        "648cacb8-e24f-4c52-9ddb-6831969d8e96",
-        "604bd141-5ffa-4e05-b31c-9dbf8ea81f19",
-        "ff952e37-7da0-4ddb-ba2c-cc1ad2c81b50",
-        "e4aa2451-6936-4b85-9a9d-d3219b86171b",
-        "c59ccfee-4d19-4a98-8de8-ddeb6271fa99",
-        "760740a9-6079-4bc0-8bc1-aa4a83d02977",
-        "0f71c285-ca47-436a-b38d-40561221f4e0",
-        "b2b13baf-d91e-43c1-9b24-9c492537eb5b",
-        "bb88e2a2-8f5c-4f3a-bce1-d417a1a6b60f",
-        "454ff708-ca24-4357-91de-b4024897c81f",
-        "c3e5ee90-3130-43be-9f60-4492310ad6f8",
-        "c3778646-1107-4030-ad1b-039dfb7498ce",
-        "35b06466-d4a1-4641-a6b1-6bc9ff206ed8",
-        "e53dc03e-667d-4ccf-999c-b7ad228c3887",
-        "b9fb0687-181c-4512-9cd1-b4bdf1d1667b",
-        "17161ecd-04db-4eed-9483-ef7a96ee8c77",
-        "2217ff9e-0e06-45c2-acf0-872fb76c80ed",
-        "55f794f3-db09-48d7-9a24-b61254647c88",
-        "ea6e7f04-fbc7-4c5b-9b4d-c6264d9eed07",
-        "c14e817b-3e73-444b-abb0-88c079196a00",
-        "6d2c39dd-31df-4de1-920c-98ace2438592",
-        "40232fe0-0d8f-4e3f-bed0-4b7281d299e0",
-        "2fb3595e-ffe9-4ded-a409-42eaea456ea7",
-        "4bed62d9-c01c-43c6-971f-45243306f25d",
-        "26732b31-c029-4f59-8f52-b7d20a183a66",
-        "7cf801e1-8699-4c70-88bd-979b436f5594",
-        "4a3e3fd5-2891-4794-954d-f663d0bc5807",
-        "52be060a-d7b4-404c-8dd3-f01e357b0eb7",
-        "6c473917-cc65-40ca-a10b-bdc1a422eac2",
-        "9477c7cc-2dd1-471e-af02-6e37dd383b7c",
-        "b6e16b87-5bf8-4bb4-9c6b-77455e83ace5",
-        "e943d2c0-7f15-4440-acee-561bdf4d7cb1",
-        "a320bcee-a2ee-4f20-9650-4ac398491cf1",
-        "75634aa0-d61b-42d2-b1ab-f58492d542c9",
-        "0c0b1b91-78e4-4fff-a25f-2fe5ce951db7",
-        "11b56e57-0900-4c30-beb9-2300ccbe0c2c",
-        "1063f7e4-e5fc-4dee-aa4c-2036eb583c63",
-        "d4a84045-c1fc-4aa5-86ec-c655e01a3204",
-        "107eea0e-7615-41bd-a20e-e31af897a59e",
-        "9c23e976-f1a6-43fd-b0cf-055441c4d28d",
-        "fe51a275-8cb0-42cd-9e77-799351628764",
-        "4bdf8996-d346-4bbd-bdb1-3a6021ee85e2",
-        "87f9c7b8-80df-44e9-b648-fd211135bbe4",
-        "0e2b19a6-0b3e-480b-9ed4-6e0c8dab1683",
-        "c62d1546-5048-466e-aae9-f0607a36e463",
-        "47f44949-7ed9-4f1e-aa6d-f2d7be086f62",
-        "0aab80e8-dc0d-4c29-a64a-f68b8db717bf",
-        "67b96d94-58ca-4e4e-b644-ecf988c8fa6d",
-        "1be608b4-088c-4ff5-bfae-97db1d169263",
-        "c8ecd3d9-8c8b-4ecb-95fe-3324a6565012",
-        "6dfab27f-4b97-4f64-b9d3-9e1a7df062f1",
+        "22ea59df-b9ad-4865-94f0-db47ed2f6c5e",
+        "8267f1f8-4e03-4e24-a207-6538b34a9927",
+        "03ee45c6-6ee2-4b7a-b2b2-858977fea15c",
+        "f6fedd6b-0c0d-4ed4-a397-eb7919189c0f",
+        "90332e3d-89fe-499d-b880-4e1780d23931",
+        "9c4597a3-64ed-43b2-b273-53894428da78",
+        "6acec5a8-c875-4c57-8cf2-5f0ec1b5f55d",
+        "17eef234-55d9-4d4d-bc7a-6e8749932159",
+        "7836bc49-d7c5-4adc-a8bf-0ed3fc2f625c",
+        "ad3e418e-a2ac-4315-8557-6f0fca9dbfe5",
+        "b536f813-760d-448f-a5c2-7e88dab445da",
+        "676170ea-f3dd-4f22-b994-01220e9870d3",
+        "7c1044d3-67a5-48e8-be38-3dd0d0a2498a",
+        "4d512be5-08f9-4d6f-b0e0-aed5effd6775",
+        "767919c8-3d1a-4f64-9c70-c6e01ef31cdb",
+        "a1645be2-ea0c-470c-b88a-f1880ccbf907",
+        "d8c6e24c-3da6-4250-9cbe-350a24224c4e",
+        "c0bdd8c6-fc36-406b-9721-214eda50124b",
+        "aceb2583-2929-4220-9a28-4f7fa0091d08",
+        "1a5670f2-08e6-4663-abf6-117402e4b142",
+        "d4f8efb4-b56b-4fa0-96e8-653d19ba833d",
+        "9c7cb775-ef06-4a78-86fc-e8c53c093f60",
+        "e3364cec-54ab-4dcd-bd42-d8ee470e5c05",
+        "bc641f55-9f4f-40ba-9e3b-dfd4f1d08f10",
+        "7b1da3e3-505d-4184-af5f-3b5cc5f93fcd",
+        "99c010a7-0ee0-436c-93da-9e3016d87930",
+        "2527c205-1e1e-4c02-909f-d79dba1a5c8d",
+        "dd494b02-26a4-4b49-bf5c-c9e50b41bb9b",
+        "c92945a3-dfac-4b9f-90a0-d5bc09843885",
+        "f9085da8-daf4-4ce6-b4a7-e227833830a3",
+        "a226c65d-041a-4af5-876c-4845a757cebb",
+        "667fa54a-f0e4-46a6-b6be-ae40afcf913d",
+        "9dac6ab7-6828-43a4-8c8d-9703223c6b23",
+        "d1dd67e2-fd97-486d-bb47-16fc264d38d7",
+        "cd9dfe85-5949-4783-aaa8-a363beee9625",
+        "0891c5f3-9211-4046-881f-c59ff56bd7d9",
+        "0092f8f5-aa26-4fa9-a5bc-4c57a70295de",
+        "0e6ffa42-2846-4967-b599-dbbe05668d05",
+        "a928d04d-3ded-4a4f-b574-ffa48d3883b4",
+        "2898144d-4428-4edd-89f5-6e7d200d8234",
+        "7f27a6e8-e822-4fb2-8d70-bdf94c93732a",
+        "da227bc5-420c-4c0b-9c75-94e8df015d70"
       ]
     }
   ],
   "labels": [
     {
-      "id": "b76fc18f-d64f-4397-a861-4ad5f24e3011",
+      "id": "22ea59df-b9ad-4865-94f0-db47ed2f6c5e",
       "key": "MQKX2LL/A",
       "upc": "190198508775",
       "tag_color": "333333",
@@ -74,7 +63,7 @@
       }
     },
     {
-      "id": "6559a42c-30da-4dfb-b649-68230809260d",
+      "id": "8267f1f8-4e03-4e24-a207-6538b34a9927",
       "key": "MQKY2LL/A",
       "upc": "190198509048",
       "tag_color": "333333",
@@ -86,7 +75,7 @@
       }
     },
     {
-      "id": "648cacb8-e24f-4c52-9ddb-6831969d8e96",
+      "id": "03ee45c6-6ee2-4b7a-b2b2-858977fea15c",
       "key": "MQKW2LL/A",
       "upc": "190198508492",
       "tag_color": "333333",
@@ -98,7 +87,7 @@
       }
     },
     {
-      "id": "604bd141-5ffa-4e05-b31c-9dbf8ea81f19",
+      "id": "f6fedd6b-0c0d-4ed4-a397-eb7919189c0f",
       "key": "MQKV2LL/A",
       "upc": "190198508218",
       "tag_color": "333333",
@@ -110,7 +99,7 @@
       }
     },
     {
-      "id": "ff952e37-7da0-4ddb-ba2c-cc1ad2c81b50",
+      "id": "90332e3d-89fe-499d-b880-4e1780d23931",
       "key": "MR352LL/A",
       "upc": "190198624505",
       "tag_color": "333333",
@@ -122,7 +111,7 @@
       }
     },
     {
-      "id": "454ff708-ca24-4357-91de-b4024897c81f",
+      "id": "9c4597a3-64ed-43b2-b273-53894428da78",
       "key": "MQKU2LL/A",
       "upc": "190198507938",
       "tag_color": "333333",
@@ -134,7 +123,7 @@
       }
     },
     {
-      "id": "c3e5ee90-3130-43be-9f60-4492310ad6f8",
+      "id": "6acec5a8-c875-4c57-8cf2-5f0ec1b5f55d",
       "key": "MQL32LL/A",
       "upc": "190198510150",
       "tag_color": "333333",
@@ -146,7 +135,7 @@
       }
     },
     {
-      "id": "e53dc03e-667d-4ccf-999c-b7ad228c3887",
+      "id": "17eef234-55d9-4d4d-bc7a-6e8749932159",
       "key": "MQL42LL/A",
       "upc": "190198510426",
       "tag_color": "333333",
@@ -158,7 +147,7 @@
       }
     },
     {
-      "id": "b9fb0687-181c-4512-9cd1-b4bdf1d1667b",
+      "id": "7836bc49-d7c5-4adc-a8bf-0ed3fc2f625c",
       "key": "MQL22LL/A",
       "upc": "190198509871",
       "tag_color": "333333",
@@ -170,7 +159,7 @@
       }
     },
     {
-      "id": "e4aa2451-6936-4b85-9a9d-d3219b86171b",
+      "id": "ad3e418e-a2ac-4315-8557-6f0fca9dbfe5",
       "key": "MQL12LL/A",
       "upc": "190198509598",
       "tag_color": "333333",
@@ -182,7 +171,7 @@
       }
     },
     {
-      "id": "c59ccfee-4d19-4a98-8de8-ddeb6271fa99",
+      "id": "b536f813-760d-448f-a5c2-7e88dab445da",
       "key": "MR362LL/A",
       "upc": "190198624796",
       "tag_color": "333333",
@@ -194,7 +183,7 @@
       }
     },
     {
-      "id": "760740a9-6079-4bc0-8bc1-aa4a83d02977",
+      "id": "676170ea-f3dd-4f22-b994-01220e9870d3",
       "key": "MQL02LL/A",
       "upc": "190198509314",
       "tag_color": "333333",
@@ -206,9 +195,9 @@
       }
     },
     {
-      "id": "40232fe0-0d8f-4e3f-bed0-4b7281d299e0",
+      "id": "7c1044d3-67a5-48e8-be38-3dd0d0a2498a",
       "key": "MQJN2LL/A",
-      "upc": "",
+      "upc": "190198510679",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -218,9 +207,9 @@
       }
     },
     {
-      "id": "2fb3595e-ffe9-4ded-a409-42eaea456ea7",
+      "id": "4d512be5-08f9-4d6f-b0e0-aed5effd6775",
       "key": "MQK12LL/A",
-      "upc": "",
+      "upc": "190198511225",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -230,9 +219,9 @@
       }
     },
     {
-      "id": "4bed62d9-c01c-43c6-971f-45243306f25d",
+      "id": "767919c8-3d1a-4f64-9c70-c6e01ef31cdb",
       "key": "MQJQ2LL/A",
-      "upc": "",
+      "upc": "190198510778",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -242,9 +231,9 @@
       }
     },
     {
-      "id": "26732b31-c029-4f59-8f52-b7d20a183a66",
+      "id": "a1645be2-ea0c-470c-b88a-f1880ccbf907",
       "key": "MQK32LL/A",
-      "upc": "",
+      "upc": "190198511324",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -254,9 +243,9 @@
       }
     },
     {
-      "id": "7cf801e1-8699-4c70-88bd-979b436f5594",
+      "id": "d8c6e24c-3da6-4250-9cbe-350a24224c4e",
       "key": "MR2W2LL/A",
-      "upc": "",
+      "upc": "190198623232",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -266,9 +255,9 @@
       }
     },
     {
-      "id": "4a3e3fd5-2891-4794-954d-f663d0bc5807",
+      "id": "c0bdd8c6-fc36-406b-9721-214eda50124b",
       "key": "MR2X2LL/A",
-      "upc": "",
+      "upc": "190198623287",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -278,9 +267,9 @@
       }
     },
     {
-      "id": "52be060a-d7b4-404c-8dd3-f01e357b0eb7",
+      "id": "aceb2583-2929-4220-9a28-4f7fa0091d08",
       "key": "MQJP2LL/A",
-      "upc": "",
+      "upc": "190198510723",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -290,9 +279,9 @@
       }
     },
     {
-      "id": "6c473917-cc65-40ca-a10b-bdc1a422eac2",
+      "id": "1a5670f2-08e6-4663-abf6-117402e4b142",
       "key": "MQK22LL/A",
-      "upc": "",
+      "upc": "190198511270",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -302,9 +291,9 @@
       }
     },
     {
-      "id": "9477c7cc-2dd1-471e-af02-6e37dd383b7c",
+      "id": "d4f8efb4-b56b-4fa0-96e8-653d19ba833d",
       "key": "MQJR2LL/A",
-      "upc": "",
+      "upc": "190198510822",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -314,9 +303,9 @@
       }
     },
     {
-      "id": "b6e16b87-5bf8-4bb4-9c6b-77455e83ace5",
+      "id": "9c7cb775-ef06-4a78-86fc-e8c53c093f60",
       "key": "MQK52LL/A",
-      "upc": "",
+      "upc": "190198511379",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -326,9 +315,9 @@
       }
     },
     {
-      "id": "e943d2c0-7f15-4440-acee-561bdf4d7cb1",
+      "id": "e3364cec-54ab-4dcd-bd42-d8ee470e5c05",
       "key": "MQJU2LL/A",
-      "upc": "",
+      "upc": "190198510921",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -338,9 +327,9 @@
       }
     },
     {
-      "id": "a320bcee-a2ee-4f20-9650-4ac398491cf1",
+      "id": "bc641f55-9f4f-40ba-9e3b-dfd4f1d08f10",
       "key": "MQK72LL/A",
-      "upc": "",
+      "upc": "190198511478",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -350,9 +339,9 @@
       }
     },
     {
-      "id": "75634aa0-d61b-42d2-b1ab-f58492d542c9",
+      "id": "7b1da3e3-505d-4184-af5f-3b5cc5f93fcd",
       "key": "MQJT2LL/A",
-      "upc": "",
+      "upc": "190198510877",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -362,9 +351,9 @@
       }
     },
     {
-      "id": "0c0b1b91-78e4-4fff-a25f-2fe5ce951db7",
+      "id": "99c010a7-0ee0-436c-93da-9e3016d87930",
       "key": "MQK62LL/A",
-      "upc": "",
+      "upc": "190198511423",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -374,9 +363,9 @@
       }
     },
     {
-      "id": "11b56e57-0900-4c30-beb9-2300ccbe0c2c",
+      "id": "2527c205-1e1e-4c02-909f-d79dba1a5c8d",
       "key": "MQJV2LL/A",
-      "upc": "",
+      "upc": "190198510976",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -386,9 +375,9 @@
       }
     },
     {
-      "id": "1063f7e4-e5fc-4dee-aa4c-2036eb583c63",
+      "id": "dd494b02-26a4-4b49-bf5c-c9e50b41bb9b",
       "key": "MQK82LL/A",
-      "upc": "",
+      "upc": "190198511522",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -398,9 +387,9 @@
       }
     },
     {
-      "id": "d4a84045-c1fc-4aa5-86ec-c655e01a3204",
+      "id": "c92945a3-dfac-4b9f-90a0-d5bc09843885",
       "key": "MQJW2LL/A",
-      "upc": "",
+      "upc": "190198511027",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -410,9 +399,9 @@
       }
     },
     {
-      "id": "107eea0e-7615-41bd-a20e-e31af897a59e",
+      "id": "f9085da8-daf4-4ce6-b4a7-e227833830a3",
       "key": "MQK92LL/A",
-      "upc": "",
+      "upc": "190198511577",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -422,9 +411,9 @@
       }
     },
     {
-      "id": "9c23e976-f1a6-43fd-b0cf-055441c4d28d",
+      "id": "a226c65d-041a-4af5-876c-4845a757cebb",
       "key": "MR1F2LL/A",
-      "upc": "",
+      "upc": "190198590442",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -434,9 +423,9 @@
       }
     },
     {
-      "id": "fe51a275-8cb0-42cd-9e77-799351628764",
+      "id": "667fa54a-f0e4-46a6-b6be-ae40afcf913d",
       "key": "MR1J2LL/A",
-      "upc": "",
+      "upc": "190198590541",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -446,9 +435,9 @@
       }
     },
     {
-      "id": "4bdf8996-d346-4bbd-bdb1-3a6021ee85e2",
+      "id": "9dac6ab7-6828-43a4-8c8d-9703223c6b23",
       "key": "MR1H2LL/A",
-      "upc": "",
+      "upc": "190198590497",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -458,9 +447,9 @@
       }
     },
     {
-      "id": "87f9c7b8-80df-44e9-b648-fd211135bbe4",
+      "id": "d1dd67e2-fd97-486d-bb47-16fc264d38d7",
       "key": "MR1L2LL/A",
-      "upc": "",
+      "upc": "190198590596",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -470,9 +459,9 @@
       }
     },
     {
-      "id": "0e2b19a6-0b3e-480b-9ed4-6e0c8dab1683",
+      "id": "cd9dfe85-5949-4783-aaa8-a363beee9625",
       "key": "MQL52LL/A",
-      "upc": "",
+      "upc": "190198514523",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -482,9 +471,9 @@
       }
     },
     {
-      "id": "c62d1546-5048-466e-aae9-f0607a36e463",
+      "id": "0891c5f3-9211-4046-881f-c59ff56bd7d9",
       "key": "MQLC2LL/A",
-      "upc": "",
+      "upc": "190198514820",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -494,9 +483,9 @@
       }
     },
     {
-      "id": "47f44949-7ed9-4f1e-aa6d-f2d7be086f62",
+      "id": "0092f8f5-aa26-4fa9-a5bc-4c57a70295de",
       "key": "MQL62LL/A",
-      "upc": "",
+      "upc": "190198514578",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -506,9 +495,9 @@
       }
     },
     {
-      "id": "0aab80e8-dc0d-4c29-a64a-f68b8db717bf",
+      "id": "0e6ffa42-2846-4967-b599-dbbe05668d05",
       "key": "MQLD2LL/A",
-      "upc": "",
+      "upc": "190198514875",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -518,9 +507,9 @@
       }
     },
     {
-      "id": "67b96d94-58ca-4e4e-b644-ecf988c8fa6d",
+      "id": "a928d04d-3ded-4a4f-b574-ffa48d3883b4",
       "key": "MQL72LL/A",
-      "upc": "",
+      "upc": "190198514622",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -530,9 +519,9 @@
       }
     },
     {
-      "id": "1be608b4-088c-4ff5-bfae-97db1d169263",
+      "id": "2898144d-4428-4edd-89f5-6e7d200d8234",
       "key": "MQLE2LL/A",
-      "upc": "",
+      "upc": "190198514929",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
@@ -542,9 +531,9 @@
       }
     },
     {
-      "id": "c8ecd3d9-8c8b-4ecb-95fe-3324a6565012",
+      "id": "7f27a6e8-e822-4fb2-8d70-bdf94c93732a",
       "key": "MQL82LL/A",
-      "upc": "",
+      "upc": "190198514677",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 38mm",
       "metadata": {
@@ -554,9 +543,9 @@
       }
     },
     {
-      "id": "6dfab27f-4b97-4f64-b9d3-9e1a7df062f1",
+      "id": "da227bc5-420c-4c0b-9c75-94e8df015d70",
       "key": "MQLF2LL/A",
-      "upc": "",
+      "upc": "190198514974",
       "tag_color": "006ae5",
       "category": "Watch 3 Cellular 42mm",
       "metadata": {
