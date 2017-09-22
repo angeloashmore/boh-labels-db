@@ -1,25 +1,25 @@
 {
   "collections": [
     {
-      "id": "0fcd87ff-afdb-4293-ac18-276cdbb839f4",
+      "id": "c659ffd4-7364-4ca8-a5a1-0af31a128d8e",
       "key": "Belkin ScreenCare+",
       "label_ids": [
-        "ed6c8723-8a37-4762-bc05-6c6242061224",
-        "5455f8a2-fa92-4128-8a97-c39c5aeacb09",
-        "b12ba90a-59ec-456a-9acc-3bfc2f18f0b1",
-        "4cf2278f-9abe-42e1-9d9a-2378d3358ed3",
-        "d3bc98da-91a9-4ade-bafd-9ff81e2f35f8",
-        "f0f1ff0e-3ea3-4411-bb51-b41cd428b1b6",
-        "6d4595cf-a2c2-4dad-a556-6f0841862e37",
-        "ddddec89-dd43-4810-8e58-d83dd010e4b9",
-        "5ac95811-92ae-464b-81e7-627de42cad3d",
-        "db0aed45-a30c-4990-ab71-6d6291e31a05"
+        "08befc51-4159-43e5-ae87-bb775ebcc765",
+        "bbfbdfd1-f6c9-4dc3-94c5-1ab63a61a2ca",
+        "1c239780-26bf-4e28-8f4e-677f83a6ff5d",
+        "fb69208b-4904-4d42-bc9e-dc42b43852e7",
+        "bc6635d0-3780-423a-a537-df816e42f15a",
+        "5851e068-73f8-48d2-bb0e-b49cc56aaf7e",
+        "bde7736f-da71-4791-a914-c5559a5e04cf",
+        "54ac98a8-b5f1-4433-af03-073b7ae1a46c",
+        "ae5342ee-2b3d-47ea-8143-65f1abd2fff2",
+        "dda7d4be-e23e-4073-a53d-edeb4526a03e"
       ]
     }
   ],
   "labels": [
     {
-      "id": "ed6c8723-8a37-4762-bc05-6c6242061224",
+      "id": "08befc51-4159-43e5-ae87-bb775ebcc765",
       "key": "HK942ZM/A",
       "upc": 745883721788,
       "tag_color": "30d81a",
@@ -30,7 +30,7 @@
       }
     },
     {
-      "id": "5455f8a2-fa92-4128-8a97-c39c5aeacb09",
+      "id": "bbfbdfd1-f6c9-4dc3-94c5-1ab63a61a2ca",
       "key": "HHX52ZM/B",
       "upc": 745883710362,
       "tag_color": "30d81a",
@@ -41,7 +41,7 @@
       }
     },
     {
-      "id": "b12ba90a-59ec-456a-9acc-3bfc2f18f0b1",
+      "id": "1c239780-26bf-4e28-8f4e-677f83a6ff5d",
       "key": "HHX62ZM/B",
       "upc": 745883710379,
       "tag_color": "30d81a",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "id": "4cf2278f-9abe-42e1-9d9a-2378d3358ed3",
+      "id": "fb69208b-4904-4d42-bc9e-dc42b43852e7",
       "key": "HKHH2ZM/A",
       "upc": 745883729067,
       "tag_color": "30d81a",
@@ -63,7 +63,7 @@
       }
     },
     {
-      "id": "d3bc98da-91a9-4ade-bafd-9ff81e2f35f8",
+      "id": "bc6635d0-3780-423a-a537-df816e42f15a",
       "key": "HKHM2ZM/A",
       "upc": 745883729050,
       "tag_color": "30d81a",
@@ -74,7 +74,7 @@
       }
     },
     {
-      "id": "f0f1ff0e-3ea3-4411-bb51-b41cd428b1b6",
+      "id": "5851e068-73f8-48d2-bb0e-b49cc56aaf7e",
       "key": "HK952ZM/A",
       "upc": 745883721771,
       "tag_color": "15600b",
@@ -85,7 +85,7 @@
       }
     },
     {
-      "id": "db0aed45-a30c-4990-ab71-6d6291e31a05",
+      "id": "bde7736f-da71-4791-a914-c5559a5e04cf",
       "key": "HHW12ZM/B",
       "upc": 745883710386,
       "tag_color": "15600b",
@@ -96,7 +96,7 @@
       }
     },
     {
-      "id": "6d4595cf-a2c2-4dad-a556-6f0841862e37",
+      "id": "54ac98a8-b5f1-4433-af03-073b7ae1a46c",
       "key": "HHW22ZM/B",
       "upc": 745883711635,
       "tag_color": "15600b",
@@ -107,7 +107,7 @@
       }
     },
     {
-      "id": "ddddec89-dd43-4810-8e58-d83dd010e4b9",
+      "id": "ae5342ee-2b3d-47ea-8143-65f1abd2fff2",
       "key": "HKHJ2ZM/A",
       "upc": 745883727414,
       "tag_color": "15600b",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": "5ac95811-92ae-464b-81e7-627de42cad3d",
+      "id": "dda7d4be-e23e-4073-a53d-edeb4526a03e",
       "key": "HKHN2ZM/A",
       "upc": 745883727407,
       "tag_color": "15600b",

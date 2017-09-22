@@ -1,33 +1,31 @@
 {
   "collections": [
     {
-      "id": "9e5e734e-3368-4cca-a25b-f813784a9ba7",
+      "id": "404d13ae-240a-445f-b585-f3c091a9a21d",
       "key": "MacBook Pro",
       "label_ids": [
-        "11eeb24f-4168-424b-808d-aad2e525800e",
-        "21a7c611-f602-4b1b-a5a3-586c39a54fa8",
-        "785a6713-3b02-4056-83b2-2e8fbc0fb6fe",
-        "36aac4f3-e6e6-41bc-8343-3e26b5a4a768",
-        "52481a95-de75-4d1d-b4b9-71ed39d7c032",
-        "58dea12f-8aef-49f8-84bc-e65b8df14b57",
-        "a3e42676-9086-4b07-ab97-d384ade8aa26",
-        "7d169987-6d0b-4bbf-a805-abc4fb5b3daa",
-
-        "5c659f7e-51d8-437a-ad12-35f694331fa1",
-        "be60603a-06d6-456f-9ef7-40ec7ab83c5f",
-
-        "a4bda3c7-a9c4-4809-8b0c-6a740c863bb7",
-        "c5699343-659c-4b4d-9f06-951a7ef5a7d9",
-        "5da23140-82ef-48ce-ad53-5a52b8173418",
-        "2f3306f4-a783-401a-b4e7-f9d2db07454d",
-        "d1a61ea3-e5e3-445d-90a2-006b2b2a8202",
-        "2991c7be-bcc7-4a1a-b99c-59b1bda370f5"
+        "24fc5c86-c09d-4e86-bdfa-77d1530ce1a2",
+        "6e4545cf-e6c4-436c-b2ce-786b2f482bb0",
+        "46814344-e0ec-44a4-bf10-71cf19b7d458",
+        "c6fb2d87-2899-4b2f-b907-17c333830b41",
+        "6f9c0d02-a453-4d26-b871-1404c96aa978",
+        "4ccedc3a-0130-427c-8f36-3bc6bf354165",
+        "e2c91fe0-dcc7-4ace-9967-cc6b1934bbb8",
+        "6b793042-294a-447a-b86d-310bf956de2f",
+        "e18c5b16-f838-426f-ad04-b0ec619de7df",
+        "f901dbc6-3167-4d36-b241-1bce76238796",
+        "9bb1cdea-ae94-4204-9409-baa810e37fee",
+        "1ec50638-339e-462d-8c7c-62724e318193",
+        "880bfb4d-ad85-4318-8801-44f6afd2a01b",
+        "c7326ce9-a36d-42e1-b651-256aac91fd97",
+        "103f95f2-f1cb-47cd-ba0d-8ca01835901b",
+        "5f991cc9-1007-4e40-b669-0198220e4e46"
       ]
     }
   ],
   "labels": [
     {
-      "id": "11eeb24f-4168-424b-808d-aad2e525800e",
+      "id": "24fc5c86-c09d-4e86-bdfa-77d1530ce1a2",
       "key": "MPXR2LL/A",
       "upc": 190198393401,
       "tag_color": "ff6600",
@@ -39,7 +37,7 @@
       }
     },
     {
-      "id": "21a7c611-f602-4b1b-a5a3-586c39a54fa8",
+      "id": "6e4545cf-e6c4-436c-b2ce-786b2f482bb0",
       "key": "MPXQ2LL/A",
       "upc": 190198392985,
       "tag_color": "ff6600",
@@ -51,7 +49,7 @@
       }
     },
     {
-      "id": "785a6713-3b02-4056-83b2-2e8fbc0fb6fe",
+      "id": "46814344-e0ec-44a4-bf10-71cf19b7d458",
       "key": "MPXU2LL/A",
       "upc": 190198394248,
       "tag_color": "ff6600",
@@ -63,7 +61,7 @@
       }
     },
     {
-      "id": "36aac4f3-e6e6-41bc-8343-3e26b5a4a768",
+      "id": "c6fb2d87-2899-4b2f-b907-17c333830b41",
       "key": "MPXT2LL/A",
       "upc": 190198393821,
       "tag_color": "ff6600",
@@ -75,7 +73,7 @@
       }
     },
     {
-      "id": "52481a95-de75-4d1d-b4b9-71ed39d7c032",
+      "id": "6f9c0d02-a453-4d26-b871-1404c96aa978",
       "key": "MPXX2LL/A",
       "upc": 190198395504,
       "tag_color": "ff6600",
@@ -87,7 +85,7 @@
       }
     },
     {
-      "id": "58dea12f-8aef-49f8-84bc-e65b8df14b57",
+      "id": "4ccedc3a-0130-427c-8f36-3bc6bf354165",
       "key": "MPXV2LL/A",
       "upc": 190198394668,
       "tag_color": "ff6600",
@@ -99,7 +97,7 @@
       }
     },
     {
-      "id": "a3e42676-9086-4b07-ab97-d384ade8aa26",
+      "id": "e2c91fe0-dcc7-4ace-9967-cc6b1934bbb8",
       "key": "MPXY2LL/A",
       "upc": 190198395924,
       "tag_color": "ff6600",
@@ -111,7 +109,7 @@
       }
     },
     {
-      "id": "7d169987-6d0b-4bbf-a805-abc4fb5b3daa",
+      "id": "6b793042-294a-447a-b86d-310bf956de2f",
       "key": "MPXW2LL/A",
       "upc": 190198395085,
       "tag_color": "ff6600",
@@ -123,7 +121,7 @@
       }
     },
     {
-      "id": "5c659f7e-51d8-437a-ad12-35f694331fa1",
+      "id": "e18c5b16-f838-426f-ad04-b0ec619de7df",
       "key": "MQ012LL/A",
       "upc": 190198396389,
       "tag_color": "ff6600",
@@ -135,7 +133,7 @@
       }
     },
     {
-      "id": "be60603a-06d6-456f-9ef7-40ec7ab83c5f",
+      "id": "f901dbc6-3167-4d36-b241-1bce76238796",
       "key": "MQ002LL/A",
       "upc": 190198396211,
       "tag_color": "ff6600",
@@ -147,7 +145,7 @@
       }
     },
     {
-      "id": "a4bda3c7-a9c4-4809-8b0c-6a740c863bb7",
+      "id": "9bb1cdea-ae94-4204-9409-baa810e37fee",
       "key": "MPTU2LL/A",
       "upc": 190198374394,
       "tag_color": "993d00",
@@ -159,7 +157,7 @@
       }
     },
     {
-      "id": "c5699343-659c-4b4d-9f06-951a7ef5a7d9",
+      "id": "1ec50638-339e-462d-8c7c-62724e318193",
       "key": "MPTR2LL/A",
       "upc": 190198373557,
       "tag_color": "993d00",
@@ -171,7 +169,7 @@
       }
     },
     {
-      "id": "5da23140-82ef-48ce-ad53-5a52b8173418",
+      "id": "880bfb4d-ad85-4318-8801-44f6afd2a01b",
       "key": "MPTV2LL/A",
       "upc": 190198374813,
       "tag_color": "993d00",
@@ -183,7 +181,7 @@
       }
     },
     {
-      "id": "2f3306f4-a783-401a-b4e7-f9d2db07454d",
+      "id": "c7326ce9-a36d-42e1-b651-256aac91fd97",
       "key": "MPTT2LL/A",
       "upc": 190198373977,
       "tag_color": "993d00",
@@ -195,7 +193,7 @@
       }
     },
     {
-      "id": "d1a61ea3-e5e3-445d-90a2-006b2b2a8202",
+      "id": "103f95f2-f1cb-47cd-ba0d-8ca01835901b",
       "key": "MPTX2LL/A",
       "upc": 190198375278,
       "tag_color": "993d00",
@@ -207,7 +205,7 @@
       }
     },
     {
-      "id": "2991c7be-bcc7-4a1a-b99c-59b1bda370f5",
+      "id": "5f991cc9-1007-4e40-b669-0198220e4e46",
       "key": "MPTW2LL/A",
       "upc": 190198375100,
       "tag_color": "993d00",

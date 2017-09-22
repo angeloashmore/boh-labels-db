@@ -1,21 +1,21 @@
 {
   "collections": [
     {
-      "id": "f5fa6e79-b676-46df-8c5c-7c265b3a4148",
+      "id": "8686c3f5-fe58-439b-b26b-54ba635cf160",
       "key": "iPad mini 4",
       "label_ids": [
-        "d779cbad-bca7-4914-b066-00e32226a2e9",
-        "8741402b-2a99-4fcb-86c7-bf1ab2a9a6f7",
-        "61dea2ed-3f32-4151-95e4-dd3e22a9b5b7",
-        "39a3715e-9472-4e8f-8fd5-bdd7ad84c55d",
-        "5927ee64-d17c-4845-84f2-c8d3b41a4fa8",
-        "dbfbee95-5476-4226-9f2a-01b171bc17d9"
+        "99b703d7-1525-4e7e-af10-4f7b57945c0e",
+        "9667de9e-116b-4e18-83f1-e36910e33947",
+        "beb26b66-238d-4955-ae6c-5f9254d4dd72",
+        "beaaeedd-6177-4f54-8904-34088508b142",
+        "5e05667c-473d-49c3-9cda-f276a7e64509",
+        "319768c4-9212-4f7b-9dfc-dbffd1386ae4"
       ]
     }
   ],
   "labels": [
     {
-      "id": "d779cbad-bca7-4914-b066-00e32226a2e9",
+      "id": "99b703d7-1525-4e7e-af10-4f7b57945c0e",
       "key": "MK9N2LL/A",
       "upc": 888462368711,
       "tag_color": 333333,
@@ -26,7 +26,7 @@
       }
     },
     {
-      "id": "8741402b-2a99-4fcb-86c7-bf1ab2a9a6f7",
+      "id": "9667de9e-116b-4e18-83f1-e36910e33947",
       "key": "MK9P2LL/A",
       "upc": 888462368964,
       "tag_color": 333333,
@@ -37,7 +37,7 @@
       }
     },
     {
-      "id": "61dea2ed-3f32-4151-95e4-dd3e22a9b5b7",
+      "id": "beb26b66-238d-4955-ae6c-5f9254d4dd72",
       "key": "MK9Q2LL/A",
       "upc": 888462369213,
       "tag_color": 333333,
@@ -48,7 +48,7 @@
       }
     },
     {
-      "id": "39a3715e-9472-4e8f-8fd5-bdd7ad84c55d",
+      "id": "beaaeedd-6177-4f54-8904-34088508b142",
       "key": "MK8D2LL/A",
       "upc": 888462376914,
       "tag_color": "006ae5",
@@ -59,7 +59,7 @@
       }
     },
     {
-      "id": "5927ee64-d17c-4845-84f2-c8d3b41a4fa8",
+      "id": "5e05667c-473d-49c3-9cda-f276a7e64509",
       "key": "MK8E2LL/A",
       "upc": 888462376938,
       "tag_color": "006ae5",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": "dbfbee95-5476-4226-9f2a-01b171bc17d9",
+      "id": "319768c4-9212-4f7b-9dfc-dbffd1386ae4",
       "key": "MK8F2LL/A",
       "upc": 888462376952,
       "tag_color": "006ae5",

@@ -1,21 +1,21 @@
 {
   "collections": [
     {
-      "id": "07bcc502-611f-4f2d-b6bf-97748de4f297",
+      "id": "f9f5f4af-1f55-450b-b4c0-4bed618d4d4a",
       "key": "iMac",
       "label_ids": [
-        "7eccf2df-eacb-42d9-aa25-7a0eaf9865de",
-        "e50f5854-ef30-46b8-a133-01bec4d5c9b4",
-        "c6122b88-a4eb-4766-9978-1293e1d94145",
-        "28143ace-145b-4769-bf74-83d02506352d",
-        "fae89554-d499-416a-90ab-4f92b443eaf6",
-        "7ff423ea-74b4-4095-979e-141d02095fda"
+        "11df9c96-670d-4444-9bdd-9b85f93457d9",
+        "62999366-b4fa-4f57-9085-8f0ee2d79e31",
+        "e283a67f-7261-40e4-ac66-23b5fcc0c80b",
+        "5c9bd728-f761-4d2a-9b5e-774f6957b9fc",
+        "de4ed9a4-7e7e-42b8-b4fa-52f54fc22ffd",
+        "28b2b24e-b154-4044-9dd4-bdc366978de3"
       ]
     }
   ],
   "labels": [
     {
-      "id": "7eccf2df-eacb-42d9-aa25-7a0eaf9865de",
+      "id": "11df9c96-670d-4444-9bdd-9b85f93457d9",
       "key": "MMQA2LL/A",
       "upc": 190198084903,
       "tag_color": "ff0000",
@@ -27,7 +27,7 @@
       }
     },
     {
-      "id": "e50f5854-ef30-46b8-a133-01bec4d5c9b4",
+      "id": "62999366-b4fa-4f57-9085-8f0ee2d79e31",
       "key": "MNDY2LL/A",
       "upc": 190198085795,
       "tag_color": "ff0000",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "id": "c6122b88-a4eb-4766-9978-1293e1d94145",
+      "id": "e283a67f-7261-40e4-ac66-23b5fcc0c80b",
       "key": "MNE02LL/A",
       "upc": 190198086235,
       "tag_color": "ff0000",
@@ -51,7 +51,7 @@
       }
     },
     {
-      "id": "28143ace-145b-4769-bf74-83d02506352d",
+      "id": "5c9bd728-f761-4d2a-9b5e-774f6957b9fc",
       "key": "MNE92LL/A",
       "upc": 190198087553,
       "tag_color": 800000,
@@ -63,7 +63,7 @@
       }
     },
     {
-      "id": "fae89554-d499-416a-90ab-4f92b443eaf6",
+      "id": "de4ed9a4-7e7e-42b8-b4fa-52f54fc22ffd",
       "key": "MNEA2LL/A",
       "upc": 190198087997,
       "tag_color": 800000,
@@ -75,7 +75,7 @@
       }
     },
     {
-      "id": "7ff423ea-74b4-4095-979e-141d02095fda",
+      "id": "28b2b24e-b154-4044-9dd4-bdc366978de3",
       "key": "MNED2LL/A",
       "upc": 190198088437,
       "tag_color": 800000,

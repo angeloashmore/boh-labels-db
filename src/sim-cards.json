@@ -1,26 +1,26 @@
 {
   "collections": [
     {
-      "id": "218b59a3-89de-46d4-9b44-d29bc973fe3f",
+      "id": "eec6ed82-1f0b-4a74-877f-244f7290ebf1",
       "key": "SIM Card",
       "label_ids": [
-        "a292803d-2b15-4891-9579-1e7d64dabb17",
-        "e670eeff-5257-4bea-8319-66e5e0252e42",
-        "1d930f29-2bd1-4456-ad5a-807b862fda38",
-        "b37745f6-83c5-448d-8e8a-d5f8c6b06e89",
-        "dd77822a-7e2e-4968-9a66-80be1cf02f56",
-        "a9cd608e-f4ca-4d72-bb50-fbcdf7f38281",
-        "8666680d-74cc-48ae-82be-1d4eb86c1232",
-        "be8e642a-197d-4ebd-ab81-e7c328665e73",
-        "aa894e80-58fa-4901-85e7-a3e0a854f426",
-        "9832c7dc-bfc0-44c6-b82c-afeb33b03dee",
-        "55becda5-3fb7-4fc7-abd0-931768da06ab"
+        "b19ec2ac-8b04-4538-9539-30eb0dfc83fb",
+        "7abd516a-6a55-4ba0-8a7f-a4c93578644c",
+        "7984cfa5-3f55-4a5f-81b1-bf61413e74f7",
+        "fd67a2ac-5abf-48b8-a1f1-ff9e06fc24e8",
+        "4c8161f0-db92-4fb4-9020-bbda0c0e472c",
+        "e4ace15e-9d73-4c58-879b-f044e0388535",
+        "cea4bfd0-e253-48fe-9d33-a6e9f1f767d5",
+        "3c014d14-6e10-4563-a22c-a1ea8949910b",
+        "8284c843-49b6-4e36-acbb-8478f1ae31a5",
+        "bf854890-2d07-43b6-8510-23949c334347",
+        "c041c474-4fa2-404d-b6e2-a92c22c7ecc3"
       ]
     }
   ],
   "labels": [
     {
-      "id": "a292803d-2b15-4891-9579-1e7d64dabb17",
+      "id": "b19ec2ac-8b04-4538-9539-30eb0dfc83fb",
       "key": "MJVV2LL/A",
       "upc": 888462111010,
       "tag_color": 333333,
@@ -31,7 +31,7 @@
       }
     },
     {
-      "id": "e670eeff-5257-4bea-8319-66e5e0252e42",
+      "id": "7abd516a-6a55-4ba0-8a7f-a4c93578644c",
       "key": "HD566LL/A",
       "upc": 607376073630,
       "tag_color": "006ae5",
@@ -42,7 +42,7 @@
       }
     },
     {
-      "id": "1d930f29-2bd1-4456-ad5a-807b862fda38",
+      "id": "7984cfa5-3f55-4a5f-81b1-bf61413e74f7",
       "key": "HE507LL/A",
       "upc": 607376019881,
       "tag_color": "006ae5",
@@ -54,7 +54,7 @@
       }
     },
     {
-      "id": "b37745f6-83c5-448d-8e8a-d5f8c6b06e89",
+      "id": "fd67a2ac-5abf-48b8-a1f1-ff9e06fc24e8",
       "key": "HD565LL/A",
       "upc": 607376019560,
       "tag_color": "006ae5",
@@ -66,19 +66,18 @@
       }
     },
     {
-      "id": "dd77822a-7e2e-4968-9a66-80be1cf02f56",
+      "id": "4c8161f0-db92-4fb4-9020-bbda0c0e472c",
       "key": "H7599LL/A",
       "upc": 885909539970,
       "tag_color": "f5c423",
       "category": "SIM Card",
       "metadata": {
         "carrier": "Sprint",
-        "size": "Micro",
         "size": "iPhone"
       }
     },
     {
-      "id": "a9cd608e-f4ca-4d72-bb50-fbcdf7f38281",
+      "id": "e4ace15e-9d73-4c58-879b-f044e0388535",
       "key": "HB155LL/A",
       "upc": 760492013536,
       "tag_color": "f5c423",
@@ -90,7 +89,7 @@
       }
     },
     {
-      "id": "8666680d-74cc-48ae-82be-1d4eb86c1232",
+      "id": "cea4bfd0-e253-48fe-9d33-a6e9f1f767d5",
       "key": "HHK42LL/A",
       "upc": 760492031912,
       "tag_color": "f5c423",
@@ -101,7 +100,7 @@
       }
     },
     {
-      "id": "be8e642a-197d-4ebd-ab81-e7c328665e73",
+      "id": "3c014d14-6e10-4563-a22c-a1ea8949910b",
       "key": "H7598LL/A",
       "upc": 885909539963,
       "tag_color": "ff2121",
@@ -112,7 +111,7 @@
       }
     },
     {
-      "id": "aa894e80-58fa-4901-85e7-a3e0a854f426",
+      "id": "8284c843-49b6-4e36-acbb-8478f1ae31a5",
       "key": "HA406LL/A",
       "upc": 840168090211,
       "tag_color": "ff2121",
@@ -123,7 +122,7 @@
       }
     },
     {
-      "id": "9832c7dc-bfc0-44c6-b82c-afeb33b03dee",
+      "id": "bf854890-2d07-43b6-8510-23949c334347",
       "key": "HB928LL/A",
       "upc": 610214631039,
       "tag_color": "ff2194",
@@ -134,7 +133,7 @@
       }
     },
     {
-      "id": "55becda5-3fb7-4fc7-abd0-931768da06ab",
+      "id": "c041c474-4fa2-404d-b6e2-a92c22c7ecc3",
       "key": "HG5W2LL/A",
       "upc": 610214628398,
       "tag_color": "ff2194",

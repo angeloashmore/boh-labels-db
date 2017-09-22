@@ -1,88 +1,88 @@
 {
   "collections": [
     {
-      "id": "000445e7-6225-40ac-9e67-89659c57bad3",
+      "id": "eaf6d387-bf2f-4424-9cc0-20d8db07ef3a",
       "key": "Accessories",
       "label_ids": [
-        "7604a063-90e7-474e-83bf-ccf1b398ee8f",
-        "1907fa52-e6e3-4f42-af10-7c734fba9cd9",
-        "56725261-c542-47fe-b2fc-a3e69cb682a0",
-        "d1025181-1d81-4570-9e40-811d9875f10c",
-        "bec64d12-c511-44c4-ab0c-fe6417563d27",
-        "0265d7b1-3fc0-4ce5-a240-c81bdcd49293",
-        "5d94cb91-bfb0-4d10-9393-f0ebb3b92d1b",
-        "d53add72-53f6-4b27-8e84-e52812a4919c",
-        "25b30b5e-f26d-4bf8-9266-5c881791f38f",
-        "d5f44d5a-6ffb-4157-8257-508b811c8116"
+        "af3f6ee7-be95-4bd5-be4f-60fe212bf3f9",
+        "d6c444b7-a819-4479-920a-0cc397c84213",
+        "4759a021-99c0-4ff2-8d94-0602acde6714",
+        "2563800d-bedf-4be7-8a2f-4cde2b40410f",
+        "d5394967-e63f-4904-ad51-69d68ad53b3b",
+        "78799bda-9d75-472d-abdc-e54db3040098",
+        "f8997ec9-c2de-4171-8f38-6318fa9b0cca",
+        "626e5121-5a04-4ec7-a1e3-ff8b047402c4",
+        "60b59013-90ef-4574-a5a0-e11467b8fb2c",
+        "5e677dbc-bc9b-4923-8fb3-0967ded85d87"
       ]
     }
   ],
   "labels": [
     {
-      "id": "7604a063-90e7-474e-83bf-ccf1b398ee8f",
+      "id": "af3f6ee7-be95-4bd5-be4f-60fe212bf3f9",
       "key": "Speakers",
       "tag_color": "1f91cd",
       "category": "Accessories",
       "metadata": {}
     },
     {
-      "id": "1907fa52-e6e3-4f42-af10-7c734fba9cd9",
+      "id": "d6c444b7-a819-4479-920a-0cc397c84213",
       "key": "Headphones",
       "tag_color": "f46e3c",
       "category": "Accessories",
       "metadata": {}
     },
     {
-      "id": "56725261-c542-47fe-b2fc-a3e69cb682a0",
+      "id": "4759a021-99c0-4ff2-8d94-0602acde6714",
       "key": "App-Enabled",
       "tag_color": "69af37",
       "category": "Accessories",
       "metadata": {}
     },
     {
-      "id": "d1025181-1d81-4570-9e40-811d9875f10c",
+      "id": "2563800d-bedf-4be7-8a2f-4cde2b40410f",
       "key": "Apple iOS",
       "tag_color": "6e0308",
       "category": "Accessories",
       "metadata": {}
     },
     {
-      "id": "bec64d12-c511-44c4-ab0c-fe6417563d27",
+      "id": "d5394967-e63f-4904-ad51-69d68ad53b3b",
       "key": "Apple Mac",
       "tag_color": "2e6ffa",
       "category": "Accessories",
       "metadata": {}
     },
     {
-      "id": "0265d7b1-3fc0-4ce5-a240-c81bdcd49293",
+      "id": "78799bda-9d75-472d-abdc-e54db3040098",
       "key": "3PP Essentials",
       "tag_color": "8211ac",
       "category": "Accessories",
       "metadata": {}
     },
     {
-      "id": "5d94cb91-bfb0-4d10-9393-f0ebb3b92d1b",
+      "id": "f8997ec9-c2de-4171-8f38-6318fa9b0cca",
       "key": "iPad Cases",
       "tag_color": "d90a11",
       "category": "Accessories",
       "metadata": {}
     },
     {
-      "id": "d53add72-53f6-4b27-8e84-e52812a4919c",
+      "id": "626e5121-5a04-4ec7-a1e3-ff8b047402c4",
       "key": "Mac Cases",
       "tag_color": "f87037",
       "category": "Accessories",
       "metadata": {}
     },
     {
-      "id": "25b30b5e-f26d-4bf8-9266-5c881791f38f",
+      "id": "60b59013-90ef-4574-a5a0-e11467b8fb2c",
       "key": "iPhone Cases",
       "tag_color": "f8ba2b",
       "category": "Accessories",
       "metadata": {}
     },
     {
-      "id": "d5f44d5a-6ffb-4157-8257-508b811c8116",
+      "id": "5e677dbc-bc9b-4923-8fb3-0967ded85d87",
       "key": "Watch",
       "tag_color": 113097,
       "category": "Accessories",

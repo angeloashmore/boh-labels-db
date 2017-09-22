@@ -1,23 +1,23 @@
 {
   "collections": [
     {
-      "id": "73f2464e-9934-40b5-acde-8cf65a928284",
+      "id": "288bb757-8aed-498e-941b-3406f560f77c",
       "key": "MacBook",
       "label_ids": [
-        "759fee06-a863-4f86-8b22-afaff73730ae",
-        "5d56157a-1f0b-4378-b627-07e2ff0806d2",
-        "a813b9ba-1ab2-420c-9c7e-6ae809f4d60d",
-        "50355483-1a17-456d-a1d4-029a1e6361df",
-        "2deeb7b9-0630-47e5-9cee-438920f0d85b",
-        "8a0375a1-2bb4-4c6c-87ac-97cffea0b9c4",
-        "8db86d85-c673-4bf5-a1fe-9840f6386b81",
-        "80471012-7a2b-43aa-a57f-3f271821a0f7"
+        "d896f464-66fc-4dcb-9102-00fde92d775f",
+        "502f6962-cfe7-4fda-885a-6c14bcda523d",
+        "4b666d7d-fa4d-4bad-a147-7c1dd9e9576e",
+        "1f7fc38d-ea3b-41c2-ac1d-2a722bd86b2d",
+        "67d11a79-774c-4795-a523-41343416a031",
+        "891eda19-156d-445a-b517-f10fda9b3e98",
+        "ce85585b-85af-4c42-b45a-a92587120286",
+        "ba9d6f39-dacf-4911-91c3-2656693b0e2d"
       ]
     }
   ],
   "labels": [
     {
-      "id": "759fee06-a863-4f86-8b22-afaff73730ae",
+      "id": "d896f464-66fc-4dcb-9102-00fde92d775f",
       "key": "MNYF2LL/A",
       "upc": 190198202536,
       "tag_color": "9900cc",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "id": "5d56157a-1f0b-4378-b627-07e2ff0806d2",
+      "id": "502f6962-cfe7-4fda-885a-6c14bcda523d",
       "key": "MNYG2LL/A",
       "upc": 190198202956,
       "tag_color": "9900cc",
@@ -41,7 +41,7 @@
       }
     },
     {
-      "id": "a813b9ba-1ab2-420c-9c7e-6ae809f4d60d",
+      "id": "4b666d7d-fa4d-4bad-a147-7c1dd9e9576e",
       "key": "MNYH2LL/A",
       "upc": 190198203373,
       "tag_color": "9900cc",
@@ -53,7 +53,7 @@
       }
     },
     {
-      "id": "50355483-1a17-456d-a1d4-029a1e6361df",
+      "id": "1f7fc38d-ea3b-41c2-ac1d-2a722bd86b2d",
       "key": "MNYJ2LL/A",
       "upc": 190198203793,
       "tag_color": "9900cc",
@@ -65,7 +65,7 @@
       }
     },
     {
-      "id": "2deeb7b9-0630-47e5-9cee-438920f0d85b",
+      "id": "67d11a79-774c-4795-a523-41343416a031",
       "key": "MNYK2LL/A",
       "upc": 190198204219,
       "tag_color": "9900cc",
@@ -77,7 +77,7 @@
       }
     },
     {
-      "id": "8a0375a1-2bb4-4c6c-87ac-97cffea0b9c4",
+      "id": "891eda19-156d-445a-b517-f10fda9b3e98",
       "key": "MNYL2LL/A",
       "upc": 190198204639,
       "tag_color": "9900cc",
@@ -89,7 +89,7 @@
       }
     },
     {
-      "id": "8db86d85-c673-4bf5-a1fe-9840f6386b81",
+      "id": "ce85585b-85af-4c42-b45a-a92587120286",
       "key": "MNYM2LL/A",
       "upc": 190198205056,
       "tag_color": "9900cc",
@@ -101,7 +101,7 @@
       }
     },
     {
-      "id": "80471012-7a2b-43aa-a57f-3f271821a0f7",
+      "id": "ba9d6f39-dacf-4911-91c3-2656693b0e2d",
       "key": "MNYN2LL/A",
       "upc": 190198205476,
       "tag_color": "9900cc",

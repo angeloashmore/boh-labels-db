@@ -1,23 +1,23 @@
 {
   "collections": [
     {
-      "id": "5e374b4f-2a67-44b1-9a9b-fd0a4056875b",
+      "id": "4b89e2de-bb23-4403-8494-526f20cbe145",
       "key": "Watch Nike+",
       "label_ids": [
-        "27ed794d-a2e6-4fae-960d-2cd0a0f31e67",
-        "39ec4a0e-597c-4ae5-915c-2ec8a7229fda",
-        "ecc5c1fd-43ba-4e72-b7fe-af8a83d7dff1",
-        "4a0e8dda-215a-4c1d-a42e-ebb278e1d48b",
-        "a7925bd8-1d31-46c7-bc8f-e50bcd126d55",
-        "917715d3-6054-44f0-b853-30a4f75026c2",
-        "59586103-3261-4080-b282-caa45be787b9",
-        "7e88c5dc-0075-4fa6-b8e5-0a7c833d129e"
+        "c0ad6c8d-9da1-4e67-930b-70928ff031a9",
+        "4c5a03e5-fcb8-4073-a242-e0daa5136574",
+        "ab44d50b-3a9f-4e79-80c8-ced79151d6ae",
+        "51932fe5-356c-4037-a868-ddbe66981ab6",
+        "fdb15a60-3d89-484e-817c-7a145f9b7461",
+        "3e620122-303f-426f-8c55-dce049c4208f",
+        "a51d1656-f756-4d7b-8099-ca763f1d8a34",
+        "177673f9-1bd8-4309-a689-54a6ba739b2e"
       ]
     }
   ],
   "labels": [
     {
-      "id": "27ed794d-a2e6-4fae-960d-2cd0a0f31e67",
+      "id": "c0ad6c8d-9da1-4e67-930b-70928ff031a9",
       "key": "MNYP2LL/A",
       "upc": 190198194282,
       "tag_color": "c5ea4d",
@@ -29,7 +29,7 @@
       }
     },
     {
-      "id": "39ec4a0e-597c-4ae5-915c-2ec8a7229fda",
+      "id": "4c5a03e5-fcb8-4073-a242-e0daa5136574",
       "key": "MNNQ2LL/A",
       "upc": 190198131591,
       "tag_color": "c5ea4d",
@@ -41,7 +41,7 @@
       }
     },
     {
-      "id": "ecc5c1fd-43ba-4e72-b7fe-af8a83d7dff1",
+      "id": "ab44d50b-3a9f-4e79-80c8-ced79151d6ae",
       "key": "MNYX2LL/A",
       "upc": 190198199904,
       "tag_color": "c5ea4d",
@@ -53,7 +53,7 @@
       }
     },
     {
-      "id": "4a0e8dda-215a-4c1d-a42e-ebb278e1d48b",
+      "id": "51932fe5-356c-4037-a868-ddbe66981ab6",
       "key": "MP082LL/A",
       "upc": 190198209535,
       "tag_color": "c5ea4d",
@@ -65,7 +65,7 @@
       }
     },
     {
-      "id": "a7925bd8-1d31-46c7-bc8f-e50bcd126d55",
+      "id": "fdb15a60-3d89-484e-817c-7a145f9b7461",
       "key": "MNYQ2LL/A",
       "upc": 190198194565,
       "tag_color": "ffae00",
@@ -77,7 +77,7 @@
       }
     },
     {
-      "id": "917715d3-6054-44f0-b853-30a4f75026c2",
+      "id": "3e620122-303f-426f-8c55-dce049c4208f",
       "key": "MNNT2LL/A",
       "upc": 190198131614,
       "tag_color": "ffae00",
@@ -89,7 +89,7 @@
       }
     },
     {
-      "id": "59586103-3261-4080-b282-caa45be787b9",
+      "id": "a51d1656-f756-4d7b-8099-ca763f1d8a34",
       "key": "MNYY2LL/A",
       "upc": 190198200198,
       "tag_color": "ffae00",
@@ -101,7 +101,7 @@
       }
     },
     {
-      "id": "7e88c5dc-0075-4fa6-b8e5-0a7c833d129e",
+      "id": "177673f9-1bd8-4309-a689-54a6ba739b2e",
       "key": "MP0A2LL/A",
       "upc": 190198212122,
       "tag_color": "ffae00",
