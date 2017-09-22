@@ -1,0 +1,612 @@
+{
+  "collections": [
+    {
+      "id": "2df07f06-9ed0-4c12-a38f-0c236f8436f9",
+      "key": "iPhone 7 Plus",
+      "label_ids": [
+        "c4e80b5b-9ddf-4ea1-ac56-eef793cd04e3",
+        "9f60d185-0314-461c-8543-6cb79cfaff89",
+        "8fe2424e-2ec4-4950-b0ac-4491230c5329",
+        "47f11e9a-1fe2-48ad-82c7-03ac30180bae",
+        "728b5acc-60cd-42e9-aea7-6d956e3b5d56",
+        "285881b5-dfd3-48ef-a345-6bd3879e2dc8",
+        "25109462-3792-4b84-ba19-442568eea29b",
+        "e66be2c3-7330-47a2-b020-a02302a43af0",
+        "aaa0b7aa-ed49-4eef-aad5-959115271ca6",
+        "edb1f927-ab60-40e4-b225-b245aec89045",
+        "8552568f-b4eb-4bac-a27f-3014fcd50ae1",
+        "1d9551da-de5f-48a5-bb8e-5eee8e20ff75",
+        "c4fb7174-8109-477b-af09-074a128ac324",
+        "daef9015-e92b-4a65-a5bc-507a86b29645",
+        "444d268d-6fe2-48d9-b944-117163926ca4",
+        "e8552e87-a408-488f-814a-63e0f1d5d1ab",
+        "37e6fe7e-05ab-4904-aba2-274c96fb7082",
+        "1622818f-e8d8-4d57-aa6a-be97611de9ec",
+        "c1ff9fd5-b228-4166-aa54-87fac2cf5964",
+        "b85d595c-1e00-4f16-a7b6-b46c906e9e62",
+        "c9becef0-9971-4d51-a224-a17482eb0e94",
+        "3802371c-39e0-4264-b5f3-5da4e7f4d2b9",
+        "01d76937-5de1-4777-bd9d-10df9aae30d9",
+        "f922aced-f338-40c3-8b64-291a8a3a7ebe",
+        "0915f644-7e70-4982-94c9-0dfd9efcf6cd",
+        "f02fa2ba-a997-432e-bdf0-9d45e0a1ddf3",
+        "5be4f168-2ea6-44e5-b26b-78c3f7aa377e",
+        "92d9c7e6-72aa-48c8-aa58-9a204922dff0",
+        "f422536c-460d-4838-9a53-e99548d87370",
+        "7fa8ab74-ee7c-4988-90f6-2cc19131c6f0",
+        "898569ee-43ef-4e3e-b387-b74eeb5bb251",
+        "40a2cb10-1ab6-4101-9235-d2aa006e1730",
+        "d630e876-5531-4802-a63b-5010669a515e",
+        "b8e7edeb-9824-4674-ac90-c594b474a3dc",
+        "2d0d217e-ea8d-48f8-9c8e-79794e400544",
+        "d556d59a-3d53-47fc-9520-23a14b4ef9a1",
+        "24ebefb0-5e06-4503-adc7-d9aa98ce3cbc",
+        "371997c1-c35b-4566-865c-691f66ae1e61",
+        "ee29186c-278b-447d-af9b-a494b089cdac",
+        "cc2eb9ca-a92a-462d-8764-c5e6c4b68366",
+        "b37d5fe4-3f72-412d-a649-a3cbf22a360e",
+        "07e8ef22-c412-48c0-876a-877c79bb447b",
+        "5c6ee689-0363-4610-9334-e588291fc055",
+        "005ebf7b-8001-4a43-a5a5-6f5aa56342e0",
+        "172a013d-1840-464d-a838-5460d46c1059",
+        "d0e0c6bb-2d4b-4885-a1de-6e09a14c82cc",
+        "1fb248f9-5539-484f-be9e-29fbafe5278b",
+        "fed4390e-dea2-4979-831a-0e0666a8bc3f",
+        "2d61f641-a347-45c5-b05d-633a7b0d0234",
+        "459baf85-5e0e-410f-9c2c-80b05c5bf59c"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "c4e80b5b-9ddf-4ea1-ac56-eef793cd04e3",
+      "key": "MNQH2LL/A",
+      "upc": 190198155795,
+      "tag_color": 333333,
+      "category": "iPhone 7 Plus Unlocked",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Black"
+      }
+    },
+    {
+      "id": "9f60d185-0314-461c-8543-6cb79cfaff89",
+      "key": "MNQJ2LL/A",
+      "upc": 190198155818,
+      "tag_color": 333333,
+      "category": "iPhone 7 Plus Unlocked",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "8fe2424e-2ec4-4950-b0ac-4491230c5329",
+      "key": "MNQK2LL/A",
+      "upc": 190198155832,
+      "tag_color": 333333,
+      "category": "iPhone 7 Plus Unlocked",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "47f11e9a-1fe2-48ad-82c7-03ac30180bae",
+      "key": "MNQL2LL/A",
+      "upc": 190198155856,
+      "tag_color": 333333,
+      "category": "iPhone 7 Plus Unlocked",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "728b5acc-60cd-42e9-aea7-6d956e3b5d56",
+      "key": "MQU22LL/A",
+      "upc": 190198543639,
+      "tag_color": 333333,
+      "category": "iPhone 7 Plus Unlocked",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Jet Black"
+      }
+    },
+    {
+      "id": "285881b5-dfd3-48ef-a345-6bd3879e2dc8",
+      "key": "MN482LL/A",
+      "upc": 190198043313,
+      "tag_color": 333333,
+      "category": "iPhone 7 Plus Unlocked",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Black"
+      }
+    },
+    {
+      "id": "25109462-3792-4b84-ba19-442568eea29b",
+      "key": "MN492LL/A",
+      "upc": 190198043337,
+      "tag_color": 333333,
+      "category": "iPhone 7 Plus Unlocked",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "e66be2c3-7330-47a2-b020-a02302a43af0",
+      "key": "MN4A2LL/A",
+      "upc": 190198043351,
+      "tag_color": 333333,
+      "category": "iPhone 7 Plus Unlocked",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "aaa0b7aa-ed49-4eef-aad5-959115271ca6",
+      "key": "MN4C2LL/A",
+      "upc": 190198043375,
+      "tag_color": 333333,
+      "category": "iPhone 7 Plus Unlocked",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "edb1f927-ab60-40e4-b225-b245aec89045",
+      "key": "MN4D2LL/A",
+      "upc": 190198043399,
+      "tag_color": 333333,
+      "category": "iPhone 7 Plus Unlocked",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Jet Black"
+      }
+    },
+    {
+      "id": "8552568f-b4eb-4bac-a27f-3014fcd50ae1",
+      "key": "MNQR2LL/A",
+      "upc": 190198157317,
+      "tag_color": "006ae5",
+      "category": "iPhone 7 Plus AT&T",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Black"
+      }
+    },
+    {
+      "id": "1d9551da-de5f-48a5-bb8e-5eee8e20ff75",
+      "key": "MNQT2LL/A",
+      "upc": 190198157324,
+      "tag_color": "006ae5",
+      "category": "iPhone 7 Plus AT&T",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "c4fb7174-8109-477b-af09-074a128ac324",
+      "key": "MNQU2LL/A",
+      "upc": 190198157331,
+      "tag_color": "006ae5",
+      "category": "iPhone 7 Plus AT&T",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "daef9015-e92b-4a65-a5bc-507a86b29645",
+      "key": "MNQV2LL/A",
+      "upc": 190198157348,
+      "tag_color": "006ae5",
+      "category": "iPhone 7 Plus AT&T",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "444d268d-6fe2-48d9-b944-117163926ca4",
+      "key": "MQU32LL/A",
+      "upc": 190198543660,
+      "tag_color": "006ae5",
+      "category": "iPhone 7 Plus AT&T",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Jet Black"
+      }
+    },
+    {
+      "id": "e8552e87-a408-488f-814a-63e0f1d5d1ab",
+      "key": "MN522LL/A",
+      "upc": 190198047601,
+      "tag_color": "006ae5",
+      "category": "iPhone 7 Plus AT&T",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Black"
+      }
+    },
+    {
+      "id": "37e6fe7e-05ab-4904-aba2-274c96fb7082",
+      "key": "MN532LL/A",
+      "upc": 190198047618,
+      "tag_color": "006ae5",
+      "category": "iPhone 7 Plus AT&T",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "1622818f-e8d8-4d57-aa6a-be97611de9ec",
+      "key": "MN552LL/A",
+      "upc": 190198047625,
+      "tag_color": "006ae5",
+      "category": "iPhone 7 Plus AT&T",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "c1ff9fd5-b228-4166-aa54-87fac2cf5964",
+      "key": "MN562LL/A",
+      "upc": 190198047632,
+      "tag_color": "006ae5",
+      "category": "iPhone 7 Plus AT&T",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "b85d595c-1e00-4f16-a7b6-b46c906e9e62",
+      "key": "MN572LL/A",
+      "upc": 190198047649,
+      "tag_color": "006ae5",
+      "category": "iPhone 7 Plus AT&T",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Jet Black"
+      }
+    },
+    {
+      "id": "c9becef0-9971-4d51-a224-a17482eb0e94",
+      "key": "MNQW2LL/A",
+      "upc": 190198157355,
+      "tag_color": "ff2194",
+      "category": "iPhone 7 Plus T-Mobile",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Black"
+      }
+    },
+    {
+      "id": "3802371c-39e0-4264-b5f3-5da4e7f4d2b9",
+      "key": "MNQX2LL/A",
+      "upc": 190198157362,
+      "tag_color": "ff2194",
+      "category": "iPhone 7 Plus T-Mobile",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "01d76937-5de1-4777-bd9d-10df9aae30d9",
+      "key": "MNQY2LL/A",
+      "upc": 190198157379,
+      "tag_color": "ff2194",
+      "category": "iPhone 7 Plus T-Mobile",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "f922aced-f338-40c3-8b64-291a8a3a7ebe",
+      "key": "MNR02LL/A",
+      "upc": 190198157386,
+      "tag_color": "ff2194",
+      "category": "iPhone 7 Plus T-Mobile",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "0915f644-7e70-4982-94c9-0dfd9efcf6cd",
+      "key": "MQU42LL/A",
+      "upc": 190198543677,
+      "tag_color": "ff2194",
+      "category": "iPhone 7 Plus T-Mobile",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Jet Black"
+      }
+    },
+    {
+      "id": "f02fa2ba-a997-432e-bdf0-9d45e0a1ddf3",
+      "key": "MN5G2LL/A",
+      "upc": 190198047700,
+      "tag_color": "ff2194",
+      "category": "iPhone 7 Plus T-Mobile",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Black"
+      }
+    },
+    {
+      "id": "5be4f168-2ea6-44e5-b26b-78c3f7aa377e",
+      "key": "MN5H2LL/A",
+      "upc": 190198047717,
+      "tag_color": "ff2194",
+      "category": "iPhone 7 Plus T-Mobile",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "92d9c7e6-72aa-48c8-aa58-9a204922dff0",
+      "key": "MN5J2LL/A",
+      "upc": 190198047724,
+      "tag_color": "ff2194",
+      "category": "iPhone 7 Plus T-Mobile",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "f422536c-460d-4838-9a53-e99548d87370",
+      "key": "MN5K2LL/A",
+      "upc": 190198047731,
+      "tag_color": "ff2194",
+      "category": "iPhone 7 Plus T-Mobile",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "7fa8ab74-ee7c-4988-90f6-2cc19131c6f0",
+      "key": "MN5L2LL/A",
+      "upc": 190198047748,
+      "tag_color": "ff2194",
+      "category": "iPhone 7 Plus T-Mobile",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Jet Black"
+      }
+    },
+    {
+      "id": "898569ee-43ef-4e3e-b387-b74eeb5bb251",
+      "key": "MNR12LL/A",
+      "upc": 190198157393,
+      "tag_color": "ff2121",
+      "category": "iPhone 7 Plus Verizon",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Black"
+      }
+    },
+    {
+      "id": "40a2cb10-1ab6-4101-9235-d2aa006e1730",
+      "key": "MNR22LL/A",
+      "upc": 190198157409,
+      "tag_color": "ff2121",
+      "category": "iPhone 7 Plus Verizon",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "d630e876-5531-4802-a63b-5010669a515e",
+      "key": "MNR32LL/A",
+      "upc": 190198157416,
+      "tag_color": "ff2121",
+      "category": "iPhone 7 Plus Verizon",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "b8e7edeb-9824-4674-ac90-c594b474a3dc",
+      "key": "MNR42LL/A",
+      "upc": 190198157423,
+      "tag_color": "ff2121",
+      "category": "iPhone 7 Plus Verizon",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "2d0d217e-ea8d-48f8-9c8e-79794e400544",
+      "key": "MQU52LL/A/A",
+      "upc": 190198157423,
+      "tag_color": "ff2121",
+      "category": "iPhone 7 Plus Verizon",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Jet Black"
+      }
+    },
+    {
+      "id": "d556d59a-3d53-47fc-9520-23a14b4ef9a1",
+      "key": "MN5T2LL/A",
+      "upc": 190198047809,
+      "tag_color": "ff2121",
+      "category": "iPhone 7 Plus Verizon",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Black"
+      }
+    },
+    {
+      "id": "24ebefb0-5e06-4503-adc7-d9aa98ce3cbc",
+      "key": "MN5U2LL/A",
+      "upc": 190198047816,
+      "tag_color": "ff2121",
+      "category": "iPhone 7 Plus Verizon",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "371997c1-c35b-4566-865c-691f66ae1e61",
+      "key": "MN5V2LL/A",
+      "upc": 190198047823,
+      "tag_color": "ff2121",
+      "category": "iPhone 7 Plus Verizon",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "ee29186c-278b-447d-af9b-a494b089cdac",
+      "key": "MN5W2LL/A",
+      "upc": 190198047830,
+      "tag_color": "ff2121",
+      "category": "iPhone 7 Plus Verizon",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "cc2eb9ca-a92a-462d-8764-c5e6c4b68366",
+      "key": "MN5X2LL/A",
+      "upc": 190198047847,
+      "tag_color": "ff2121",
+      "category": "iPhone 7 Plus Verizon",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Jet Black"
+      }
+    },
+    {
+      "id": "b37d5fe4-3f72-412d-a649-a3cbf22a360e",
+      "key": "MNR52LL/A",
+      "upc": 190198157430,
+      "tag_color": "ffbb00",
+      "category": "iPhone 7 Plus Sprint",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Black"
+      }
+    },
+    {
+      "id": "07e8ef22-c412-48c0-876a-877c79bb447b",
+      "key": "MNR62LL/A",
+      "upc": 190198157447,
+      "tag_color": "ffbb00",
+      "category": "iPhone 7 Plus Sprint",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "5c6ee689-0363-4610-9334-e588291fc055",
+      "key": "MNR72LL/A",
+      "upc": 190198157454,
+      "tag_color": "ffbb00",
+      "category": "iPhone 7 Plus Sprint",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "005ebf7b-8001-4a43-a5a5-6f5aa56342e0",
+      "key": "MNR82LL/A",
+      "upc": 190198157461,
+      "tag_color": "ffbb00",
+      "category": "iPhone 7 Plus Sprint",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "172a013d-1840-464d-a838-5460d46c1059",
+      "key": "MQU62LL/A",
+      "upc": 190198543691,
+      "tag_color": "ffbb00",
+      "category": "iPhone 7 Plus Sprint",
+      "metadata": {
+        "capacity": "32GB",
+        "color": "Jet Black"
+      }
+    },
+    {
+      "id": "d0e0c6bb-2d4b-4885-a1de-6e09a14c82cc",
+      "key": "MN642LL/A",
+      "upc": 190198047908,
+      "tag_color": "ffbb00",
+      "category": "iPhone 7 Plus Sprint",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Black"
+      }
+    },
+    {
+      "id": "1fb248f9-5539-484f-be9e-29fbafe5278b",
+      "key": "MN652LL/A",
+      "upc": 190198047915,
+      "tag_color": "ffbb00",
+      "category": "iPhone 7 Plus Sprint",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "fed4390e-dea2-4979-831a-0e0666a8bc3f",
+      "key": "MN662LL/A",
+      "upc": 190198047922,
+      "tag_color": "ffbb00",
+      "category": "iPhone 7 Plus Sprint",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Gold"
+      }
+    },
+    {
+      "id": "2d61f641-a347-45c5-b05d-633a7b0d0234",
+      "key": "MN672LL/A",
+      "upc": 190198047939,
+      "tag_color": "ffbb00",
+      "category": "iPhone 7 Plus Sprint",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Rose Gold"
+      }
+    },
+    {
+      "id": "459baf85-5e0e-410f-9c2c-80b05c5bf59c",
+      "key": "MN682LL/A",
+      "upc": 190198047946,
+      "tag_color": "ffbb00",
+      "category": "iPhone 7 Plus Sprint",
+      "metadata": {
+        "capacity": "128GB",
+        "color": "Jet Black"
+      }
+    }
+  ]
+}
