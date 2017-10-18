@@ -1,0 +1,252 @@
+{
+  "collections": [
+    {
+      "id": "d3190c73-4f1c-4e8a-81ef-e81a7da5c586",
+      "key": "iPhone X",
+      "label_ids": [
+        "e0a5798c-498e-46ca-9e3f-aabecc4406e2",
+        "90ed5efd-78bc-483c-9c74-21c423a40191",
+        "a07398fe-7b1d-4729-9969-2bc3f86c0d04",
+        "c9efabb0-0f45-4a00-a3fd-2c27dfab4588",
+        "ba06b2ac-e821-47ce-b47a-487874ec73aa",
+        "7ad83523-3cdd-4ffe-a877-271032ebfb95",
+        "1f0ea9aa-bd63-4a25-bea7-0fa5f7ada760",
+        "0abf508d-45c4-44d3-921f-51f9bd47d089",
+        "24881ced-601d-444d-b351-ed113b61181f",
+        "4310ce7b-5ee1-417c-930e-53ba7144e649",
+        "acaf57a4-141f-4112-877b-6a54b3f729ee",
+        "55c29adc-dc42-45f3-b39e-b98898be7338",
+        "938b4edc-29a8-4ade-982a-5d474e86090d",
+        "cc2efb0d-af8d-48bc-a2ac-a4de0aa9cc93",
+        "67f50890-5858-4131-a8de-809070e8f72e",
+        "ed6deb1e-7788-4667-88fa-cee025a64619",
+        "84805eb3-34be-4d67-9b9c-d5ddbf853633",
+        "fb92d485-7363-4f40-86ab-ac696e597788",
+        "8c9b8283-5beb-4a34-a352-a1ec9489d531",
+        "d61a738d-2a7b-425c-abdf-b5c4cb1bc878"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "e0a5798c-498e-46ca-9e3f-aabecc4406e2",
+      "key": "MQA52LL/A",
+      "upc": "190198456656",
+      "tag_color": 333333,
+      "category": "iPhone X Unlocked",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "90ed5efd-78bc-483c-9c74-21c423a40191",
+      "key": "MQA62LL/A",
+      "upc": "190198456700",
+      "tag_color": 333333,
+      "category": "iPhone X Unlocked",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "a07398fe-7b1d-4729-9969-2bc3f86c0d04",
+      "key": "MQA82LL/A",
+      "upc": "190198456809",
+      "tag_color": 333333,
+      "category": "iPhone X Unlocked",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "c9efabb0-0f45-4a00-a3fd-2c27dfab4588",
+      "key": "MQA92LL/A",
+      "upc": "190198456854",
+      "tag_color": 333333,
+      "category": "iPhone X Unlocked",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "ba06b2ac-e821-47ce-b47a-487874ec73aa",
+      "key": "MQAJ2LL/A",
+      "upc": "190198459091",
+      "tag_color": "006ae5",
+      "category": "iPhone X AT&T",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "7ad83523-3cdd-4ffe-a877-271032ebfb95",
+      "key": "MQAK2LL/A",
+      "upc": "190198459107",
+      "tag_color": "006ae5",
+      "category": "iPhone X AT&T",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "1f0ea9aa-bd63-4a25-bea7-0fa5f7ada760",
+      "key": "MQAM2LL/A",
+      "upc": "190198459121",
+      "tag_color": "006ae5",
+      "category": "iPhone X AT&T",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "0abf508d-45c4-44d3-921f-51f9bd47d089",
+      "key": "MQAN2LL/A",
+      "upc": "190198459138",
+      "tag_color": "006ae5",
+      "category": "iPhone X AT&T",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "24881ced-601d-444d-b351-ed113b61181f",
+      "key": "MQAQ2LL/A",
+      "upc": "190198459152",
+      "tag_color": "ff2194",
+      "category": "iPhone X T-Mobile",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "4310ce7b-5ee1-417c-930e-53ba7144e649",
+      "key": "MQAR2LL/A",
+      "upc": "190198459169",
+      "tag_color": "ff2194",
+      "category": "iPhone X T-Mobile",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "acaf57a4-141f-4112-877b-6a54b3f729ee",
+      "key": "MQAU2LL/A",
+      "upc": "190198459183",
+      "tag_color": "ff2194",
+      "category": "iPhone X T-Mobile",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "55c29adc-dc42-45f3-b39e-b98898be7338",
+      "key": "MQAV2LL/A",
+      "upc": "190198459190",
+      "tag_color": "ff2194",
+      "category": "iPhone X T-Mobile",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "938b4edc-29a8-4ade-982a-5d474e86090d",
+      "key": "MQCK2LL/A",
+      "upc": "190198459510",
+      "tag_color": "ff2121",
+      "category": "iPhone X Verizon",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "cc2efb0d-af8d-48bc-a2ac-a4de0aa9cc93",
+      "key": "MQCL2LL/A",
+      "upc": "190198459527",
+      "tag_color": "ff2121",
+      "category": "iPhone X Verizon",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "67f50890-5858-4131-a8de-809070e8f72e",
+      "key": "MQCN2LL/A",
+      "upc": "190198459541",
+      "tag_color": "ff2121",
+      "category": "iPhone X Verizon",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "ed6deb1e-7788-4667-88fa-cee025a64619",
+      "key": "MQCP2LL/A",
+      "upc": "190198459558",
+      "tag_color": "ff2121",
+      "category": "iPhone X Verizon",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "84805eb3-34be-4d67-9b9c-d5ddbf853633",
+      "key": "MQCR2LL/A",
+      "upc": "190198459572",
+      "tag_color": "ffbb00",
+      "category": "iPhone X Sprint",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "fb92d485-7363-4f40-86ab-ac696e597788",
+      "key": "MQCT2LL/A",
+      "upc": "190198459589",
+      "tag_color": "ffbb00",
+      "category": "iPhone X Sprint",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Silver"
+      }
+    },
+    {
+      "id": "8c9b8283-5beb-4a34-a352-a1ec9489d531",
+      "key": "MQCV2LL/A",
+      "upc": "190198459602",
+      "tag_color": "ffbb00",
+      "category": "iPhone X Sprint",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Space Gray"
+      }
+    },
+    {
+      "id": "d61a738d-2a7b-425c-abdf-b5c4cb1bc878",
+      "key": "MQCW2LL/A",
+      "upc": "190198459619",
+      "tag_color": "ffbb00",
+      "category": "iPhone X Sprint",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Silver"
+      }
+    }
+  ]
+}
