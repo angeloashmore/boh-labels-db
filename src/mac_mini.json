@@ -1,18 +1,18 @@
 {
   "collections": [
     {
-      "id": "889cf900-7386-4f64-94a3-8b7a5e6d235b",
+      "id": "90e3272b-52c2-4ebe-a6db-a69f643e75d0",
       "key": "Mac Mini",
       "label_ids": [
-        "25ce4266-7c62-4904-9ddf-c125c0102278",
-        "bd155a06-520e-43b9-a7ac-70466763bb4b",
-        "867371d1-add6-48a3-9d01-9b4ede732d8c"
+        "f8d7266f-8bfa-4160-ae0b-a3f6867ee9ca",
+        "d64b675a-c30d-4aec-b168-1a7af769399f",
+        "be7c45f6-2e78-49b5-bcc6-d2c1269fda7f"
       ]
     }
   ],
   "labels": [
     {
-      "id": "25ce4266-7c62-4904-9ddf-c125c0102278",
+      "id": "f8d7266f-8bfa-4160-ae0b-a3f6867ee9ca",
       "key": "MGEM2LL/A",
       "upc": 885909954766,
       "tag_color": "009900",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "id": "bd155a06-520e-43b9-a7ac-70466763bb4b",
+      "id": "d64b675a-c30d-4aec-b168-1a7af769399f",
       "key": "MGEN2LL/A",
       "upc": 885909955206,
       "tag_color": "009900",
@@ -36,7 +36,7 @@
       }
     },
     {
-      "id": "867371d1-add6-48a3-9d01-9b4ede732d8c",
+      "id": "be7c45f6-2e78-49b5-bcc6-d2c1269fda7f",
       "key": "MGEQ2LL/A",
       "upc": 885909955640,
       "tag_color": "009900",

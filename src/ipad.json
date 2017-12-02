@@ -1,27 +1,27 @@
 {
   "collections": [
     {
-      "id": "55ab79cb-6b35-4520-8b24-de504f33542b",
+      "id": "1df6d5ce-7940-4928-b133-452aa01e6ada",
       "key": "iPad",
       "label_ids": [
-        "eb360e9d-f06c-4dec-b9cb-de3c2b7f7d2a",
-        "efb5a070-7301-4660-b9e4-ba88d86bc27b",
-        "45aedcda-982d-4607-89d1-2d922d5e3311",
-        "f4937254-d213-48e2-b5dd-42c53c74ded5",
-        "cbe3914d-6011-445f-958f-7f633e565553",
-        "4a725828-f651-4f27-9450-0baa32431d0f",
-        "5261b499-9c08-4fda-8c3a-4ef84f87a866",
-        "676cc1bc-7e25-4dbe-abed-d3b57255024b",
-        "50a2bdd9-5d3a-4b1d-93f8-9bb548dee612",
-        "43ce51f5-80f5-48b7-899f-f49fcb580775",
-        "d0e0d3d8-1451-42f4-a47c-ee6575da6d1c",
-        "133a92e0-813e-40ba-a9a9-e45844bc9b91"
+        "84d8f82b-0bc9-4500-addc-4b4fa180d1fb",
+        "269d550a-428f-4f7d-943c-a99c3369edba",
+        "5aa65a48-a829-4523-a911-f9d2c9e41d1d",
+        "5dc2ed11-da39-4f53-b1e8-37181a4c29fa",
+        "1b3a18a7-bbdf-42e7-af72-bc7eb5ff6dc7",
+        "514b3aa1-573b-4203-82d2-2dd901858a16",
+        "5a732e9b-fb9d-4b53-aed3-8ba30f3943fa",
+        "250f9d9f-8e16-4217-bab4-28706c6ff4fc",
+        "2bba7620-0d0b-47bd-8273-2ff1f91a9f31",
+        "58c5d8c4-2fd2-4aa1-a32e-18a0d39e56f0",
+        "df9858ba-faff-49a1-ba22-fcf898ddf0a0",
+        "9b67f269-b27b-4196-865d-9fe85676dadd"
       ]
     }
   ],
   "labels": [
     {
-      "id": "eb360e9d-f06c-4dec-b9cb-de3c2b7f7d2a",
+      "id": "84d8f82b-0bc9-4500-addc-4b4fa180d1fb",
       "key": "MP2F2LL/A",
       "upc": 190198239013,
       "tag_color": 333333,
@@ -32,7 +32,7 @@
       }
     },
     {
-      "id": "efb5a070-7301-4660-b9e4-ba88d86bc27b",
+      "id": "269d550a-428f-4f7d-943c-a99c3369edba",
       "key": "MP2G2LL/A",
       "upc": 190198239303,
       "tag_color": 333333,
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": "45aedcda-982d-4607-89d1-2d922d5e3311",
+      "id": "5aa65a48-a829-4523-a911-f9d2c9e41d1d",
       "key": "MPGT2LL/A",
       "upc": 190198323071,
       "tag_color": 333333,
@@ -54,7 +54,7 @@
       }
     },
     {
-      "id": "f4937254-d213-48e2-b5dd-42c53c74ded5",
+      "id": "5dc2ed11-da39-4f53-b1e8-37181a4c29fa",
       "key": "MP2H2LL/A",
       "upc": 190198239594,
       "tag_color": 333333,
@@ -65,7 +65,7 @@
       }
     },
     {
-      "id": "cbe3914d-6011-445f-958f-7f633e565553",
+      "id": "1b3a18a7-bbdf-42e7-af72-bc7eb5ff6dc7",
       "key": "MP2J2LL/A",
       "upc": 190198239884,
       "tag_color": 333333,
@@ -76,7 +76,7 @@
       }
     },
     {
-      "id": "4a725828-f651-4f27-9450-0baa32431d0f",
+      "id": "514b3aa1-573b-4203-82d2-2dd901858a16",
       "key": "MPGW2LL/A",
       "upc": 190198323378,
       "tag_color": 333333,
@@ -87,7 +87,7 @@
       }
     },
     {
-      "id": "5261b499-9c08-4fda-8c3a-4ef84f87a866",
+      "id": "5a732e9b-fb9d-4b53-aed3-8ba30f3943fa",
       "key": "MP242LL/A",
       "upc": 190198233080,
       "tag_color": "006ae5",
@@ -98,7 +98,7 @@
       }
     },
     {
-      "id": "676cc1bc-7e25-4dbe-abed-d3b57255024b",
+      "id": "250f9d9f-8e16-4217-bab4-28706c6ff4fc",
       "key": "MP252LL/A",
       "upc": 190198233103,
       "tag_color": "006ae5",
@@ -109,7 +109,7 @@
       }
     },
     {
-      "id": "50a2bdd9-5d3a-4b1d-93f8-9bb548dee612",
+      "id": "2bba7620-0d0b-47bd-8273-2ff1f91a9f31",
       "key": "MPGA2LL/A",
       "upc": 190198325884,
       "tag_color": "006ae5",
@@ -120,7 +120,7 @@
       }
     },
     {
-      "id": "43ce51f5-80f5-48b7-899f-f49fcb580775",
+      "id": "58c5d8c4-2fd2-4aa1-a32e-18a0d39e56f0",
       "key": "MP2D2LL/A",
       "upc": 190198233738,
       "tag_color": "006ae5",
@@ -131,7 +131,7 @@
       }
     },
     {
-      "id": "d0e0d3d8-1451-42f4-a47c-ee6575da6d1c",
+      "id": "df9858ba-faff-49a1-ba22-fcf898ddf0a0",
       "key": "MP2E2LL/A",
       "upc": 190198233752,
       "tag_color": "006ae5",
@@ -142,7 +142,7 @@
       }
     },
     {
-      "id": "133a92e0-813e-40ba-a9a9-e45844bc9b91",
+      "id": "9b67f269-b27b-4196-865d-9fe85676dadd",
       "key": "MPGC2LL/A",
       "upc": 190198325914,
       "tag_color": "006ae5",

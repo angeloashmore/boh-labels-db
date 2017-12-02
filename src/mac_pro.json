@@ -1,17 +1,17 @@
 {
   "collections": [
     {
-      "id": "e9669f8a-f38e-47e9-9bd3-cdc480f79a8f",
+      "id": "0c9f934b-9ec8-4596-b509-96d9fbb54b03",
       "key": "Mac Pro",
       "label_ids": [
-        "40115d72-e61e-41e7-82a4-00c81ae542c4",
-        "74b71c4f-307c-47e2-aa0e-c1ec584c73a0"
+        "cfeec7a3-e192-4435-8fe6-693ff0365c11",
+        "ea691ce8-c937-4e07-80ec-15fe1a112292"
       ]
     }
   ],
   "labels": [
     {
-      "id": "40115d72-e61e-41e7-82a4-00c81ae542c4",
+      "id": "cfeec7a3-e192-4435-8fe6-693ff0365c11",
       "key": "ME253LL/A",
       "upc": 885909705368,
       "tag_color": 800000,
@@ -23,7 +23,7 @@
       }
     },
     {
-      "id": "74b71c4f-307c-47e2-aa0e-c1ec584c73a0",
+      "id": "ea691ce8-c937-4e07-80ec-15fe1a112292",
       "key": "MD878LL/A",
       "upc": 885909634125,
       "tag_color": 800000,
