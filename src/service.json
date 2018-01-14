@@ -1,0 +1,33 @@
+{
+  "collections": [
+    {
+      "id": "e6154353-64a7-471b-a97a-084f7036849a",
+      "key": "Service Parts",
+      "label_ids": [
+        "fed3c562-47e7-4c49-ad39-12ef21cd9a98",
+        "443fbbf4-85f6-428f-b05f-7e927938e8a2",
+        "6001e8f0-b783-4b1b-a247-5e8a9e2955ac"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "id": "fed3c562-47e7-4c49-ad39-12ef21cd9a98",
+      "key": "iPad mini",
+      "tag_color": "#841f27",
+      "category": "Service Parts"
+    },
+    {
+      "id": "443fbbf4-85f6-428f-b05f-7e927938e8a2",
+      "key": "iPad 9.7\"-10.5\"",
+      "tag_color": "#841f27",
+      "category": "Service Parts"
+    },
+    {
+      "id": "6001e8f0-b783-4b1b-a247-5e8a9e2955ac",
+      "key": "iPad 12.9\"",
+      "tag_color": "#841f27",
+      "category": "Service Parts"
+    }
+  ]
+}
