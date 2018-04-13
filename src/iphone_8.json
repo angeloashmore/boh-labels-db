@@ -1,45 +1,55 @@
 {
   "collections": [
     {
-      "id": "dbecf917-d77a-41f2-bfa1-a8cd6595e2c3",
+      "id": "32ed9f8b-975b-4d8f-bdf2-30edef548faf",
       "key": "iPhone 8",
       "label_ids": [
-        "9c6abae2-75d4-4091-bf7a-6d3c5d891cdb",
-        "80406a91-7bd4-4a74-b307-4209975d6cb1",
-        "0cbb4737-addf-4766-85b5-0e6e42635476",
-        "145095da-f461-461b-8139-f982cbe153ed",
-        "caa4e6c2-ffd2-4a55-bb18-672fc03f6d8f",
-        "ff448b54-761b-42f8-97b6-ae027418a8d6",
-        "55439d3d-5f27-495e-8a2c-2675f66e6824",
-        "733b9181-a915-4698-9149-00104796452d",
-        "cea90429-15c2-4fe6-91be-bf24bc09225f",
-        "8ba6d895-45ce-467a-8b45-7ae57b983a54",
-        "c577727c-0e7b-470b-af77-9221263a88fa",
-        "6aca16f0-70f0-44ae-8ba0-a675982955cc",
-        "326f6f09-c5ca-4a3f-b815-85b20b8bd999",
-        "f3e10138-5548-43ad-9d48-113a6419b203",
-        "c4877578-3d47-4e1a-8e69-a28d30024d85",
-        "f30ea4f6-911e-4a43-b6a0-91737f1890e4",
-        "000f56af-07f9-4f46-814e-762a4fd2fa89",
-        "c1fb0e33-f185-4abc-bd54-3c09cbf0f7e8",
-        "65598946-412a-42fb-9ed9-ad9422f771b1",
-        "b48bedd8-4935-43f7-b587-a110ab35cb32",
-        "4fe31314-a5a5-46c1-9faf-f6439b14f7e9",
-        "401cf62b-f8cd-49e0-ad85-af85b77f2f05",
-        "756937b1-5a42-4f17-bfbc-77d6ab9ea9b8",
-        "34497a50-8d71-4aac-84c5-f6c78311f106",
-        "5ca176c1-d031-4c99-9c5d-0986593cd9bd",
-        "48ed0d04-3df8-4824-b034-b0299dcf4659",
-        "ba00aaf3-f80f-4f0c-9660-4a24e1e606cb",
-        "63204b1e-c012-4bd1-a8b0-5513678b78a1",
-        "48755acd-cbc5-4048-ad67-d3eb0f8dcb3a",
-        "fa9c2fb4-961c-4c2f-8a03-3cb879fc5bb8"
+        "ad389aec-611e-4cad-abba-9f9c0f008665",
+        "deaa1219-5ae9-4974-83ac-859053dd8b53",
+        "816972b4-e62e-4934-adbf-aa9bc21ba5a9",
+        "cb950a15-1bd0-4a9f-a5e5-b665a0afdbd4",
+        "0b328021-a80e-41c1-9f85-f74725205982",
+        "a2ecae80-6d54-451b-b2ea-c08c235cd53a",
+        "e0a29479-02b6-4856-84ce-ca2efd3a7004",
+        "780a1e08-d008-4f0b-a0ca-f788ab0e7811",
+        "9cecc7ff-4339-424c-8bb6-b6444adc5b70",
+        "fe77f71d-0ef9-4b24-9991-50793314b882",
+        "26ad4a10-2e1c-48cf-9465-b5ac7af1c052",
+        "d4fab916-5439-488d-8a72-8592b40f9d7d",
+        "e8efa090-eeb5-4ad8-9050-eb093891d2de",
+        "0ac79064-95b6-4d4e-8c77-c57c6fb379a0",
+        "75848c18-93bb-4e05-9507-d3b67a505799",
+        "25c55921-960b-4818-a60c-74a18493dcca",
+        "9a0cf06d-4689-48c0-919c-c694ef01f539",
+        "8b088f25-e9db-44d9-894b-cf407c58ef8f",
+        "faa9401d-e9a7-4db7-b9a5-1b6f8d585a55",
+        "37754bb8-c52f-4731-a720-d61ba4f1923c",
+        "7cf19d1a-4f6e-435c-8a0f-780ac2a3284d",
+        "04b8be8d-f28d-4b4e-8d1b-c73e93969622",
+        "5be4892e-1866-4e77-aacd-2441fc2b6e50",
+        "6b6dfcad-4779-4a13-838b-b0d2d0dba155",
+        "20578193-85b3-4adf-b01d-8ab56493b58f",
+        "c8c12643-7c25-40fe-917b-b9ec65e1d67d",
+        "29dc6da2-3f8f-41ce-82e9-8d509f5facda",
+        "aac8a1b8-bd20-4288-b416-f6cd91d622d1",
+        "3536d803-a013-4930-9fda-5ae0cf49ebf8",
+        "05aefdfd-05af-49cb-9d3a-3956effa1931",
+        "509f4750-d224-4bda-80e6-2699f23c69e3",
+        "95f4c1d9-46cf-465a-9733-5349458d7d2e",
+        "bb0e8d3e-e940-4b09-8c69-e80bbd5ec393",
+        "77ff17e5-f748-4616-81c4-7f23d47e9ba5",
+        "85e8bff0-e763-4a16-bab5-e3d6c1c36625",
+        "6335b336-d24d-43c1-885c-cbfbd8be1431",
+        "37cf4019-1d78-4c0c-98be-3404a778a855",
+        "76f2b96d-2880-4459-9f67-bdeb2c84493f",
+        "4ce4793d-c609-44a4-899f-febbb4abceb1",
+        "335a47c2-3208-4e44-960b-0d2521f21903"
       ]
     }
   ],
   "labels": [
     {
-      "id": "9c6abae2-75d4-4091-bf7a-6d3c5d891cdb",
+      "id": "ad389aec-611e-4cad-abba-9f9c0f008665",
       "key": "MQ6K2LL/A",
       "upc": "190198451736",
       "tag_color": 333333,
@@ -50,7 +60,7 @@
       }
     },
     {
-      "id": "80406a91-7bd4-4a74-b307-4209975d6cb1",
+      "id": "deaa1219-5ae9-4974-83ac-859053dd8b53",
       "key": "MQ6L2LL/A",
       "upc": "190198451781",
       "tag_color": 333333,
@@ -61,7 +71,7 @@
       }
     },
     {
-      "id": "0cbb4737-addf-4766-85b5-0e6e42635476",
+      "id": "816972b4-e62e-4934-adbf-aa9bc21ba5a9",
       "key": "MQ6M2LL/A",
       "upc": "190198451835",
       "tag_color": 333333,
@@ -72,7 +82,18 @@
       }
     },
     {
-      "id": "145095da-f461-461b-8139-f982cbe153ed",
+      "id": "cb950a15-1bd0-4a9f-a5e5-b665a0afdbd4",
+      "key": "MRRK2LL/A",
+      "upc": "190198744012",
+      "tag_color": 333333,
+      "category": "iPhone 8 Unlocked",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Red"
+      }
+    },
+    {
+      "id": "0b328021-a80e-41c1-9f85-f74725205982",
       "key": "MQ7F2LL/A",
       "upc": "190198453235",
       "tag_color": 333333,
@@ -83,7 +104,7 @@
       }
     },
     {
-      "id": "caa4e6c2-ffd2-4a55-bb18-672fc03f6d8f",
+      "id": "a2ecae80-6d54-451b-b2ea-c08c235cd53a",
       "key": "MQ7G2LL/A",
       "upc": "190198453280",
       "tag_color": 333333,
@@ -94,7 +115,7 @@
       }
     },
     {
-      "id": "ff448b54-761b-42f8-97b6-ae027418a8d6",
+      "id": "e0a29479-02b6-4856-84ce-ca2efd3a7004",
       "key": "MQ7H2LL/A",
       "upc": "190198453334",
       "tag_color": 333333,
@@ -105,7 +126,18 @@
       }
     },
     {
-      "id": "55439d3d-5f27-495e-8a2c-2675f66e6824",
+      "id": "780a1e08-d008-4f0b-a0ca-f788ab0e7811",
+      "key": "MRRL2LL/A",
+      "upc": "190198744074",
+      "tag_color": 333333,
+      "category": "iPhone 8 Unlocked",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Red"
+      }
+    },
+    {
+      "id": "9cecc7ff-4339-424c-8bb6-b6444adc5b70",
       "key": "MQ6V2LL/A",
       "upc": "190198451927",
       "tag_color": "006ae5",
@@ -116,7 +148,7 @@
       }
     },
     {
-      "id": "733b9181-a915-4698-9149-00104796452d",
+      "id": "fe77f71d-0ef9-4b24-9991-50793314b882",
       "key": "MQ6W2LL/A",
       "upc": "190198451934",
       "tag_color": "006ae5",
@@ -127,7 +159,7 @@
       }
     },
     {
-      "id": "cea90429-15c2-4fe6-91be-bf24bc09225f",
+      "id": "26ad4a10-2e1c-48cf-9465-b5ac7af1c052",
       "key": "MQ6X2LL/A",
       "upc": "190198451941",
       "tag_color": "006ae5",
@@ -138,7 +170,18 @@
       }
     },
     {
-      "id": "8ba6d895-45ce-467a-8b45-7ae57b983a54",
+      "id": "d4fab916-5439-488d-8a72-8592b40f9d7d",
+      "key": "MRRP2LL/A",
+      "upc": "190198744760",
+      "tag_color": "006ae5",
+      "category": "iPhone 8 AT&T",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Red"
+      }
+    },
+    {
+      "id": "e8efa090-eeb5-4ad8-9050-eb093891d2de",
       "key": "MQ7Q2LL/A",
       "upc": "190198453426",
       "tag_color": "006ae5",
@@ -149,7 +192,7 @@
       }
     },
     {
-      "id": "c577727c-0e7b-470b-af77-9221263a88fa",
+      "id": "0ac79064-95b6-4d4e-8c77-c57c6fb379a0",
       "key": "MQ7R2LL/A",
       "upc": "190198453433",
       "tag_color": "006ae5",
@@ -160,7 +203,7 @@
       }
     },
     {
-      "id": "6aca16f0-70f0-44ae-8ba0-a675982955cc",
+      "id": "75848c18-93bb-4e05-9507-d3b67a505799",
       "key": "MQ7T2LL/A",
       "upc": "190198453440",
       "tag_color": "006ae5",
@@ -171,7 +214,18 @@
       }
     },
     {
-      "id": "326f6f09-c5ca-4a3f-b815-85b20b8bd999",
+      "id": "25c55921-960b-4818-a60c-74a18493dcca",
+      "key": "MRRU2LL/A",
+      "upc": "190198744807",
+      "tag_color": 333333,
+      "category": "iPhone 8 AT&T",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Red"
+      }
+    },
+    {
+      "id": "9a0cf06d-4689-48c0-919c-c694ef01f539",
       "key": "MQ6Y2LL/A",
       "upc": "190198451958",
       "tag_color": "ff2194",
@@ -182,7 +236,7 @@
       }
     },
     {
-      "id": "f3e10138-5548-43ad-9d48-113a6419b203",
+      "id": "8b088f25-e9db-44d9-894b-cf407c58ef8f",
       "key": "MQ702LL/A",
       "upc": "190198451965",
       "tag_color": "ff2194",
@@ -193,7 +247,7 @@
       }
     },
     {
-      "id": "c4877578-3d47-4e1a-8e69-a28d30024d85",
+      "id": "faa9401d-e9a7-4db7-b9a5-1b6f8d585a55",
       "key": "MQ712LL/A",
       "upc": "190198451972",
       "tag_color": "ff2194",
@@ -204,7 +258,18 @@
       }
     },
     {
-      "id": "f30ea4f6-911e-4a43-b6a0-91737f1890e4",
+      "id": "37754bb8-c52f-4731-a720-d61ba4f1923c",
+      "key": "MRRQ2LL/A",
+      "upc": "190198744777",
+      "tag_color": "006ae5",
+      "category": "iPhone 8 T-Mobile",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Red"
+      }
+    },
+    {
+      "id": "7cf19d1a-4f6e-435c-8a0f-780ac2a3284d",
       "key": "MQ7U2LL/A",
       "upc": "190198453457",
       "tag_color": "ff2194",
@@ -215,7 +280,7 @@
       }
     },
     {
-      "id": "000f56af-07f9-4f46-814e-762a4fd2fa89",
+      "id": "04b8be8d-f28d-4b4e-8d1b-c73e93969622",
       "key": "MQ7V2LL/A",
       "upc": "190198453464",
       "tag_color": "ff2194",
@@ -226,7 +291,7 @@
       }
     },
     {
-      "id": "c1fb0e33-f185-4abc-bd54-3c09cbf0f7e8",
+      "id": "5be4892e-1866-4e77-aacd-2441fc2b6e50",
       "key": "MQ7W2LL/A",
       "upc": "190198453471",
       "tag_color": "ff2194",
@@ -237,7 +302,18 @@
       }
     },
     {
-      "id": "65598946-412a-42fb-9ed9-ad9422f771b1",
+      "id": "6b6dfcad-4779-4a13-838b-b0d2d0dba155",
+      "key": "MRRV2LL/A",
+      "upc": "190198744814",
+      "tag_color": "ff2194",
+      "category": "iPhone 8 T-Mobile",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Red"
+      }
+    },
+    {
+      "id": "20578193-85b3-4adf-b01d-8ab56493b58f",
       "key": "MQ722LL/A",
       "upc": "190198451989",
       "tag_color": "ff2121",
@@ -248,7 +324,7 @@
       }
     },
     {
-      "id": "b48bedd8-4935-43f7-b587-a110ab35cb32",
+      "id": "c8c12643-7c25-40fe-917b-b9ec65e1d67d",
       "key": "MQ732LL/A",
       "upc": "190198451996",
       "tag_color": "ff2121",
@@ -259,7 +335,7 @@
       }
     },
     {
-      "id": "4fe31314-a5a5-46c1-9faf-f6439b14f7e9",
+      "id": "29dc6da2-3f8f-41ce-82e9-8d509f5facda",
       "key": "MQ742LL/A",
       "upc": "190198452009",
       "tag_color": "ff2121",
@@ -270,7 +346,18 @@
       }
     },
     {
-      "id": "401cf62b-f8cd-49e0-ad85-af85b77f2f05",
+      "id": "aac8a1b8-bd20-4288-b416-f6cd91d622d1",
+      "key": "MRRR2LL/A",
+      "upc": "190198744784",
+      "tag_color": "006ae5",
+      "category": "iPhone 8 Verizon",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Red"
+      }
+    },
+    {
+      "id": "3536d803-a013-4930-9fda-5ae0cf49ebf8",
       "key": "MQ7X2LL/A",
       "upc": "190198453488",
       "tag_color": "ff2121",
@@ -281,7 +368,7 @@
       }
     },
     {
-      "id": "756937b1-5a42-4f17-bfbc-77d6ab9ea9b8",
+      "id": "05aefdfd-05af-49cb-9d3a-3956effa1931",
       "key": "MQ7Y2LL/A",
       "upc": "190198453495",
       "tag_color": "ff2121",
@@ -292,7 +379,7 @@
       }
     },
     {
-      "id": "34497a50-8d71-4aac-84c5-f6c78311f106",
+      "id": "509f4750-d224-4bda-80e6-2699f23c69e3",
       "key": "MQ802LL/A",
       "upc": "190198453501",
       "tag_color": "ff2121",
@@ -303,7 +390,18 @@
       }
     },
     {
-      "id": "5ca176c1-d031-4c99-9c5d-0986593cd9bd",
+      "id": "95f4c1d9-46cf-465a-9733-5349458d7d2e",
+      "key": "MRRW2LL/A",
+      "upc": "190198744821",
+      "tag_color": "ff2121",
+      "category": "iPhone 8 Verizon",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Red"
+      }
+    },
+    {
+      "id": "bb0e8d3e-e940-4b09-8c69-e80bbd5ec393",
       "key": "MQ752LL/A",
       "upc": "190198452016",
       "tag_color": "ffbb00",
@@ -314,7 +412,7 @@
       }
     },
     {
-      "id": "48ed0d04-3df8-4824-b034-b0299dcf4659",
+      "id": "77ff17e5-f748-4616-81c4-7f23d47e9ba5",
       "key": "MQ762LL/A",
       "upc": "190198452023",
       "tag_color": "ffbb00",
@@ -325,7 +423,7 @@
       }
     },
     {
-      "id": "ba00aaf3-f80f-4f0c-9660-4a24e1e606cb",
+      "id": "85e8bff0-e763-4a16-bab5-e3d6c1c36625",
       "key": "MQ772LL/A",
       "upc": "190198452030",
       "tag_color": "ffbb00",
@@ -336,7 +434,18 @@
       }
     },
     {
-      "id": "63204b1e-c012-4bd1-a8b0-5513678b78a1",
+      "id": "6335b336-d24d-43c1-885c-cbfbd8be1431",
+      "key": "MRRT2LL/A",
+      "upc": "190198744791",
+      "tag_color": "006ae5",
+      "category": "iPhone 8 Sprint",
+      "metadata": {
+        "capacity": "64GB",
+        "color": "Red"
+      }
+    },
+    {
+      "id": "37cf4019-1d78-4c0c-98be-3404a778a855",
       "key": "MQ812LL/A",
       "upc": "190198453518",
       "tag_color": "ffbb00",
@@ -347,7 +456,7 @@
       }
     },
     {
-      "id": "48755acd-cbc5-4048-ad67-d3eb0f8dcb3a",
+      "id": "76f2b96d-2880-4459-9f67-bdeb2c84493f",
       "key": "MQ822LL/A",
       "upc": "190198453525",
       "tag_color": "ffbb00",
@@ -358,7 +467,7 @@
       }
     },
     {
-      "id": "fa9c2fb4-961c-4c2f-8a03-3cb879fc5bb8",
+      "id": "4ce4793d-c609-44a4-899f-febbb4abceb1",
       "key": "MQ832LL/A",
       "upc": "190198453532",
       "tag_color": "ffbb00",
@@ -366,6 +475,17 @@
       "metadata": {
         "capacity": "256GB",
         "color": "Gold"
+      }
+    },
+    {
+      "id": "335a47c2-3208-4e44-960b-0d2521f21903",
+      "key": "MRRX2LL/A",
+      "upc": "190198744838",
+      "tag_color": 333333,
+      "category": "iPhone 8 Sprint",
+      "metadata": {
+        "capacity": "256GB",
+        "color": "Red"
       }
     }
   ]
