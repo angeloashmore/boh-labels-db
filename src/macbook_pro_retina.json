@@ -1,16 +1,16 @@
 {
   "collections": [
     {
-      "id": "e034993c-5b92-413f-a6d5-edfdf96a8433",
+      "id": "3e3ba6a8-47ec-4801-871c-97aa4162f43f",
       "key": "MacBook Pro Retina",
       "label_ids": [
-        "3d3f3e05-7cce-4572-8147-83befb85cb75"
+        "53d1fe02-cd2a-4fd4-894f-f2964dfa359d"
       ]
     }
   ],
   "labels": [
     {
-      "id": "3d3f3e05-7cce-4572-8147-83befb85cb75",
+      "id": "53d1fe02-cd2a-4fd4-894f-f2964dfa359d",
       "key": "MJLQ2LL/A",
       "upc": 888462101103,
       "tag_color": "99004d",

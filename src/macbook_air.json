@@ -1,18 +1,18 @@
 {
   "collections": [
     {
-      "id": "ea209b65-d1b8-4b33-990b-3da2a752022e",
+      "id": "843c02b7-9d90-43f9-9f61-acc7ec259f9e",
       "key": "MacBook Air",
       "label_ids": [
-        "47a83543-17e9-4fbf-a36d-b1c5b77de4ac",
-        "4f14299d-6e76-4ba6-8155-2be5125dcc4d",
-        "2b995b53-a033-4a7d-b317-80b4430ce549"
+        "7e225ccf-0c06-4d24-aeec-fc9bf8ca6d53",
+        "d3696c93-0e46-450a-a2d8-b9349df0f1ec",
+        "fc18694f-dc24-41ed-b0eb-18d5f89f0df6"
       ]
     }
   ],
   "labels": [
     {
-      "id": "47a83543-17e9-4fbf-a36d-b1c5b77de4ac",
+      "id": "7e225ccf-0c06-4d24-aeec-fc9bf8ca6d53",
       "key": "MQD32LL/A",
       "upc": 190198462930,
       "tag_color": "006ae5",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "id": "4f14299d-6e76-4ba6-8155-2be5125dcc4d",
+      "id": "d3696c93-0e46-450a-a2d8-b9349df0f1ec",
       "key": "MQD42LL/A",
       "upc": 190198463029,
       "tag_color": "006ae5",
@@ -36,7 +36,7 @@
       }
     },
     {
-      "id": "2b995b53-a033-4a7d-b317-80b4430ce549",
+      "id": "fc18694f-dc24-41ed-b0eb-18d5f89f0df6",
       "key": "MQD52LL/A",
       "upc": 190198463036,
       "tag_color": "006ae5",

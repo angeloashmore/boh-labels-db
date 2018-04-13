@@ -1,18 +1,18 @@
 {
   "collections": [
     {
-      "id": "2f050142-5d99-4d3a-a37f-9dc2069b630c",
+      "id": "0480a15b-8ff4-4961-a4d2-f06767534081",
       "key": "Apple TV",
       "label_ids": [
-        "e8a311b3-bb1f-4b3c-83e8-d71e9637fa09",
-        "1b0ab752-37c6-4784-b5a4-ff1db0a3e2d9",
-        "b5ad9f06-788f-40c3-82a6-b29fb5481d18"
+        "29743087-8fd3-4a33-bea9-f7f5e5da7ea5",
+        "c69dff8a-b9e0-42ce-9314-cd9b39be6567",
+        "0bcbd576-69ef-42e3-94f6-6e477707dfe3"
       ]
     }
   ],
   "labels": [
     {
-      "id": "e8a311b3-bb1f-4b3c-83e8-d71e9637fa09",
+      "id": "29743087-8fd3-4a33-bea9-f7f5e5da7ea5",
       "key": "MR912LL/A",
       "upc": "190198667250",
       "tag_color": "000000",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "1b0ab752-37c6-4784-b5a4-ff1db0a3e2d9",
+      "id": "c69dff8a-b9e0-42ce-9314-cd9b39be6567",
       "key": "MQD22LL/A",
       "upc": 190198463845,
       "tag_color": "000000",
@@ -32,7 +32,7 @@
       }
     },
     {
-      "id": "b5ad9f06-788f-40c3-82a6-b29fb5481d18",
+      "id": "0bcbd576-69ef-42e3-94f6-6e477707dfe3",
       "key": "MP7P2LL/A",
       "upc": 190198463531,
       "tag_color": "000000",

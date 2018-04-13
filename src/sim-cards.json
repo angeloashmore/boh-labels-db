@@ -1,26 +1,26 @@
 {
   "collections": [
     {
-      "id": "3a800a86-49a0-4f89-98de-adc99a88c27e",
+      "id": "9f81bbb1-3f13-43ae-9a33-67cf79c4f482",
       "key": "SIM Card",
       "label_ids": [
-        "2e4743a8-70b8-4e49-abf6-6492fca12f22",
-        "d94820e0-ca5a-4cc6-9669-a30eabc7f81a",
-        "9eb1603e-0ce1-416c-b753-146fa81fed17",
-        "20e51927-8622-4c81-8ae8-cf9e3c3f1fc3",
-        "52a5abc2-f2be-4a30-8619-0283034afbbc",
-        "3273b778-184f-4156-ad4b-4144ccfdbaaa",
-        "68038afe-89f3-4d57-b0b3-d6609025ea9d",
-        "9d10d2f7-5ef2-4b41-921f-e8fead6b7294",
-        "72cb3fd5-a661-49b2-9a22-a94c8db5a055",
-        "289dadcd-50ce-4e17-9109-00d5b6d80f0f",
-        "c7560a3f-ca9d-46ac-9a48-998e7616ab11"
+        "4ab5c308-22c5-4ba0-8a34-8bda66bc00fd",
+        "90a4e823-69f4-4ba6-b2e9-f9c8ae200949",
+        "437d281e-d7b4-40f3-8873-e91382ff45b6",
+        "a10af6af-95a5-493a-a017-f423f2c3612a",
+        "8bc6236a-8429-4cf7-a28a-cce0f224d09e",
+        "bef7cdc9-3020-4e33-aed7-72ff10c23d49",
+        "17783d7c-4dd6-4683-b7cd-ff2d3d309a21",
+        "6cca5368-dcf5-42bc-adc2-0ebc2babac68",
+        "c7915f30-fc42-49f7-b659-f53ff73bd613",
+        "32be28f3-2118-4fc2-afb5-4ba21e41023c",
+        "181572d2-7b33-49b3-b0ab-5d93a0a24ddf"
       ]
     }
   ],
   "labels": [
     {
-      "id": "2e4743a8-70b8-4e49-abf6-6492fca12f22",
+      "id": "4ab5c308-22c5-4ba0-8a34-8bda66bc00fd",
       "key": "MJVV2LL/A",
       "upc": 888462111010,
       "tag_color": 333333,
@@ -31,7 +31,7 @@
       }
     },
     {
-      "id": "d94820e0-ca5a-4cc6-9669-a30eabc7f81a",
+      "id": "90a4e823-69f4-4ba6-b2e9-f9c8ae200949",
       "key": "HD566LL/A",
       "upc": 607376073630,
       "tag_color": "006ae5",
@@ -42,7 +42,7 @@
       }
     },
     {
-      "id": "9eb1603e-0ce1-416c-b753-146fa81fed17",
+      "id": "437d281e-d7b4-40f3-8873-e91382ff45b6",
       "key": "HE507LL/A",
       "upc": 607376019881,
       "tag_color": "006ae5",
@@ -54,7 +54,7 @@
       }
     },
     {
-      "id": "20e51927-8622-4c81-8ae8-cf9e3c3f1fc3",
+      "id": "a10af6af-95a5-493a-a017-f423f2c3612a",
       "key": "HD565LL/A",
       "upc": 607376019560,
       "tag_color": "006ae5",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "id": "52a5abc2-f2be-4a30-8619-0283034afbbc",
+      "id": "8bc6236a-8429-4cf7-a28a-cce0f224d09e",
       "key": "H7599LL/A",
       "upc": 885909539970,
       "tag_color": "f5c423",
@@ -77,7 +77,7 @@
       }
     },
     {
-      "id": "3273b778-184f-4156-ad4b-4144ccfdbaaa",
+      "id": "bef7cdc9-3020-4e33-aed7-72ff10c23d49",
       "key": "HB155LL/A",
       "upc": 760492013536,
       "tag_color": "f5c423",
@@ -89,7 +89,7 @@
       }
     },
     {
-      "id": "68038afe-89f3-4d57-b0b3-d6609025ea9d",
+      "id": "17783d7c-4dd6-4683-b7cd-ff2d3d309a21",
       "key": "HHK42LL/A",
       "upc": 760492031912,
       "tag_color": "f5c423",
@@ -100,7 +100,7 @@
       }
     },
     {
-      "id": "9d10d2f7-5ef2-4b41-921f-e8fead6b7294",
+      "id": "6cca5368-dcf5-42bc-adc2-0ebc2babac68",
       "key": "H7598LL/A",
       "upc": 885909539963,
       "tag_color": "ff2121",
@@ -111,7 +111,7 @@
       }
     },
     {
-      "id": "72cb3fd5-a661-49b2-9a22-a94c8db5a055",
+      "id": "c7915f30-fc42-49f7-b659-f53ff73bd613",
       "key": "HA406LL/A",
       "upc": 840168090211,
       "tag_color": "ff2121",
@@ -122,7 +122,7 @@
       }
     },
     {
-      "id": "289dadcd-50ce-4e17-9109-00d5b6d80f0f",
+      "id": "32be28f3-2118-4fc2-afb5-4ba21e41023c",
       "key": "HB928LL/A",
       "upc": 610214631039,
       "tag_color": "ff2194",
@@ -133,7 +133,7 @@
       }
     },
     {
-      "id": "c7560a3f-ca9d-46ac-9a48-998e7616ab11",
+      "id": "181572d2-7b33-49b3-b0ab-5d93a0a24ddf",
       "key": "HG5W2LL/A",
       "upc": 610214628398,
       "tag_color": "ff2194",

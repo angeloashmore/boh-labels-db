@@ -1,26 +1,26 @@
 {
   "collections": [
     {
-      "id": "7eef13c2-df21-42e9-a7fb-c6d812b56875",
+      "id": "e70b2059-78e3-430c-9622-16190ee8b3ea",
       "key": "Watch Series 1",
       "label_ids": [
-        "b7899597-a1e4-4d52-a3f3-da10dafd6d17",
-        "63aa90e7-fcee-4ebc-88f3-cc87e7c2f425",
-        "c66a3d33-4fb4-4f7a-a37e-3b94d165b419",
-        "25e43eb1-0f3b-4041-a66a-3b3b0799f137",
-        "4e7ad454-adb5-47bc-b85d-f791b286e05d",
-        "5ee07451-9f6c-42ba-a889-9ff0da52e849",
-        "17c4aa8c-7aa7-4f2c-b255-5cf37c128265",
-        "b4977407-0612-4ace-b209-e191590c95e8",
-        "67f3066b-97de-4d9b-9c73-cb79a1d298a9",
-        "e0eb40ba-1f83-41a7-aecd-12cbfd7c4da1",
-        "b3c85f41-0e12-485d-8cd6-6178d9a0fef6"
+        "e260026d-388e-45a2-98b0-4ff990cb97ec",
+        "7e05d4b6-7a1c-44b6-b2d6-238eb22532a0",
+        "b279cfe5-8bca-44af-b8ff-48c939bbd6de",
+        "bcb44ab8-a478-4664-a09e-6efb26b3c7ab",
+        "3814cd10-4215-4782-ab0b-7f01fe43da0c",
+        "a7e6373c-96c1-4ad3-af94-8aa7d3bf764f",
+        "068d2aa2-cc09-4ef4-999f-3f88ec9b8ae9",
+        "d38b5672-0a3a-45a8-bf70-2b7fc7943d8c",
+        "f47e76e0-f59d-4f8e-91f1-70335958c866",
+        "1edfa54c-b8ec-4271-9c08-e05324de361f",
+        "38bf33aa-fd30-4fa0-acd5-b9e991c0d803"
       ]
     }
   ],
   "labels": [
     {
-      "id": "b7899597-a1e4-4d52-a3f3-da10dafd6d17",
+      "id": "e260026d-388e-45a2-98b0-4ff990cb97ec",
       "key": "MNNH2LL/A",
       "upc": 190198131522,
       "tag_color": 333333,
@@ -32,7 +32,7 @@
       }
     },
     {
-      "id": "63aa90e7-fcee-4ebc-88f3-cc87e7c2f425",
+      "id": "7e05d4b6-7a1c-44b6-b2d6-238eb22532a0",
       "key": "MNNG2LL/A",
       "upc": 190198131515,
       "tag_color": 333333,
@@ -44,7 +44,7 @@
       }
     },
     {
-      "id": "c66a3d33-4fb4-4f7a-a37e-3b94d165b419",
+      "id": "b279cfe5-8bca-44af-b8ff-48c939bbd6de",
       "key": "MP022LL/A",
       "upc": 190198206947,
       "tag_color": 333333,
@@ -56,7 +56,7 @@
       }
     },
     {
-      "id": "25e43eb1-0f3b-4041-a66a-3b3b0799f137",
+      "id": "bcb44ab8-a478-4664-a09e-6efb26b3c7ab",
       "key": "MNNJ2LL/A",
       "upc": 190198131539,
       "tag_color": 333333,
@@ -68,7 +68,7 @@
       }
     },
     {
-      "id": "4e7ad454-adb5-47bc-b85d-f791b286e05d",
+      "id": "3814cd10-4215-4782-ab0b-7f01fe43da0c",
       "key": "MQ102LL/A",
       "upc": 190198396617,
       "tag_color": 333333,
@@ -80,7 +80,7 @@
       }
     },
     {
-      "id": "5ee07451-9f6c-42ba-a889-9ff0da52e849",
+      "id": "a7e6373c-96c1-4ad3-af94-8aa7d3bf764f",
       "key": "MNNM2LL/A",
       "upc": 190198131560,
       "tag_color": 333333,
@@ -92,7 +92,7 @@
       }
     },
     {
-      "id": "17c4aa8c-7aa7-4f2c-b255-5cf37c128265",
+      "id": "068d2aa2-cc09-4ef4-999f-3f88ec9b8ae9",
       "key": "MQ112LL/A",
       "upc": 190198396877,
       "tag_color": 333333,
@@ -104,7 +104,7 @@
       }
     },
     {
-      "id": "b4977407-0612-4ace-b209-e191590c95e8",
+      "id": "d38b5672-0a3a-45a8-bf70-2b7fc7943d8c",
       "key": "MNNL2LL/A",
       "upc": 190198131553,
       "tag_color": 333333,
@@ -116,7 +116,7 @@
       }
     },
     {
-      "id": "67f3066b-97de-4d9b-9c73-cb79a1d298a9",
+      "id": "f47e76e0-f59d-4f8e-91f1-70335958c866",
       "key": "MP032LL/A",
       "upc": 190198207609,
       "tag_color": 333333,
@@ -128,7 +128,7 @@
       }
     },
     {
-      "id": "e0eb40ba-1f83-41a7-aecd-12cbfd7c4da1",
+      "id": "1edfa54c-b8ec-4271-9c08-e05324de361f",
       "key": "MNNN2LL/A",
       "upc": 190198131577,
       "tag_color": 333333,
@@ -140,7 +140,7 @@
       }
     },
     {
-      "id": "b3c85f41-0e12-485d-8cd6-6178d9a0fef6",
+      "id": "38bf33aa-fd30-4fa0-acd5-b9e991c0d803",
       "key": "MQ122LL/A",
       "upc": 190198397133,
       "tag_color": 333333,
